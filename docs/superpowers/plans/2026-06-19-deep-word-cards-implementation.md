@@ -100,7 +100,7 @@ window.ATLAS_DETAILS = {
     examples:[
       {type:'cet4',label:'CET-4 Context',text:'The full report is available in the university library.',translationCN:'完整报告可在大学图书馆查阅。',attributionType:'original',speakText:'The full report is available in the university library.'},
       {type:'literature',label:'Literature',text:'Elizabeth waited until a suitable carriage was available for the journey.',translationCN:'伊丽莎白等到有合适的马车可供出行。',attributionType:'literary-adaptation',sourceTitle:'Pride and Prejudice',sourceAuthor:'Jane Austen',speakText:'Elizabeth waited until a suitable carriage was available for the journey.'},
-      {type:'world',label:'World Now',text:'More open-source AI tools are becoming available to small businesses.',translationCN:'越来越多开源人工智能工具正向小企业开放。',attributionType:'current-context',sourceDate:'2026-06',speakText:'More open-source AI tools are becoming available to small businesses.'}
+      {type:'world',label:'World Now',text:'More open-source AI tools are becoming available to small businesses.',translationCN:'越来越多开源人工智能工具正向小企业开放。',attributionType:'current-context',sourceDate:'recent-years',speakText:'More open-source AI tools are becoming available to small businesses.'}
     ]
   }
 };
@@ -132,7 +132,7 @@ Record:
 
 - public-domain primary text sources: Project Gutenberg, Standard Ebooks, Wikisource;
 - current-context authoritative source pool: official institutions and primary company/organization releases first, reputable reporting second;
-- curation edition: June 2026;
+- current examples may draw from any still-relevant development in recent years and are not restricted to one calendar year;
 - direct quote maximum: one short sentence that naturally contains the target word;
 - adaptations must use `literary-adaptation`, never quotation marks;
 - current examples must use `current-context`, neutral paraphrase, and no claim of verbatim news wording;

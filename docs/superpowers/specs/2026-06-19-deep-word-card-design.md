@@ -69,9 +69,9 @@ Literary sources prioritize Project Gutenberg, Standard Ebooks, Wikisource, and 
 
 ### World Now
 
-Use an original learning sentence inspired by broadly documented recent or contemporary developments across technology, politics, climate, international affairs, culture, entertainment, business, science, and sport. It is marked `current-context`, not presented as a direct news quotation, and may include a short topic/source label when verified.
+Use an original learning sentence inspired by broadly documented developments from recent years across technology, politics, climate, international affairs, culture, entertainment, business, science, and sport. It is marked `current-context`, not presented as a direct news quotation, and may include a short topic/source label when verified.
 
-The corpus does not claim continuous real-time updates. A visible `Current context edition` date communicates when the material was curated.
+The corpus does not claim continuous real-time updates. Examples only need to remain recognizably contemporary and useful; they are not restricted to a single year or news cycle.
 
 ## Source Integrity Rules
 
