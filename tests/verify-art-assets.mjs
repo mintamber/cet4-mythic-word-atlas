@@ -58,6 +58,40 @@ function dimensionsWithSips(file) {
   return { width, height };
 }
 
+function dimensionsWithPillow(file) {
+  const script = [
+    'from PIL import Image',
+    'import sys',
+    'with Image.open(sys.argv[1]) as image:',
+    '    image.verify()',
+    'with Image.open(sys.argv[1]) as image:',
+    '    image.load()',
+    '    print(f"{image.width} {image.height}")',
+  ].join('\n');
+  const result = spawnSync('python3', ['-c', script, file], { encoding: 'utf8' });
+  if (result.error?.code === 'ENOENT') return null;
+  if (result.error) assert.fail(`${file}: unable to launch Pillow probe: ${result.error.message}`);
+  const stderr = result.stderr.trim();
+  if (result.status !== 0 && /No module named ['"]PIL/.test(stderr)) return null;
+  assert.equal(
+    result.status,
+    0,
+    `${file}: Pillow could not decode image${stderr ? `: ${stderr}` : ''}`,
+  );
+  const match = result.stdout.trim().match(/^(\d+) (\d+)$/);
+  assert.ok(match, `${file}: Pillow returned no image dimensions`);
+  return { width: Number(match[1]), height: Number(match[2]) };
+}
+
+function decodedDimensions(file) {
+  const dimensions = dimensionsWithSips(file) ?? dimensionsWithPillow(file);
+  assert.ok(
+    dimensions,
+    'No real image decoder is available; install macOS sips or Python 3 with Pillow',
+  );
+  return dimensions;
+}
+
 function crc32(bytes) {
   let crc = 0xffffffff;
   for (const byte of bytes) {
@@ -115,7 +149,10 @@ function pngDimensions(bytes, file) {
       assert.ok(bytes[payloadStart + 12] <= 1, `${file}: invalid PNG interlace method`);
       dimensions = { width, height };
     }
-    if (type === 'IDAT') sawIdat = true;
+    if (type === 'IDAT') {
+      assert.ok(payloadLength > 0, `${file}: invalid PNG empty IDAT`);
+      sawIdat = true;
+    }
     if (type === 'IEND') {
       assert.equal(payloadLength, 0, `${file}: invalid PNG IEND length`);
       assert.equal(chunkEnd, bytes.length, `${file}: invalid PNG data after IEND`);
@@ -144,7 +181,7 @@ function webpChunk(bytes, offset, file) {
 function webpImageDimensions(bytes, chunk, file) {
   const { type, payloadLength, payloadStart } = chunk;
   if (type === 'VP8 ') {
-    assert.ok(payloadLength >= 10, `${file}: truncated WebP VP8 payload`);
+    assert.ok(payloadLength > 10, `${file}: truncated WebP VP8 payload`);
     assert.equal(bytes[payloadStart] & 1, 0, `${file}: invalid WebP VP8 key frame`);
     assert.ok(
       bytes.subarray(payloadStart + 3, payloadStart + 6).equals(Buffer.from([0x9d, 0x01, 0x2a])),
@@ -156,7 +193,7 @@ function webpImageDimensions(bytes, chunk, file) {
     return { width, height };
   }
   if (type === 'VP8L') {
-    assert.ok(payloadLength >= 5, `${file}: truncated WebP VP8L payload`);
+    assert.ok(payloadLength > 5, `${file}: truncated WebP VP8L payload`);
     assert.equal(bytes[payloadStart], 0x2f, `${file}: invalid WebP VP8L signature`);
     const bits = bytes.readUInt32LE(payloadStart + 1);
     assert.equal(bits >>> 29, 0, `${file}: invalid WebP VP8L version`);
@@ -251,19 +288,65 @@ try {
     'fallback must reject malformed PNG headers',
   );
 
+  const pngChunkFixture = (type, payload) => {
+    const typeBytes = Buffer.from(type, 'ascii');
+    const chunk = Buffer.alloc(12 + payload.length);
+    chunk.writeUInt32BE(payload.length, 0);
+    typeBytes.copy(chunk, 4);
+    payload.copy(chunk, 8);
+    chunk.writeUInt32BE(crc32(Buffer.concat([typeBytes, payload])), 8 + payload.length);
+    return chunk;
+  };
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(1600, 0);
+  ihdr.writeUInt32BE(900, 4);
+  ihdr[8] = 8;
+  ihdr[9] = 2;
+  const headerOnlyPng = Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    pngChunkFixture('IHDR', ihdr),
+    pngChunkFixture('IDAT', Buffer.alloc(0)),
+    pngChunkFixture('IEND', Buffer.alloc(0)),
+  ]);
+  const headerOnlyPngPath = path.join(fixtureDirectory, 'header-only.png');
+  fs.writeFileSync(headerOnlyPngPath, headerOnlyPng);
+  assert.throws(
+    () => dimensionsFromFile(headerOnlyPngPath),
+    /invalid PNG empty IDAT/,
+    'fallback must reject a PNG with no compressed image payload',
+  );
+
   const malformedWebp = Buffer.alloc(30);
   malformedWebp.write('RIFF', 0, 'ascii');
   malformedWebp.writeUInt32LE(22, 4);
   malformedWebp.write('WEBPVP8 ', 8, 'ascii');
   malformedWebp.writeUInt32LE(10, 16);
+  malformedWebp[20] = 0;
+  malformedWebp.set([0x9d, 0x01, 0x2a], 23);
   malformedWebp.writeUInt16LE(1600, 26);
   malformedWebp.writeUInt16LE(900, 28);
   const malformedWebpPath = path.join(fixtureDirectory, 'malformed.webp');
   fs.writeFileSync(malformedWebpPath, malformedWebp);
   assert.throws(
     () => dimensionsFromFile(malformedWebpPath),
-    /invalid WebP|truncated WebP/,
-    'fallback must reject malformed WebP headers',
+    /truncated WebP VP8 payload/,
+    'fallback must reject header-only VP8',
+  );
+
+  const headerOnlyVp8l = Buffer.alloc(26);
+  headerOnlyVp8l.write('RIFF', 0, 'ascii');
+  headerOnlyVp8l.writeUInt32LE(18, 4);
+  headerOnlyVp8l.write('WEBPVP8L', 8, 'ascii');
+  headerOnlyVp8l.writeUInt32LE(5, 16);
+  headerOnlyVp8l[20] = 0x2f;
+  const vp8lBits = (1599 | (899 << 14)) >>> 0;
+  headerOnlyVp8l.writeUInt32LE(vp8lBits, 21);
+  const headerOnlyVp8lPath = path.join(fixtureDirectory, 'header-only-vp8l.webp');
+  fs.writeFileSync(headerOnlyVp8lPath, headerOnlyVp8l);
+  assert.throws(
+    () => dimensionsFromFile(headerOnlyVp8lPath),
+    /truncated WebP VP8L payload/,
+    'fallback must reject header-only VP8L',
   );
 } finally {
   fs.rmSync(fixtureDirectory, { recursive: true, force: true });
@@ -289,7 +372,13 @@ for (const entry of entries) {
     const file = path.join(root, relativePath);
     assert.ok(fs.existsSync(file), `${relativePath}: missing`);
     assert.ok(fs.statSync(file).size > 0, `${relativePath}: empty`);
-    const { width, height } = dimensionsWithSips(file) ?? dimensionsFromFile(file);
+    const structuralDimensions = dimensionsFromFile(file);
+    const { width, height } = decodedDimensions(file);
+    assert.deepEqual(
+      { width, height },
+      structuralDimensions,
+      `${relativePath}: decoder dimensions do not match image header`,
+    );
     assert.ok(width >= entry.expected.minWidth, `${relativePath}: width ${width} is too small`);
     assert.ok(height >= entry.expected.minHeight, `${relativePath}: height ${height} is too small`);
     if (entry.expected.aspect === 'square') {

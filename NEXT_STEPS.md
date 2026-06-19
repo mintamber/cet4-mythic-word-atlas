@@ -15,7 +15,8 @@ The illustrated-asset contract is defined on branch `feature/mythic-art-assets` 
 - Generated Day 1 Greek Oracle Temple background and badge as style anchors in the built-in ImageGen output directory; they are not yet copied into this branch.
 - Added a 21-entry manifest covering the homepage, ten scenes, and ten corresponding badges with stable paths, scene/day metadata, and expected aspect/dimension metadata.
 - Added a verifier for manifest/path uniqueness, role/day coverage, scene-to-badge correspondence, root-confined source/shipping paths, file existence and size, and image dimensions through `sips` with a strict built-in PNG/WebP fallback.
-- Hardened the fallback with PNG signature/chunk/CRC/IEND validation, WebP RIFF/chunk/codec-signature bounds validation, and malformed-header self-fixtures.
+- Hardened structural checks with PNG signature/chunk/CRC/payload/IEND validation, WebP RIFF/chunk/codec-signature bounds validation, and malformed/header-only self-fixtures.
+- Required every repository image to decode through macOS `sips` or Python Pillow; the verifier fails with a tooling message when neither real decoder is available.
 
 ### Files touched
 
@@ -29,7 +30,7 @@ The illustrated-asset contract is defined on branch `feature/mythic-art-assets` 
 
 - Placeholder scan for `TBD`, `TODO`, and `FIXME` on the design.
 - `git diff --check` before the design commit.
-- `node tests/verify-art-assets.mjs` — malformed-header and manifest/path checks pass, then expected RED at the first missing file: `assets/images/source/atlas-hero.png`.
+- `node tests/verify-art-assets.mjs` — malformed/header-only and manifest/path checks pass, then expected RED at the first missing file: `assets/images/source/atlas-hero.png`.
 - `node --check tests/verify-art-assets.mjs` — passed.
 - `git diff --check` — passed before the contract commit.
 
