@@ -1,0 +1,191 @@
+[
+  {
+    "id": "atlas-hero",
+    "role": "home",
+    "day": null,
+    "sceneId": null,
+    "source": "assets/images/source/atlas-hero.png",
+    "shipping": "assets/images/home/atlas-hero.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day01-oracle-temple",
+    "role": "scene",
+    "day": 1,
+    "sceneId": "oracle-temple",
+    "source": "assets/images/source/day01-oracle-temple.png",
+    "shipping": "assets/images/scenes/day01-oracle-temple.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day02-moonlit-library",
+    "role": "scene",
+    "day": 2,
+    "sceneId": "moonlit-library",
+    "source": "assets/images/source/day02-moonlit-library.png",
+    "shipping": "assets/images/scenes/day02-moonlit-library.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day03-nordic-snow-gate",
+    "role": "scene",
+    "day": 3,
+    "sceneId": "nordic-snow-gate",
+    "source": "assets/images/source/day03-nordic-snow-gate.png",
+    "shipping": "assets/images/scenes/day03-nordic-snow-gate.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day04-dragon-trial",
+    "role": "scene",
+    "day": 4,
+    "sceneId": "dragon-trial",
+    "source": "assets/images/source/day04-dragon-trial.png",
+    "shipping": "assets/images/scenes/day04-dragon-trial.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day05-mirror-castle",
+    "role": "scene",
+    "day": 5,
+    "sceneId": "mirror-castle",
+    "source": "assets/images/source/day05-mirror-castle.png",
+    "shipping": "assets/images/scenes/day05-mirror-castle.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day06-arabian-night-market",
+    "role": "scene",
+    "day": 6,
+    "sceneId": "arabian-night-market",
+    "source": "assets/images/source/day06-arabian-night-market.png",
+    "shipping": "assets/images/scenes/day06-arabian-night-market.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day07-glass-mountain",
+    "role": "scene",
+    "day": 7,
+    "sceneId": "glass-mountain",
+    "source": "assets/images/source/day07-glass-mountain.png",
+    "shipping": "assets/images/scenes/day07-glass-mountain.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day08-mermaid-harbor",
+    "role": "scene",
+    "day": 8,
+    "sceneId": "mermaid-harbor",
+    "source": "assets/images/source/day08-mermaid-harbor.png",
+    "shipping": "assets/images/scenes/day08-mermaid-harbor.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day09-labyrinth-of-echoes",
+    "role": "scene",
+    "day": 9,
+    "sceneId": "labyrinth-of-echoes",
+    "source": "assets/images/source/day09-labyrinth-of-echoes.png",
+    "shipping": "assets/images/scenes/day09-labyrinth-of-echoes.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day10-starry-academy",
+    "role": "scene",
+    "day": 10,
+    "sceneId": "starry-academy",
+    "source": "assets/images/source/day10-starry-academy.png",
+    "shipping": "assets/images/scenes/day10-starry-academy.webp",
+    "expected": { "aspect": "landscape", "minWidth": 1600, "minHeight": 900 }
+  },
+  {
+    "id": "day01-oracle-badge",
+    "role": "badge",
+    "day": 1,
+    "sceneId": "oracle-temple",
+    "source": "assets/images/source/day01-oracle-badge.png",
+    "shipping": "assets/images/badges/day01-oracle-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day02-library-badge",
+    "role": "badge",
+    "day": 2,
+    "sceneId": "moonlit-library",
+    "source": "assets/images/source/day02-library-badge.png",
+    "shipping": "assets/images/badges/day02-library-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day03-snow-gate-badge",
+    "role": "badge",
+    "day": 3,
+    "sceneId": "nordic-snow-gate",
+    "source": "assets/images/source/day03-snow-gate-badge.png",
+    "shipping": "assets/images/badges/day03-snow-gate-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day04-dragon-badge",
+    "role": "badge",
+    "day": 4,
+    "sceneId": "dragon-trial",
+    "source": "assets/images/source/day04-dragon-badge.png",
+    "shipping": "assets/images/badges/day04-dragon-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day05-mirror-badge",
+    "role": "badge",
+    "day": 5,
+    "sceneId": "mirror-castle",
+    "source": "assets/images/source/day05-mirror-badge.png",
+    "shipping": "assets/images/badges/day05-mirror-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day06-night-market-badge",
+    "role": "badge",
+    "day": 6,
+    "sceneId": "arabian-night-market",
+    "source": "assets/images/source/day06-night-market-badge.png",
+    "shipping": "assets/images/badges/day06-night-market-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day07-glass-mountain-badge",
+    "role": "badge",
+    "day": 7,
+    "sceneId": "glass-mountain",
+    "source": "assets/images/source/day07-glass-mountain-badge.png",
+    "shipping": "assets/images/badges/day07-glass-mountain-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day08-mermaid-harbor-badge",
+    "role": "badge",
+    "day": 8,
+    "sceneId": "mermaid-harbor",
+    "source": "assets/images/source/day08-mermaid-harbor-badge.png",
+    "shipping": "assets/images/badges/day08-mermaid-harbor-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day09-echo-labyrinth-badge",
+    "role": "badge",
+    "day": 9,
+    "sceneId": "labyrinth-of-echoes",
+    "source": "assets/images/source/day09-echo-labyrinth-badge.png",
+    "shipping": "assets/images/badges/day09-echo-labyrinth-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  },
+  {
+    "id": "day10-academy-badge",
+    "role": "badge",
+    "day": 10,
+    "sceneId": "starry-academy",
+    "source": "assets/images/source/day10-academy-badge.png",
+    "shipping": "assets/images/badges/day10-academy-badge.webp",
+    "expected": { "aspect": "square", "minWidth": 512, "minHeight": 512 }
+  }
+]
