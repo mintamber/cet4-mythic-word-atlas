@@ -1,0 +1,2287 @@
+{
+  "d01-available": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/əˈveɪləbl/",
+        "meaningCN": "可获得的；可利用的",
+        "meaningEN": "able to be obtained or used",
+        "pattern": "be available to/for"
+      }
+    ],
+    "collocations": [
+      "readily available",
+      "available resources"
+    ],
+    "wordFamily": [
+      "availability",
+      "unavailable"
+    ],
+    "synonyms": [
+      "accessible",
+      "obtainable"
+    ],
+    "antonyms": [
+      "unavailable",
+      "inaccessible"
+    ],
+    "usageNote": "指人或物可被取得、使用或联系；describes something obtainable or someone free.",
+    "speechText": "Available. The report is available online.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Reliable health information is now available through many university websites.",
+        "translationCN": "如今，许多大学网站都提供可靠的健康信息。",
+        "attributionType": "original",
+        "speakText": "Reliable health information is now available through many university websites."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 小妇人",
+        "text": "In the March household, every available hand joined the work before the guests arrived.",
+        "translationCN": "在马奇家，每个能帮忙的人都在客人到来前参与了准备。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "In the March household, every available hand joined the work before the guests arrived."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 开放数据",
+        "text": "Many cities make transport data available so developers can improve journey-planning tools.",
+        "translationCN": "许多城市公开交通数据，以便开发者改进行程规划工具。",
+        "attributionType": "current-context",
+        "speakText": "Many cities make transport data available so developers can improve journey-planning tools."
+      }
+    ]
+  },
+  "d01-individual": {
+    "senses": [
+      {
+        "pos": "adj./n.",
+        "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+        "meaningCN": "个人的；个体",
+        "meaningEN": "relating to one person; a single person",
+        "pattern": "an individual choice"
+      }
+    ],
+    "collocations": [
+      "individual needs",
+      "private individual"
+    ],
+    "wordFamily": [
+      "individuality",
+      "individually"
+    ],
+    "synonyms": [
+      "personal",
+      "person"
+    ],
+    "antonyms": [
+      "collective",
+      "group"
+    ],
+    "usageNote": "作形容词强调单独个体，作名词指个人；adjective or countable noun.",
+    "speechText": "Individual. Each individual has a different goal.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The tutor adjusted each assignment to the individual needs of the students.",
+        "translationCN": "导师根据学生各自的需要调整了每项作业。",
+        "attributionType": "original",
+        "speakText": "The tutor adjusted each assignment to the individual needs of the students."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 简爱",
+        "text": "Jane protects her individual judgment even when authority presses her to surrender it.",
+        "translationCN": "即使权威迫使简放弃判断，她仍坚持个人判断。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane protects her individual judgment even when authority presses her to surrender it."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 个性化学习",
+        "text": "Adaptive learning platforms can offer individual practice paths while teachers monitor the whole class.",
+        "translationCN": "自适应学习平台可以提供个性化练习路径，同时教师关注全班情况。",
+        "attributionType": "current-context",
+        "speakText": "Adaptive learning platforms can offer individual practice paths while teachers monitor the whole class."
+      }
+    ]
+  },
+  "d01-particular": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/pəˈtɪkjələ(r)/",
+        "meaningCN": "特定的；特别的",
+        "meaningEN": "specific rather than general",
+        "pattern": "in particular"
+      }
+    ],
+    "collocations": [
+      "particular attention",
+      "no particular reason"
+    ],
+    "wordFamily": [
+      "particularly",
+      "particularity"
+    ],
+    "synonyms": [
+      "specific",
+      "distinctive"
+    ],
+    "antonyms": [
+      "general",
+      "ordinary"
+    ],
+    "usageNote": "限定某一个或表示格外；use in particular to highlight one item.",
+    "speechText": "Particular. She showed particular interest in history.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The survey asks whether any particular campus service needs improvement.",
+        "translationCN": "调查询问是否有某项特定的校园服务需要改进。",
+        "attributionType": "original",
+        "speakText": "The survey asks whether any particular campus service needs improvement."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 傲慢与偏见",
+        "text": "Elizabeth feels no particular wish to please Darcy at their first meetings.",
+        "translationCN": "在最初几次见面时，伊丽莎白并不特别想讨好达西。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Elizabeth feels no particular wish to please Darcy at their first meetings."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 极端天气",
+        "text": "Heat alerts increasingly target particular neighborhoods where shade and cooling are scarce.",
+        "translationCN": "高温预警越来越多地针对缺少树荫和降温设施的特定社区。",
+        "attributionType": "current-context",
+        "speakText": "Heat alerts increasingly target particular neighborhoods where shade and cooling are scarce."
+      }
+    ]
+  },
+  "d01-significant": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/sɪɡˈnɪfɪkənt/",
+        "meaningCN": "重要的；显著的",
+        "meaningEN": "important or large enough to be noticed",
+        "pattern": "a significant increase"
+      }
+    ],
+    "collocations": [
+      "significant difference",
+      "statistically significant"
+    ],
+    "wordFamily": [
+      "significance",
+      "significantly"
+    ],
+    "synonyms": [
+      "important",
+      "substantial"
+    ],
+    "antonyms": [
+      "insignificant",
+      "minor"
+    ],
+    "usageNote": "既可表重要，也可表数量大到值得注意；means important or noticeable in size.",
+    "speechText": "Significant. The policy caused a significant change.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Regular feedback produced a significant improvement in the students' writing.",
+        "translationCN": "定期反馈使学生的写作有了显著提高。",
+        "attributionType": "original",
+        "speakText": "Regular feedback produced a significant improvement in the students' writing."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 双城记",
+        "text": "A significant silence falls over the courtroom as the witness changes his account.",
+        "translationCN": "当证人改变说法时，法庭陷入意味深长的沉默。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Tale of Two Cities",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "A significant silence falls over the courtroom as the witness changes his account."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 清洁能源",
+        "text": "Solar and wind power now make a significant contribution to electricity generation in many countries.",
+        "translationCN": "太阳能和风能如今在许多国家的发电结构中占有重要份额。",
+        "attributionType": "current-context",
+        "speakText": "Solar and wind power now make a significant contribution to electricity generation in many countries."
+      }
+    ]
+  },
+  "d01-essential": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ɪˈsenʃl/",
+        "meaningCN": "必不可少的；本质的",
+        "meaningEN": "completely necessary; basic",
+        "pattern": "be essential for/to"
+      }
+    ],
+    "collocations": [
+      "essential skill",
+      "absolutely essential"
+    ],
+    "wordFamily": [
+      "essence",
+      "essentially"
+    ],
+    "synonyms": [
+      "necessary",
+      "fundamental"
+    ],
+    "antonyms": [
+      "optional",
+      "unnecessary"
+    ],
+    "usageNote": "强调不可缺少或最根本；stronger than useful or important.",
+    "speechText": "Essential. Water is essential for life.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Clear communication is essential for successful teamwork.",
+        "translationCN": "清晰的沟通对于成功的团队合作必不可少。",
+        "attributionType": "original",
+        "speakText": "Clear communication is essential for successful teamwork."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 鲁滨逊漂流记",
+        "text": "On the island, Crusoe learns that patience is as essential as food and shelter.",
+        "translationCN": "在岛上，克鲁索明白耐心和食物、住所同样不可或缺。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Robinson Crusoe",
+        "sourceAuthor": "Daniel Defoe",
+        "speakText": "On the island, Crusoe learns that patience is as essential as food and shelter."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 公共卫生",
+        "text": "Accurate local data remain essential when health agencies plan vaccination campaigns.",
+        "translationCN": "卫生机构规划疫苗接种行动时，准确的本地数据仍然至关重要。",
+        "attributionType": "current-context",
+        "speakText": "Accurate local data remain essential when health agencies plan vaccination campaigns."
+      }
+    ]
+  },
+  "d01-relevant": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈreləvənt/",
+        "meaningCN": "相关的；切题的",
+        "meaningEN": "closely connected with the subject",
+        "pattern": "relevant to"
+      }
+    ],
+    "collocations": [
+      "relevant evidence",
+      "directly relevant"
+    ],
+    "wordFamily": [
+      "relevance",
+      "irrelevant"
+    ],
+    "synonyms": [
+      "related",
+      "applicable"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "unrelated"
+    ],
+    "usageNote": "固定搭配 relevant to，不用 relevant with；closely connected to the matter.",
+    "speechText": "Relevant. Please provide relevant evidence.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Applicants should include only experience relevant to the position.",
+        "translationCN": "申请者只应列出与该职位相关的经历。",
+        "attributionType": "original",
+        "speakText": "Applicants should include only experience relevant to the position."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 福尔摩斯探案",
+        "text": "Holmes separates the relevant footprint from a confusion of marks on the ground.",
+        "translationCN": "福尔摩斯从地面杂乱的痕迹中辨出相关的脚印。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Hound of the Baskervilles",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "Holmes separates the relevant footprint from a confusion of marks on the ground."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 人工智能治理",
+        "text": "Regulators seek relevant evidence about how automated systems affect different communities.",
+        "translationCN": "监管机构寻找有关自动化系统如何影响不同群体的相关证据。",
+        "attributionType": "current-context",
+        "speakText": "Regulators seek relevant evidence about how automated systems affect different communities."
+      }
+    ]
+  },
+  "d01-adequate": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈædɪkwət/",
+        "meaningCN": "足够的；合格的",
+        "meaningEN": "enough or satisfactory for a purpose",
+        "pattern": "adequate for/to do"
+      }
+    ],
+    "collocations": [
+      "adequate funding",
+      "perfectly adequate"
+    ],
+    "wordFamily": [
+      "adequacy",
+      "adequately",
+      "inadequate"
+    ],
+    "synonyms": [
+      "sufficient",
+      "satisfactory"
+    ],
+    "antonyms": [
+      "inadequate",
+      "insufficient"
+    ],
+    "usageNote": "表示达到最低需要，未必很好；enough for a purpose, not necessarily excellent.",
+    "speechText": "Adequate. The room provides adequate space.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Students need adequate time to check their sources before submitting an essay.",
+        "translationCN": "学生在提交论文前需要有足够时间核查资料来源。",
+        "attributionType": "original",
+        "speakText": "Students need adequate time to check their sources before submitting an essay."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 秘密花园",
+        "text": "Mary finds the plain room adequate once fresh air and friendship brighten her days.",
+        "translationCN": "当新鲜空气和友谊照亮生活后，玛丽觉得那间朴素的房间已经够用了。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Secret Garden",
+        "sourceAuthor": "Frances Hodgson Burnett",
+        "speakText": "Mary finds the plain room adequate once fresh air and friendship brighten her days."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 城市降温",
+        "text": "Cities are testing whether tree cover provides adequate protection during longer heat waves.",
+        "translationCN": "各城市正在检验树木覆盖能否在持续更久的热浪中提供充分保护。",
+        "attributionType": "current-context",
+        "speakText": "Cities are testing whether tree cover provides adequate protection during longer heat waves."
+      }
+    ]
+  },
+  "d01-previous": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈpriːviəs/",
+        "meaningCN": "先前的；以前的",
+        "meaningEN": "happening or existing before now",
+        "pattern": "previous to"
+      }
+    ],
+    "collocations": [
+      "previous experience",
+      "previous owner"
+    ],
+    "wordFamily": [
+      "previously"
+    ],
+    "synonyms": [
+      "earlier",
+      "prior"
+    ],
+    "antonyms": [
+      "following",
+      "subsequent"
+    ],
+    "usageNote": "只作定语时常指紧接之前；previously 是副词“先前”。",
+    "speechText": "Previous. Previous studies reached similar results.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Unlike the previous experiment, this trial included a larger sample.",
+        "translationCN": "与先前的实验不同，这次试验纳入了更大的样本。",
+        "attributionType": "original",
+        "speakText": "Unlike the previous experiment, this trial included a larger sample."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 远大前程",
+        "text": "Pip measures his new ambitions against the simpler hopes of his previous life.",
+        "translationCN": "皮普把新的抱负同自己从前生活中更朴素的愿望相比较。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Pip measures his new ambitions against the simpler hopes of his previous life."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 气候记录",
+        "text": "Recent temperature records have exceeded many previous national highs.",
+        "translationCN": "近年的气温纪录已超过许多国家此前的最高值。",
+        "attributionType": "current-context",
+        "speakText": "Recent temperature records have exceeded many previous national highs."
+      }
+    ]
+  },
+  "d01-current": {
+    "senses": [
+      {
+        "pos": "adj./n.",
+        "phonetic": "/ˈkʌrənt/",
+        "meaningCN": "当前的；水流",
+        "meaningEN": "happening now; a flow of water or air",
+        "pattern": "current affairs"
+      }
+    ],
+    "collocations": [
+      "current situation",
+      "ocean current"
+    ],
+    "wordFamily": [
+      "currently",
+      "currency"
+    ],
+    "synonyms": [
+      "present",
+      "flow"
+    ],
+    "antonyms": [
+      "past",
+      "outdated"
+    ],
+    "usageNote": "形容词表当前，名词表水流、电流等；currently means at present.",
+    "speechText": "Current. The current situation remains uncertain.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The library revised its opening hours to match current student demand.",
+        "translationCN": "图书馆调整了开放时间，以适应当前学生的需求。",
+        "attributionType": "original",
+        "speakText": "The library revised its opening hours to match current student demand."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 白鲸",
+        "text": "A powerful current carries the Pequod toward waters that unsettle the crew.",
+        "translationCN": "一股强劲洋流把裴廓德号带向令船员不安的海域。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Moby-Dick",
+        "sourceAuthor": "Herman Melville",
+        "speakText": "A powerful current carries the Pequod toward waters that unsettle the crew."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 电池技术",
+        "text": "Current battery research focuses on cost, safety, charging speed, and material supply.",
+        "translationCN": "当前的电池研究关注成本、安全、充电速度和材料供应。",
+        "attributionType": "current-context",
+        "speakText": "Current battery research focuses on cost, safety, charging speed, and material supply."
+      }
+    ]
+  },
+  "d01-average": {
+    "senses": [
+      {
+        "pos": "adj./n.",
+        "phonetic": "/ˈævərɪdʒ/",
+        "meaningCN": "平均的；平均数",
+        "meaningEN": "typical or calculated as a mean",
+        "pattern": "on average"
+      }
+    ],
+    "collocations": [
+      "average income",
+      "above average"
+    ],
+    "wordFamily": [
+      "average"
+    ],
+    "synonyms": [
+      "mean",
+      "typical"
+    ],
+    "antonyms": [
+      "exceptional",
+      "extreme"
+    ],
+    "usageNote": "average 可指算术平均，也可指普通水平；on average 作状语。",
+    "speechText": "Average. The average score rose this year.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "On average, commuters saved twelve minutes by taking the new route.",
+        "translationCN": "平均而言，通勤者走新路线节省了十二分钟。",
+        "attributionType": "original",
+        "speakText": "On average, commuters saved twelve minutes by taking the new route."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 爱丽丝梦游仙境",
+        "text": "Nothing about Alice's afternoon remains average after the White Rabbit passes by.",
+        "translationCN": "白兔经过后，爱丽丝的下午再也没有任何普通之处。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Alice's Adventures in Wonderland",
+        "sourceAuthor": "Lewis Carroll",
+        "speakText": "Nothing about Alice's afternoon remains average after the White Rabbit passes by."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 海平面",
+        "text": "Global average sea level continues to rise as oceans warm and land ice melts.",
+        "translationCN": "随着海洋变暖和陆地冰融化，全球平均海平面持续上升。",
+        "attributionType": "current-context",
+        "speakText": "Global average sea level continues to rise as oceans warm and land ice melts."
+      }
+    ]
+  },
+  "d01-specific": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/spəˈsɪfɪk/",
+        "meaningCN": "明确的；具体的",
+        "meaningEN": "clearly defined and exact",
+        "pattern": "specific to"
+      }
+    ],
+    "collocations": [
+      "specific purpose",
+      "be specific about"
+    ],
+    "wordFamily": [
+      "specifically",
+      "specificity"
+    ],
+    "synonyms": [
+      "precise",
+      "particular"
+    ],
+    "antonyms": [
+      "general",
+      "vague"
+    ],
+    "usageNote": "强调清楚精确；specific to 还可表示某物独有。",
+    "speechText": "Specific. Give a specific reason for your choice.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The professor asked for a specific example rather than a broad claim.",
+        "translationCN": "教授要求给出一个具体例子，而不是笼统的说法。",
+        "attributionType": "original",
+        "speakText": "The professor asked for a specific example rather than a broad claim."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 格列佛游记",
+        "text": "Gulliver records the specific customs of each strange society he visits.",
+        "translationCN": "格列佛记录了他所到访的每个奇异社会的具体习俗。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Gulliver's Travels",
+        "sourceAuthor": "Jonathan Swift",
+        "speakText": "Gulliver records the specific customs of each strange society he visits."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 疾病监测",
+        "text": "Wastewater monitoring can reveal specific disease trends without identifying individual residents.",
+        "translationCN": "污水监测可以揭示特定疾病趋势，而不会识别居民个人。",
+        "attributionType": "current-context",
+        "speakText": "Wastewater monitoring can reveal specific disease trends without identifying individual residents."
+      }
+    ]
+  },
+  "d01-considerable": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/kənˈsɪdərəbl/",
+        "meaningCN": "相当大的；重要的",
+        "meaningEN": "fairly large in amount or degree",
+        "pattern": "a considerable amount of"
+      }
+    ],
+    "collocations": [
+      "considerable effort",
+      "considerable influence"
+    ],
+    "wordFamily": [
+      "considerably",
+      "consider"
+    ],
+    "synonyms": [
+      "substantial",
+      "sizeable"
+    ],
+    "antonyms": [
+      "slight",
+      "negligible"
+    ],
+    "usageNote": "修饰数量、程度，语气比 large 更正式；considerably 是副词。",
+    "speechText": "Considerable. The project required considerable effort.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Learning to evaluate online sources requires considerable patience and practice.",
+        "translationCN": "学会评估网络资料需要相当多的耐心和练习。",
+        "attributionType": "original",
+        "speakText": "Learning to evaluate online sources requires considerable patience and practice."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 金银岛",
+        "text": "Jim shows considerable courage when he slips away from the pirates.",
+        "translationCN": "吉姆从海盗身边溜走时表现出非凡的勇气。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Treasure Island",
+        "sourceAuthor": "Robert Louis Stevenson",
+        "speakText": "Jim shows considerable courage when he slips away from the pirates."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 芯片制造",
+        "text": "Building advanced semiconductor facilities demands considerable capital, energy, water, and expertise.",
+        "translationCN": "建设先进半导体工厂需要大量资金、能源、水和专业知识。",
+        "attributionType": "current-context",
+        "speakText": "Building advanced semiconductor facilities demands considerable capital, energy, water, and expertise."
+      }
+    ]
+  },
+  "d01-likely": {
+    "senses": [
+      {
+        "pos": "adj./adv.",
+        "phonetic": "/ˈlaɪkli/",
+        "meaningCN": "可能的；很可能",
+        "meaningEN": "probable or probably",
+        "pattern": "be likely to do"
+      }
+    ],
+    "collocations": [
+      "most likely",
+      "likely outcome"
+    ],
+    "wordFamily": [
+      "likelihood",
+      "unlikely"
+    ],
+    "synonyms": [
+      "probable",
+      "expected"
+    ],
+    "antonyms": [
+      "unlikely",
+      "improbable"
+    ],
+    "usageNote": "作形容词时常用 be likely to do；作副词时可说 will likely do，表示“很可能会……”。",
+    "speechText": "Likely. Prices are likely to rise.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Students are more likely to remember ideas they connect with examples.",
+        "translationCN": "学生更有可能记住那些与实例联系起来的观点。",
+        "attributionType": "original",
+        "speakText": "Students are more likely to remember ideas they connect with examples."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 黑骏马",
+        "text": "A gentle driver is likely to earn Black Beauty's trust more quickly than a harsh one.",
+        "translationCN": "温和的车夫比粗暴的车夫更可能迅速赢得黑骏马的信任。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Black Beauty",
+        "sourceAuthor": "Anna Sewell",
+        "speakText": "A gentle driver is likely to earn Black Beauty's trust more quickly than a harsh one."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 高温风险",
+        "text": "Densely built neighborhoods with little shade are likely to experience greater heat stress.",
+        "translationCN": "建筑密集且缺少树荫的社区更可能承受较严重的热应激。",
+        "attributionType": "current-context",
+        "speakText": "Densely built neighborhoods with little shade are likely to experience greater heat stress."
+      }
+    ]
+  },
+  "d01-negative": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈneɡətɪv/",
+        "meaningCN": "消极的；否定的；负的",
+        "meaningEN": "bad, denying, or below zero",
+        "pattern": "have a negative effect on"
+      }
+    ],
+    "collocations": [
+      "negative impact",
+      "negative number"
+    ],
+    "wordFamily": [
+      "negatively",
+      "negativity"
+    ],
+    "synonyms": [
+      "adverse",
+      "unfavorable"
+    ],
+    "antonyms": [
+      "positive",
+      "affirmative"
+    ],
+    "usageNote": "可表不利、否定或负数；语境决定含义。",
+    "speechText": "Negative. Negative comments reduced her confidence.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Too little sleep can have a negative effect on concentration.",
+        "translationCN": "睡眠太少会对注意力产生负面影响。",
+        "attributionType": "original",
+        "speakText": "Too little sleep can have a negative effect on concentration."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 圣诞颂歌",
+        "text": "Scrooge's negative view of generosity begins to change during the night's visits.",
+        "translationCN": "在夜间的几次造访中，斯克鲁奇对慷慨的消极看法开始改变。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Christmas Carol",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Scrooge's negative view of generosity begins to change during the night's visits."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 社交媒体",
+        "text": "Researchers continue to study both positive and negative effects of social media on adolescents.",
+        "translationCN": "研究人员继续研究社交媒体对青少年的正面和负面影响。",
+        "attributionType": "current-context",
+        "speakText": "Researchers continue to study both positive and negative effects of social media on adolescents."
+      }
+    ]
+  },
+  "d01-positive": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈpɒzətɪv/",
+        "meaningCN": "积极的；肯定的；正的",
+        "meaningEN": "good, certain, or above zero",
+        "pattern": "have a positive effect on"
+      }
+    ],
+    "collocations": [
+      "positive attitude",
+      "positive result"
+    ],
+    "wordFamily": [
+      "positively",
+      "positivity"
+    ],
+    "synonyms": [
+      "favorable",
+      "constructive"
+    ],
+    "antonyms": [
+      "negative",
+      "adverse"
+    ],
+    "usageNote": "可表积极、有利、肯定或正数；avoid confusing with merely certain.",
+    "speechText": "Positive. The change had a positive effect.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Peer support created a positive atmosphere in the study group.",
+        "translationCN": "同伴支持在学习小组中营造了积极氛围。",
+        "attributionType": "original",
+        "speakText": "Peer support created a positive atmosphere in the study group."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 波莉安娜",
+        "text": "Pollyanna searches for one positive thought even when disappointment fills the room.",
+        "translationCN": "即使房间里充满失望，波莉安娜仍寻找一个积极的念头。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pollyanna",
+        "sourceAuthor": "Eleanor H. Porter",
+        "speakText": "Pollyanna searches for one positive thought even when disappointment fills the room."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 生态修复",
+        "text": "Wetland restoration can produce positive results for flood control, wildlife, and water quality.",
+        "translationCN": "湿地修复可为防洪、野生动物和水质带来积极成效。",
+        "attributionType": "current-context",
+        "speakText": "Wetland restoration can produce positive results for flood control, wildlife, and water quality."
+      }
+    ]
+  },
+  "d01-proper": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈprɒpə(r)/",
+        "meaningCN": "适当的；正确的",
+        "meaningEN": "right, suitable, or socially acceptable",
+        "pattern": "proper use of"
+      }
+    ],
+    "collocations": [
+      "proper procedure",
+      "properly trained"
+    ],
+    "wordFamily": [
+      "properly",
+      "improper"
+    ],
+    "synonyms": [
+      "appropriate",
+      "correct"
+    ],
+    "antonyms": [
+      "improper",
+      "unsuitable"
+    ],
+    "usageNote": "强调符合规则、目的或礼仪；properly 为副词。",
+    "speechText": "Proper. Proper planning can save time.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Laboratory equipment must be stored in the proper place after use.",
+        "translationCN": "实验室设备使用后必须存放在正确的位置。",
+        "attributionType": "original",
+        "speakText": "Laboratory equipment must be stored in the proper place after use."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 绿山墙的安妮",
+        "text": "Marilla teaches Anne the proper way to greet a guest, though imagination soon interrupts.",
+        "translationCN": "玛丽拉教安妮用合宜的方式问候客人，尽管想象力很快打了岔。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Anne of Green Gables",
+        "sourceAuthor": "Lucy Maud Montgomery",
+        "speakText": "Marilla teaches Anne the proper way to greet a guest, though imagination soon interrupts."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 电子废弃物",
+        "text": "Proper recycling keeps valuable metals in use and hazardous materials out of soil.",
+        "translationCN": "妥善回收可让有价值的金属继续利用，并防止有害物质进入土壤。",
+        "attributionType": "current-context",
+        "speakText": "Proper recycling keeps valuable metals in use and hazardous materials out of soil."
+      }
+    ]
+  },
+  "d01-typical": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈtɪpɪkl/",
+        "meaningCN": "典型的；有代表性的",
+        "meaningEN": "having the usual features of a type",
+        "pattern": "be typical of"
+      }
+    ],
+    "collocations": [
+      "typical example",
+      "typical behavior"
+    ],
+    "wordFamily": [
+      "typically",
+      "typicality"
+    ],
+    "synonyms": [
+      "representative",
+      "characteristic"
+    ],
+    "antonyms": [
+      "atypical",
+      "unusual"
+    ],
+    "usageNote": "typical of 表示具有某类常见特征；不等于 average in every case.",
+    "speechText": "Typical. This is a typical urban problem.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The chart shows a typical pattern of energy use across the day.",
+        "translationCN": "图表显示了一天中能源使用的典型模式。",
+        "attributionType": "original",
+        "speakText": "The chart shows a typical pattern of energy use across the day."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 柳林风声",
+        "text": "Rat's welcome is typical of the warm riverbank friendship Mole comes to treasure.",
+        "translationCN": "河鼠的欢迎体现了典型的河岸温情，鼹鼠后来对此十分珍惜。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Wind in the Willows",
+        "sourceAuthor": "Kenneth Grahame",
+        "speakText": "Rat's welcome is typical of the warm riverbank friendship Mole comes to treasure."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 混合办公",
+        "text": "A typical hybrid schedule combines remote work with several shared office days.",
+        "translationCN": "典型的混合办公安排把远程工作与每周若干共同到岗日结合起来。",
+        "attributionType": "current-context",
+        "speakText": "A typical hybrid schedule combines remote work with several shared office days."
+      }
+    ]
+  },
+  "d01-similar": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈsɪmələ(r)/",
+        "meaningCN": "相似的",
+        "meaningEN": "almost the same but not exactly",
+        "pattern": "similar to"
+      }
+    ],
+    "collocations": [
+      "similar results",
+      "remarkably similar"
+    ],
+    "wordFamily": [
+      "similarity",
+      "similarly"
+    ],
+    "synonyms": [
+      "alike",
+      "comparable"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar"
+    ],
+    "usageNote": "固定搭配 similar to，不用 similar with；means alike but not identical.",
+    "speechText": "Similar. The two methods produce similar results.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The two courses cover similar topics but use different teaching methods.",
+        "translationCN": "这两门课程涉及相似主题，但采用不同教学方法。",
+        "attributionType": "original",
+        "speakText": "The two courses cover similar topics but use different teaching methods."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 王子与贫儿",
+        "text": "Edward and Tom look similar enough for exchanged clothes to confuse everyone.",
+        "translationCN": "爱德华和汤姆长得十分相似，互换衣服后所有人都认错了。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Prince and the Pauper",
+        "sourceAuthor": "Mark Twain",
+        "speakText": "Edward and Tom look similar enough for exchanged clothes to confuse everyone."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 传染病预警",
+        "text": "Countries are building similar early-warning systems that combine laboratory and wastewater data.",
+        "translationCN": "各国正在建立类似的预警系统，结合实验室和污水数据。",
+        "attributionType": "current-context",
+        "speakText": "Countries are building similar early-warning systems that combine laboratory and wastewater data."
+      }
+    ]
+  },
+  "d01-various": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈveəriəs/",
+        "meaningCN": "各种各样的",
+        "meaningEN": "of several different kinds",
+        "pattern": "various kinds of"
+      }
+    ],
+    "collocations": [
+      "various reasons",
+      "in various ways"
+    ],
+    "wordFamily": [
+      "vary",
+      "variety",
+      "varied"
+    ],
+    "synonyms": [
+      "diverse",
+      "several"
+    ],
+    "antonyms": [
+      "uniform",
+      "single"
+    ],
+    "usageNote": "强调若干不同种类，后接复数名词；varied 强调多样性。",
+    "speechText": "Various. Students discussed various solutions.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Volunteers used various methods to encourage residents to save water.",
+        "translationCN": "志愿者采用多种方法鼓励居民节约用水。",
+        "attributionType": "original",
+        "speakText": "Volunteers used various methods to encourage residents to save water."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 八十天环游地球",
+        "text": "Fogg crosses various landscapes without allowing delay to disturb his calm.",
+        "translationCN": "福格穿越各种地貌，却不让延误扰乱自己的镇定。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Around the World in Eighty Days",
+        "sourceAuthor": "Jules Verne",
+        "speakText": "Fogg crosses various landscapes without allowing delay to disturb his calm."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 可再生能源",
+        "text": "Various storage technologies are being tested to balance electricity from wind and solar power.",
+        "translationCN": "人们正在测试多种储能技术，以平衡风能和太阳能发电。",
+        "attributionType": "current-context",
+        "speakText": "Various storage technologies are being tested to balance electricity from wind and solar power."
+      }
+    ]
+  },
+  "d01-frequent": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈfriːkwənt/",
+        "meaningCN": "频繁的；经常发生的",
+        "meaningEN": "happening often",
+        "pattern": "frequent visits"
+      }
+    ],
+    "collocations": [
+      "frequent contact",
+      "increasingly frequent"
+    ],
+    "wordFamily": [
+      "frequently",
+      "frequency"
+    ],
+    "synonyms": [
+      "regular",
+      "repeated"
+    ],
+    "antonyms": [
+      "rare",
+      "infrequent"
+    ],
+    "usageNote": "表示发生次数多；frequently 修饰动词，frequency 是频率。",
+    "speechText": "Frequent. Frequent practice improves memory.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Frequent short reviews are often more effective than one long study session.",
+        "translationCN": "频繁的短时复习往往比一次长时间学习更有效。",
+        "attributionType": "original",
+        "speakText": "Frequent short reviews are often more effective than one long study session."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 小公主",
+        "text": "Sara's frequent stories turn a cold attic into a place of imagined wonder.",
+        "translationCN": "萨拉经常讲故事，把冰冷的阁楼变成充满想象奇景的地方。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Little Princess",
+        "sourceAuthor": "Frances Hodgson Burnett",
+        "speakText": "Sara's frequent stories turn a cold attic into a place of imagined wonder."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 洪水适应",
+        "text": "More frequent urban flooding is prompting investment in drainage, wetlands, and warning systems.",
+        "translationCN": "更频繁的城市洪涝正推动排水、湿地和预警系统方面的投资。",
+        "attributionType": "current-context",
+        "speakText": "More frequent urban flooding is prompting investment in drainage, wetlands, and warning systems."
+      }
+    ]
+  },
+  "d02-indicate": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ˈɪndɪkeɪt/",
+        "meaningCN": "表明；指出",
+        "meaningEN": "to show that something is true",
+        "pattern": "indicate that"
+      }
+    ],
+    "collocations": [
+      "clearly indicate",
+      "indicate a trend"
+    ],
+    "wordFamily": [
+      "indication",
+      "indicator",
+      "indicative"
+    ],
+    "synonyms": [
+      "show",
+      "signal"
+    ],
+    "antonyms": [
+      "conceal",
+      "disprove"
+    ],
+    "usageNote": "可接名词或 that 从句，表示证据所显示；not normally followed by to do.",
+    "speechText": "Indicate. The data indicate a clear trend.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The results indicate that short breaks can improve attention.",
+        "translationCN": "结果表明，短暂休息可以提高注意力。",
+        "attributionType": "original",
+        "speakText": "The results indicate that short breaks can improve attention."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 德古拉",
+        "text": "Small marks on the window indicate that someone has entered Lucy's room.",
+        "translationCN": "窗户上的细小痕迹表明有人进入过露西的房间。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Dracula",
+        "sourceAuthor": "Bram Stoker",
+        "speakText": "Small marks on the window indicate that someone has entered Lucy's room."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 全球变暖",
+        "text": "Long-term observations indicate that oceans are absorbing most of the excess heat from global warming.",
+        "translationCN": "长期观测表明，海洋正在吸收全球变暖产生的大部分额外热量。",
+        "attributionType": "current-context",
+        "speakText": "Long-term observations indicate that oceans are absorbing most of the excess heat from global warming."
+      }
+    ]
+  },
+  "d02-involve": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ɪnˈvɒlv/",
+        "meaningCN": "涉及；包含；使参与",
+        "meaningEN": "to include or require as a part",
+        "pattern": "involve doing"
+      }
+    ],
+    "collocations": [
+      "involve risk",
+      "be actively involved"
+    ],
+    "wordFamily": [
+      "involvement",
+      "involved"
+    ],
+    "synonyms": [
+      "include",
+      "engage"
+    ],
+    "antonyms": [
+      "exclude",
+      "detach"
+    ],
+    "usageNote": "后接动名词，不接 to do；involve someone in something.",
+    "speechText": "Involve. The job involves working with children.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The research project will involve interviewing local business owners.",
+        "translationCN": "该研究项目将包括采访当地企业主。",
+        "attributionType": "original",
+        "speakText": "The research project will involve interviewing local business owners."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 雾都孤儿",
+        "text": "Oliver's search for safety begins to involve people from every level of London society.",
+        "translationCN": "奥利弗对安全的寻求开始牵涉伦敦社会各阶层的人。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Oliver Twist",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Oliver's search for safety begins to involve people from every level of London society."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 能源转型",
+        "text": "Modernizing power grids will involve new transmission lines, storage, and flexible demand.",
+        "translationCN": "电网现代化将涉及新输电线路、储能和灵活用电需求。",
+        "attributionType": "current-context",
+        "speakText": "Modernizing power grids will involve new transmission lines, storage, and flexible demand."
+      }
+    ]
+  },
+  "d02-require": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/rɪˈkwaɪə(r)/",
+        "meaningCN": "需要；要求",
+        "meaningEN": "to need or demand something",
+        "pattern": "require someone to do"
+      }
+    ],
+    "collocations": [
+      "require attention",
+      "legally required"
+    ],
+    "wordFamily": [
+      "requirement",
+      "required"
+    ],
+    "synonyms": [
+      "need",
+      "demand"
+    ],
+    "antonyms": [
+      "waive",
+      "dispense with"
+    ],
+    "usageNote": "物作主语常表客观需要；require doing 可表需要被做。",
+    "speechText": "Require. The task requires careful planning.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Successful group work requires members to share information openly.",
+        "translationCN": "成功的小组合作要求成员公开分享信息。",
+        "attributionType": "original",
+        "speakText": "Successful group work requires members to share information openly."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 汤姆·索亚历险记",
+        "text": "Tom decides that painting the fence requires rare skill, and the other boys believe him.",
+        "translationCN": "汤姆断言刷篱笆需要罕见的技巧，其他男孩信了他。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Tom Sawyer",
+        "sourceAuthor": "Mark Twain",
+        "speakText": "Tom decides that painting the fence requires rare skill, and the other boys believe him."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 网络安全",
+        "text": "Protecting public infrastructure requires regular updates, trained staff, and tested recovery plans.",
+        "translationCN": "保护公共基础设施需要定期更新、训练有素的人员和经过检验的恢复方案。",
+        "attributionType": "current-context",
+        "speakText": "Protecting public infrastructure requires regular updates, trained staff, and tested recovery plans."
+      }
+    ]
+  },
+  "d02-obtain": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/əbˈteɪn/",
+        "meaningCN": "获得；得到",
+        "meaningEN": "to get something by effort",
+        "pattern": "obtain something from"
+      }
+    ],
+    "collocations": [
+      "obtain permission",
+      "obtain evidence"
+    ],
+    "wordFamily": [
+      "obtainable",
+      "unobtainable"
+    ],
+    "synonyms": [
+      "acquire",
+      "secure"
+    ],
+    "antonyms": [
+      "lose",
+      "forfeit"
+    ],
+    "usageNote": "正式用词，强调通过努力或程序取得；more formal than get.",
+    "speechText": "Obtain. Researchers obtained useful information.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Participants must obtain permission before recording the interview.",
+        "translationCN": "参与者在录制采访前必须获得许可。",
+        "attributionType": "original",
+        "speakText": "Participants must obtain permission before recording the interview."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 基督山伯爵",
+        "text": "Dantès studies patiently to obtain the knowledge he was once denied.",
+        "translationCN": "唐泰斯耐心学习，以获得曾经无缘接触的知识。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Count of Monte Cristo",
+        "sourceAuthor": "Alexandre Dumas",
+        "speakText": "Dantès studies patiently to obtain the knowledge he was once denied."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 卫星数据",
+        "text": "Farmers can obtain near-real-time satellite information about soil moisture and crop stress.",
+        "translationCN": "农民可以获得有关土壤湿度和作物胁迫的近实时卫星信息。",
+        "attributionType": "current-context",
+        "speakText": "Farmers can obtain near-real-time satellite information about soil moisture and crop stress."
+      }
+    ]
+  },
+  "d02-maintain": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/meɪnˈteɪn/",
+        "meaningCN": "维持；保养；坚持认为",
+        "meaningEN": "to keep in a good or unchanged state",
+        "pattern": "maintain that"
+      }
+    ],
+    "collocations": [
+      "maintain standards",
+      "regularly maintained"
+    ],
+    "wordFamily": [
+      "maintenance",
+      "maintainable"
+    ],
+    "synonyms": [
+      "preserve",
+      "sustain"
+    ],
+    "antonyms": [
+      "neglect",
+      "abandon"
+    ],
+    "usageNote": "可指保持状态、保养设备或坚持观点；maintain that introduces a claim.",
+    "speechText": "Maintain. Exercise helps maintain good health.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "A balanced routine helps students maintain their energy during exams.",
+        "translationCN": "均衡的作息有助于学生在考试期间保持精力。",
+        "attributionType": "original",
+        "speakText": "A balanced routine helps students maintain their energy during exams."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 理智与情感",
+        "text": "Elinor struggles to maintain composure while protecting her family's feelings.",
+        "translationCN": "埃莉诺努力保持镇定，同时照顾家人的感受。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Sense and Sensibility",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Elinor struggles to maintain composure while protecting her family's feelings."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 基础设施",
+        "text": "Transport agencies use sensors to maintain bridges before small defects become dangerous.",
+        "translationCN": "交通机构利用传感器维护桥梁，避免小缺陷变得危险。",
+        "attributionType": "current-context",
+        "speakText": "Transport agencies use sensors to maintain bridges before small defects become dangerous."
+      }
+    ]
+  },
+  "d02-establish": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ɪˈstæblɪʃ/",
+        "meaningCN": "建立；确立；证实",
+        "meaningEN": "to create or prove firmly",
+        "pattern": "establish that"
+      }
+    ],
+    "collocations": [
+      "establish a system",
+      "firmly established"
+    ],
+    "wordFamily": [
+      "establishment",
+      "established"
+    ],
+    "synonyms": [
+      "found",
+      "confirm"
+    ],
+    "antonyms": [
+      "abolish",
+      "disprove"
+    ],
+    "usageNote": "可指建立组织或用证据确定事实；context distinguishes create from prove.",
+    "speechText": "Establish. The company established a new standard.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The committee hopes to establish clear rules for sharing research data.",
+        "translationCN": "委员会希望确立共享研究数据的明确规则。",
+        "attributionType": "original",
+        "speakText": "The committee hopes to establish clear rules for sharing research data."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 弗兰肯斯坦",
+        "text": "Victor tries to establish the boundary between scientific ambition and moral duty.",
+        "translationCN": "维克多试图确定科学雄心与道德责任之间的界限。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Frankenstein",
+        "sourceAuthor": "Mary Shelley",
+        "speakText": "Victor tries to establish the boundary between scientific ambition and moral duty."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 月球探索",
+        "text": "Several space programs plan to establish sustained scientific operations around the Moon.",
+        "translationCN": "多个航天计划准备在月球周边建立持续的科学活动。",
+        "attributionType": "current-context",
+        "speakText": "Several space programs plan to establish sustained scientific operations around the Moon."
+      }
+    ]
+  },
+  "d02-identify": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/aɪˈdentɪfaɪ/",
+        "meaningCN": "识别；确认",
+        "meaningEN": "to recognize and name",
+        "pattern": "identify something as"
+      }
+    ],
+    "collocations": [
+      "identify a cause",
+      "correctly identify"
+    ],
+    "wordFamily": [
+      "identity",
+      "identification",
+      "identifiable"
+    ],
+    "synonyms": [
+      "recognize",
+      "pinpoint"
+    ],
+    "antonyms": [
+      "misidentify",
+      "overlook"
+    ],
+    "usageNote": "强调辨认身份或找出具体对象；identify with 表示认同。",
+    "speechText": "Identify. The study identifies three main causes.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Readers should identify the author's main claim before judging the evidence.",
+        "translationCN": "读者在判断证据前应先确定作者的主要论点。",
+        "attributionType": "original",
+        "speakText": "Readers should identify the author's main claim before judging the evidence."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 月亮宝石",
+        "text": "The investigators struggle to identify who moved the jewel during the night.",
+        "translationCN": "调查者努力确认是谁在夜间移动了宝石。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Moonstone",
+        "sourceAuthor": "Wilkie Collins",
+        "speakText": "The investigators struggle to identify who moved the jewel during the night."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 生物多样性",
+        "text": "Environmental DNA helps scientists identify species from traces left in water or soil.",
+        "translationCN": "环境 DNA 帮助科学家通过水或土壤中的痕迹识别物种。",
+        "attributionType": "current-context",
+        "speakText": "Environmental DNA helps scientists identify species from traces left in water or soil."
+      }
+    ]
+  },
+  "d02-reflect": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/rɪˈflekt/",
+        "meaningCN": "反映；反射；思考",
+        "meaningEN": "to show, send back light, or think deeply",
+        "pattern": "reflect on"
+      }
+    ],
+    "collocations": [
+      "reflect reality",
+      "reflect on experience"
+    ],
+    "wordFamily": [
+      "reflection",
+      "reflective"
+    ],
+    "synonyms": [
+      "mirror",
+      "consider"
+    ],
+    "antonyms": [
+      "distort",
+      "ignore"
+    ],
+    "usageNote": "reflect something 表反映；reflect on 表认真思考。",
+    "speechText": "Reflect. The results reflect changing attitudes.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The final report should reflect both the successes and limits of the project.",
+        "translationCN": "最终报告应同时反映项目的成果与局限。",
+        "attributionType": "original",
+        "speakText": "The final report should reflect both the successes and limits of the project."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 沃尔登",
+        "text": "Beside the pond, Thoreau finds time to reflect on simplicity and independence.",
+        "translationCN": "在湖畔，梭罗有时间思考简朴与独立。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Walden",
+        "sourceAuthor": "Henry David Thoreau",
+        "speakText": "Beside the pond, Thoreau finds time to reflect on simplicity and independence."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 城市设计",
+        "text": "New street designs reflect growing demand for safer walking and cycling.",
+        "translationCN": "新的街道设计反映了人们对更安全步行和骑行日益增长的需求。",
+        "attributionType": "current-context",
+        "speakText": "New street designs reflect growing demand for safer walking and cycling."
+      }
+    ]
+  },
+  "d02-determine": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/dɪˈtɜːmɪn/",
+        "meaningCN": "决定；确定",
+        "meaningEN": "to decide or discover exactly",
+        "pattern": "determine whether"
+      }
+    ],
+    "collocations": [
+      "determine the cause",
+      "largely determine"
+    ],
+    "wordFamily": [
+      "determination",
+      "determined"
+    ],
+    "synonyms": [
+      "decide",
+      "ascertain"
+    ],
+    "antonyms": [
+      "misjudge",
+      "leave unresolved"
+    ],
+    "usageNote": "可表示决定结果或查明事实；determined 作形容词表坚定。",
+    "speechText": "Determine. Income may determine spending choices.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Further testing is needed to determine whether the material is safe.",
+        "translationCN": "需要进一步测试来确定这种材料是否安全。",
+        "attributionType": "original",
+        "speakText": "Further testing is needed to determine whether the material is safe."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 绿野仙踪",
+        "text": "Dorothy cannot determine which road will lead her safely toward the Emerald City.",
+        "translationCN": "多萝西无法确定哪条路能让她安全到达翡翠城。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Wonderful Wizard of Oz",
+        "sourceAuthor": "L. Frank Baum",
+        "speakText": "Dorothy cannot determine which road will lead her safely toward the Emerald City."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 极端天气归因",
+        "text": "Climate attribution studies help determine how warming changes the likelihood of extreme events.",
+        "translationCN": "气候归因研究有助于确定变暖如何改变极端事件发生的可能性。",
+        "attributionType": "current-context",
+        "speakText": "Climate attribution studies help determine how warming changes the likelihood of extreme events."
+      }
+    ]
+  },
+  "d02-represent": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ˌreprɪˈzent/",
+        "meaningCN": "代表；象征",
+        "meaningEN": "to stand for or describe",
+        "pattern": "represent something as"
+      }
+    ],
+    "collocations": [
+      "represent a group",
+      "accurately represent"
+    ],
+    "wordFamily": [
+      "representation",
+      "representative"
+    ],
+    "synonyms": [
+      "symbolize",
+      "depict"
+    ],
+    "antonyms": [
+      "misrepresent",
+      "distort"
+    ],
+    "usageNote": "可指代表群体、象征意义或描绘事物；stress is on the final syllable.",
+    "speechText": "Represent. These figures represent national averages.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The colored lines represent changes in demand across four seasons.",
+        "translationCN": "这些彩色线条表示四季需求的变化。",
+        "attributionType": "original",
+        "speakText": "The colored lines represent changes in demand across four seasons."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 红字",
+        "text": "The embroidered letter comes to represent more than the punishment intended for Hester.",
+        "translationCN": "那枚绣字后来所代表的含义超出了原本对海丝特的惩罚。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Scarlet Letter",
+        "sourceAuthor": "Nathaniel Hawthorne",
+        "speakText": "The embroidered letter comes to represent more than the punishment intended for Hester."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 气候谈判",
+        "text": "Youth observers increasingly seek opportunities to represent future generations in climate discussions.",
+        "translationCN": "青年观察员越来越多地寻求在气候讨论中代表未来世代的机会。",
+        "attributionType": "current-context",
+        "speakText": "Youth observers increasingly seek opportunities to represent future generations in climate discussions."
+      }
+    ]
+  },
+  "d02-contribute": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/kənˈtrɪbjuːt/",
+        "meaningCN": "贡献；促成；投稿",
+        "meaningEN": "to give or help cause something",
+        "pattern": "contribute to"
+      }
+    ],
+    "collocations": [
+      "contribute money",
+      "contribute to growth"
+    ],
+    "wordFamily": [
+      "contribution",
+      "contributor"
+    ],
+    "synonyms": [
+      "donate",
+      "add"
+    ],
+    "antonyms": [
+      "withhold",
+      "hinder"
+    ],
+    "usageNote": "contribute to 中 to 是介词，后接名词或动名词；可表积极或消极促成。",
+    "speechText": "Contribute. Many factors contribute to success.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Every team member was invited to contribute ideas at the meeting.",
+        "translationCN": "每位团队成员都受邀在会上贡献想法。",
+        "attributionType": "original",
+        "speakText": "Every team member was invited to contribute ideas at the meeting."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 小妇人",
+        "text": "Beth contributes quiet kindness to the busy life of the March family.",
+        "translationCN": "贝丝以安静的善意为马奇一家忙碌的生活作出贡献。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "Beth contributes quiet kindness to the busy life of the March family."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 公民科学",
+        "text": "Volunteers contribute millions of wildlife observations to global biodiversity databases.",
+        "translationCN": "志愿者为全球生物多样性数据库贡献了数百万条野生动物观察记录。",
+        "attributionType": "current-context",
+        "speakText": "Volunteers contribute millions of wildlife observations to global biodiversity databases."
+      }
+    ]
+  },
+  "d02-assume": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/əˈsjuːm/",
+        "meaningCN": "假定；承担",
+        "meaningEN": "to accept as true without proof; take on",
+        "pattern": "assume that"
+      }
+    ],
+    "collocations": [
+      "reasonably assume",
+      "assume responsibility"
+    ],
+    "wordFamily": [
+      "assumption",
+      "assumed"
+    ],
+    "synonyms": [
+      "suppose",
+      "undertake"
+    ],
+    "antonyms": [
+      "verify",
+      "relinquish"
+    ],
+    "usageNote": "既可指未经证实地假定，也可指承担职责；do not confuse assumption with evidence.",
+    "speechText": "Assume. We should not assume that costs are low.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "We should not assume that every student has reliable internet access.",
+        "translationCN": "我们不应假定每个学生都有稳定的互联网接入。",
+        "attributionType": "original",
+        "speakText": "We should not assume that every student has reliable internet access."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 傲慢与偏见",
+        "text": "Darcy learns that he cannot assume his intentions are understood without explanation.",
+        "translationCN": "达西明白，他不能想当然地认为自己的意图无需解释就会被理解。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Darcy learns that he cannot assume his intentions are understood without explanation."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 自动化",
+        "text": "Workforce plans should not assume that automation affects every occupation in the same way.",
+        "translationCN": "劳动力规划不应假定自动化对每种职业的影响都相同。",
+        "attributionType": "current-context",
+        "speakText": "Workforce plans should not assume that automation affects every occupation in the same way."
+      }
+    ]
+  },
+  "d02-reduce": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/rɪˈdjuːs/",
+        "meaningCN": "减少；降低",
+        "meaningEN": "to make smaller or less",
+        "pattern": "reduce something by/to"
+      }
+    ],
+    "collocations": [
+      "reduce costs",
+      "greatly reduce"
+    ],
+    "wordFamily": [
+      "reduction",
+      "reduced"
+    ],
+    "synonyms": [
+      "decrease",
+      "lower"
+    ],
+    "antonyms": [
+      "increase",
+      "raise"
+    ],
+    "usageNote": "reduce by 表减少的幅度，reduce to 表降到的数值。",
+    "speechText": "Reduce. Public transport can reduce pollution.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Turning off unused equipment can reduce the laboratory's electricity bill.",
+        "translationCN": "关闭不用的设备可以降低实验室的电费。",
+        "attributionType": "original",
+        "speakText": "Turning off unused equipment can reduce the laboratory's electricity bill."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 悲惨世界",
+        "text": "The bishop's mercy helps reduce Valjean's bitterness toward the world.",
+        "translationCN": "主教的仁慈帮助减轻了冉阿让对世界的怨恨。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Les Misérables",
+        "sourceAuthor": "Victor Hugo",
+        "speakText": "The bishop's mercy helps reduce Valjean's bitterness toward the world."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 甲烷排放",
+        "text": "Repairing leaks in oil and gas systems can rapidly reduce methane emissions.",
+        "translationCN": "修复石油和天然气系统的泄漏可以迅速减少甲烷排放。",
+        "attributionType": "current-context",
+        "speakText": "Repairing leaks in oil and gas systems can rapidly reduce methane emissions."
+      }
+    ]
+  },
+  "d02-increase": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ɪnˈkriːs/",
+        "meaningCN": "增加；增长",
+        "meaningEN": "to become or make greater",
+        "pattern": "increase by/to"
+      }
+    ],
+    "collocations": [
+      "increase demand",
+      "steadily increase"
+    ],
+    "wordFamily": [
+      "increase",
+      "increasing",
+      "increasingly"
+    ],
+    "synonyms": [
+      "rise",
+      "expand"
+    ],
+    "antonyms": [
+      "decrease",
+      "reduce"
+    ],
+    "usageNote": "作动词末音节重读；increase by 表增幅，to 表终值。",
+    "speechText": "Increase. Demand continues to increase.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Adding clear signs may increase the number of visitors who recycle correctly.",
+        "translationCN": "增设清晰标识可能会增加正确分类回收的游客人数。",
+        "attributionType": "original",
+        "speakText": "Adding clear signs may increase the number of visitors who recycle correctly."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 彼得·潘",
+        "text": "The children's excitement increases as the lights of Neverland appear.",
+        "translationCN": "当梦幻岛的灯光出现时，孩子们越来越兴奋。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Peter Pan",
+        "sourceAuthor": "J. M. Barrie",
+        "speakText": "The children's excitement increases as the lights of Neverland appear."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 电动交通",
+        "text": "Demand for charging infrastructure continues to increase as electric vehicle use expands.",
+        "translationCN": "随着电动汽车使用扩大，对充电基础设施的需求持续增长。",
+        "attributionType": "current-context",
+        "speakText": "Demand for charging infrastructure continues to increase as electric vehicle use expands."
+      }
+    ]
+  },
+  "d02-provide": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/prəˈvaɪd/",
+        "meaningCN": "提供；供给",
+        "meaningEN": "to give something needed",
+        "pattern": "provide someone with something"
+      }
+    ],
+    "collocations": [
+      "provide support",
+      "provide access to"
+    ],
+    "wordFamily": [
+      "provider",
+      "provision"
+    ],
+    "synonyms": [
+      "supply",
+      "offer"
+    ],
+    "antonyms": [
+      "withhold",
+      "deprive"
+    ],
+    "usageNote": "provide someone with something 或 provide something for someone.",
+    "speechText": "Provide. The course provides practical skills.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The orientation program provides new students with practical campus information.",
+        "translationCN": "迎新项目为新生提供实用的校园信息。",
+        "attributionType": "original",
+        "speakText": "The orientation program provides new students with practical campus information."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 海蒂",
+        "text": "The mountain air and her grandfather's care provide Heidi with strength and joy.",
+        "translationCN": "山间空气和祖父的照料给海蒂带来力量与快乐。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Heidi",
+        "sourceAuthor": "Johanna Spyri",
+        "speakText": "The mountain air and her grandfather's care provide Heidi with strength and joy."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 地球观测",
+        "text": "Earth-observation satellites provide rapid maps after floods, fires, and earthquakes.",
+        "translationCN": "地球观测卫星在洪水、火灾和地震后提供快速地图。",
+        "attributionType": "current-context",
+        "speakText": "Earth-observation satellites provide rapid maps after floods, fires, and earthquakes."
+      }
+    ]
+  },
+  "d02-explain": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ɪkˈspleɪn/",
+        "meaningCN": "解释；说明",
+        "meaningEN": "to make something clear",
+        "pattern": "explain something to someone"
+      }
+    ],
+    "collocations": [
+      "clearly explain",
+      "explain why"
+    ],
+    "wordFamily": [
+      "explanation",
+      "explanatory"
+    ],
+    "synonyms": [
+      "clarify",
+      "account for"
+    ],
+    "antonyms": [
+      "confuse",
+      "obscure"
+    ],
+    "usageNote": "说 explain something to someone，不说 explain someone something.",
+    "speechText": "Explain. Can you explain the result?",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The diagram helps explain how water moves through the system.",
+        "translationCN": "这张图有助于解释水如何在系统中流动。",
+        "attributionType": "original",
+        "speakText": "The diagram helps explain how water moves through the system."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 时间机器",
+        "text": "The Time Traveller tries to explain a future that his dinner guests can barely imagine.",
+        "translationCN": "时间旅行者试图解释一个晚餐客人几乎无法想象的未来。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Time Machine",
+        "sourceAuthor": "H. G. Wells",
+        "speakText": "The Time Traveller tries to explain a future that his dinner guests can barely imagine."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 科学传播",
+        "text": "Researchers use visual models to explain complex climate risks to local decision-makers.",
+        "translationCN": "研究人员使用视觉模型向地方决策者解释复杂的气候风险。",
+        "attributionType": "current-context",
+        "speakText": "Researchers use visual models to explain complex climate risks to local decision-makers."
+      }
+    ]
+  },
+  "d02-suggest": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/səˈdʒest/",
+        "meaningCN": "建议；表明；暗示",
+        "meaningEN": "to propose or indirectly show",
+        "pattern": "suggest doing/that"
+      }
+    ],
+    "collocations": [
+      "strongly suggest",
+      "evidence suggests"
+    ],
+    "wordFamily": [
+      "suggestion",
+      "suggestive"
+    ],
+    "synonyms": [
+      "propose",
+      "imply"
+    ],
+    "antonyms": [
+      "reject",
+      "contradict"
+    ],
+    "usageNote": "接 doing 或 that 从句，不接 suggest someone to do.",
+    "speechText": "Suggest. The findings suggest a new approach.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The counselor suggested joining a study group before the final exam.",
+        "translationCN": "辅导员建议在期末考试前加入学习小组。",
+        "attributionType": "original",
+        "speakText": "The counselor suggested joining a study group before the final exam."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 螺丝在拧紧",
+        "text": "The governess believes that every shadow may suggest a hidden presence.",
+        "translationCN": "女家庭教师认为每一道阴影都可能暗示着隐秘的存在。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Turn of the Screw",
+        "sourceAuthor": "Henry James",
+        "speakText": "The governess believes that every shadow may suggest a hidden presence."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 四天工作制试验",
+        "text": "Several workplace trials suggest that shorter weeks can preserve output while improving well-being.",
+        "translationCN": "多项职场试验表明，缩短每周工时可能在保持产出的同时改善福祉。",
+        "attributionType": "current-context",
+        "speakText": "Several workplace trials suggest that shorter weeks can preserve output while improving well-being."
+      }
+    ]
+  },
+  "d02-compare": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/kəmˈpeə(r)/",
+        "meaningCN": "比较；对照",
+        "meaningEN": "to examine similarities and differences",
+        "pattern": "compare A with/to B"
+      }
+    ],
+    "collocations": [
+      "compare results",
+      "closely compare"
+    ],
+    "wordFamily": [
+      "comparison",
+      "comparable",
+      "comparative"
+    ],
+    "synonyms": [
+      "contrast",
+      "liken"
+    ],
+    "antonyms": [
+      "separate",
+      "distinguish"
+    ],
+    "usageNote": "compare with 强调异同；compare to 常强调相似或比喻。",
+    "speechText": "Compare. Compare the two methods carefully.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The assignment asks students to compare two solutions to the same problem.",
+        "translationCN": "这项作业要求学生比较同一问题的两种解决方案。",
+        "attributionType": "original",
+        "speakText": "The assignment asks students to compare two solutions to the same problem."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 呼啸山庄",
+        "text": "Nelly compares Catherine's restless passion with Edgar's quiet affection.",
+        "translationCN": "内莉把凯瑟琳不安的激情与埃德加平静的爱意相比较。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Wuthering Heights",
+        "sourceAuthor": "Emily Brontë",
+        "speakText": "Nelly compares Catherine's restless passion with Edgar's quiet affection."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 低碳交通",
+        "text": "Cities compare electric buses, rail, and cycling networks when planning lower-carbon transport.",
+        "translationCN": "城市在规划低碳交通时会比较电动公交、轨道交通和自行车网络。",
+        "attributionType": "current-context",
+        "speakText": "Cities compare electric buses, rail, and cycling networks when planning lower-carbon transport."
+      }
+    ]
+  },
+  "d02-recognize": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ˈrekəɡnaɪz/",
+        "meaningCN": "认出；承认；认可",
+        "meaningEN": "to know again or accept as true",
+        "pattern": "recognize something as"
+      }
+    ],
+    "collocations": [
+      "widely recognized",
+      "recognize the need"
+    ],
+    "wordFamily": [
+      "recognition",
+      "recognizable"
+    ],
+    "synonyms": [
+      "identify",
+      "acknowledge"
+    ],
+    "antonyms": [
+      "deny",
+      "overlook"
+    ],
+    "usageNote": "可指认出熟悉对象或承认事实、价值；recognize as names a role.",
+    "speechText": "Recognize. We recognize the need for change.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "Good readers recognize when an argument lacks supporting evidence.",
+        "translationCN": "优秀的读者能意识到一个论点何时缺乏支持证据。",
+        "attributionType": "original",
+        "speakText": "Good readers recognize when an argument lacks supporting evidence."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 奥德赛",
+        "text": "After years apart, the old dog is the first to recognize Odysseus.",
+        "translationCN": "分别多年后，那条老狗最先认出了奥德修斯。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Odyssey",
+        "sourceAuthor": "Homer",
+        "speakText": "After years apart, the old dog is the first to recognize Odysseus."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 原住民知识",
+        "text": "More conservation programs recognize Indigenous knowledge as valuable evidence for managing ecosystems.",
+        "translationCN": "越来越多的保护项目承认原住民知识是管理生态系统的重要依据。",
+        "attributionType": "current-context",
+        "speakText": "More conservation programs recognize Indigenous knowledge as valuable evidence for managing ecosystems."
+      }
+    ]
+  },
+  "d02-respond": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/rɪˈspɒnd/",
+        "meaningCN": "回应；反应",
+        "meaningEN": "to answer or react",
+        "pattern": "respond to"
+      }
+    ],
+    "collocations": [
+      "respond quickly",
+      "respond to treatment"
+    ],
+    "wordFamily": [
+      "response",
+      "responsive",
+      "respondent"
+    ],
+    "synonyms": [
+      "reply",
+      "react"
+    ],
+    "antonyms": [
+      "ignore",
+      "disregard"
+    ],
+    "usageNote": "固定搭配 respond to；reply 更偏言语回答，respond 也可指反应。",
+    "speechText": "Respond. Customers responded well to the change.",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 原创例句",
+        "text": "The university promised to respond to student feedback within two weeks.",
+        "translationCN": "学校承诺在两周内回应学生反馈。",
+        "attributionType": "original",
+        "speakText": "The university promised to respond to student feedback within two weeks."
+      },
+      {
+        "type": "literature",
+        "label": "文学改写 · 简爱",
+        "text": "Jane responds to injustice with a courage that surprises those around her.",
+        "translationCN": "简以勇气回应不公，这令周围的人感到惊讶。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane responds to injustice with a courage that surprises those around her."
+      },
+      {
+        "type": "world",
+        "label": "当代语境 · 灾害预警",
+        "text": "Mobile alert systems help communities respond more quickly to wildfires and flash floods.",
+        "translationCN": "移动预警系统帮助社区更快应对野火和山洪。",
+        "attributionType": "current-context",
+        "speakText": "Mobile alert systems help communities respond more quickly to wildfires and flash floods."
+      }
+    ]
+  }
+}

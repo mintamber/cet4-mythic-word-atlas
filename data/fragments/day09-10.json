@@ -1,0 +1,2295 @@
+{
+  "d09-confident": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkɒnfɪdənt/",
+        "meaningCN": "自信的；确信的",
+        "meaningEN": "sure of yourself or something",
+        "pattern": "confident about/of/that"
+      }
+    ],
+    "collocations": [
+      "feel confident",
+      "confident about the future"
+    ],
+    "wordFamily": [
+      "confidence n.",
+      "confidently adv."
+    ],
+    "synonyms": [
+      "self-assured",
+      "certain"
+    ],
+    "antonyms": [
+      "uncertain"
+    ],
+    "usageNote": "confident 形容人或判断；confidence 是名词。",
+    "speechText": "confident",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Mina felt confident after practising her presentation twice.",
+        "translationCN": "米娜练习两遍演讲后感到很自信。",
+        "attributionType": "original",
+        "speakText": "Mina felt confident after practising her presentation twice."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Elizabeth Bennet remained confident in her own judgment despite Darcy's rank.",
+        "translationCN": "尽管达西地位显赫，伊丽莎白·班纳特仍相信自己的判断。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Elizabeth Bennet remained confident in her own judgment despite Darcy's rank."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Scientists are increasingly confident that rapid emission cuts can limit future warming.",
+        "translationCN": "近年科学家越来越确信，快速减排能够限制未来变暖。",
+        "attributionType": "current-context",
+        "speakText": "Scientists are increasingly confident that rapid emission cuts can limit future warming."
+      }
+    ]
+  },
+  "d09-anxious": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈæŋkʃəs/",
+        "meaningCN": "焦虑的；渴望的",
+        "meaningEN": "worried or strongly wanting something",
+        "pattern": "anxious about; anxious to do"
+      }
+    ],
+    "collocations": [
+      "anxious about exams",
+      "anxious to learn"
+    ],
+    "wordFamily": [
+      "anxiety n.",
+      "anxiously adv."
+    ],
+    "synonyms": [
+      "worried",
+      "eager"
+    ],
+    "antonyms": [
+      "calm"
+    ],
+    "usageNote": "anxious about 表示担忧；anxious to do 可表示急切想做。",
+    "speechText": "anxious",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Many students feel anxious about choosing a major.",
+        "translationCN": "许多学生对选择专业感到焦虑。",
+        "attributionType": "original",
+        "speakText": "Many students feel anxious about choosing a major."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Pip was anxious to become a gentleman, yet uncertain about the cost.",
+        "translationCN": "匹普急切想成为绅士，却不确定要付出什么代价。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Pip was anxious to become a gentleman, yet uncertain about the cost."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Young workers in many cities are anxious about housing costs.",
+        "translationCN": "近年许多城市的年轻劳动者为住房成本感到焦虑。",
+        "attributionType": "current-context",
+        "speakText": "Young workers in many cities are anxious about housing costs."
+      }
+    ]
+  },
+  "d09-curious": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkjʊəriəs/",
+        "meaningCN": "好奇的；奇特的",
+        "meaningEN": "eager to know something or unusual",
+        "pattern": "curious about/to know"
+      }
+    ],
+    "collocations": [
+      "curious about science",
+      "a curious fact"
+    ],
+    "wordFamily": [
+      "curiosity n.",
+      "curiously adv."
+    ],
+    "synonyms": [
+      "inquisitive",
+      "strange"
+    ],
+    "antonyms": [
+      "indifferent"
+    ],
+    "usageNote": "curious about 表示对某事好奇；curious 也可表示奇怪的。",
+    "speechText": "curious",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Curious students asked how the experiment had been designed.",
+        "translationCN": "好奇的学生询问实验是如何设计的。",
+        "attributionType": "original",
+        "speakText": "Curious students asked how the experiment had been designed."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Alice grew curious when the White Rabbit hurried past with a watch.",
+        "translationCN": "白兔带着手表匆匆跑过时，爱丽丝产生了好奇心。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Alice's Adventures in Wonderland",
+        "sourceAuthor": "Lewis Carroll",
+        "speakText": "Alice grew curious when the White Rabbit hurried past with a watch."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Astronomers are curious about the chemistry of newly observed exoplanet atmospheres.",
+        "translationCN": "近年天文学家对新观测到的系外行星大气成分很好奇。",
+        "attributionType": "current-context",
+        "speakText": "Astronomers are curious about the chemistry of newly observed exoplanet atmospheres."
+      }
+    ]
+  },
+  "d09-cautious": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkɔːʃəs/",
+        "meaningCN": "谨慎的",
+        "meaningEN": "careful to avoid danger or mistakes",
+        "pattern": "cautious about/of"
+      }
+    ],
+    "collocations": [
+      "remain cautious",
+      "a cautious approach"
+    ],
+    "wordFamily": [
+      "caution n./v.",
+      "cautiously adv."
+    ],
+    "synonyms": [
+      "careful",
+      "prudent"
+    ],
+    "antonyms": [
+      "reckless"
+    ],
+    "usageNote": "cautious 形容人或做法；caution 是名词或动词。",
+    "speechText": "cautious",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The research team was cautious about drawing conclusions from one survey.",
+        "translationCN": "研究团队谨慎对待仅凭一次调查得出结论。",
+        "attributionType": "original",
+        "speakText": "The research team was cautious about drawing conclusions from one survey."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Bilbo took a cautious step into the dark passage beneath the mountain.",
+        "translationCN": "比尔博谨慎地踏入山下的黑暗通道。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Hobbit",
+        "sourceAuthor": "J. R. R. Tolkien",
+        "speakText": "Bilbo took a cautious step into the dark passage beneath the mountain."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Central banks have remained cautious while inflation pressures change.",
+        "translationCN": "近年在通胀压力变化之际，各国央行一直保持谨慎。",
+        "attributionType": "current-context",
+        "speakText": "Central banks have remained cautious while inflation pressures change."
+      }
+    ]
+  },
+  "d09-aware": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/əˈweə(r)/",
+        "meaningCN": "意识到的；了解的",
+        "meaningEN": "knowing about a fact or situation",
+        "pattern": "be aware of/that"
+      }
+    ],
+    "collocations": [
+      "be aware of",
+      "environmentally aware"
+    ],
+    "wordFamily": [
+      "awareness n.",
+      "unaware adj."
+    ],
+    "synonyms": [
+      "conscious",
+      "informed"
+    ],
+    "antonyms": [
+      "unaware"
+    ],
+    "usageNote": "aware 通常作表语，用 be aware of 或 be aware that。",
+    "speechText": "aware",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Students should be aware of the deadline for course changes.",
+        "translationCN": "学生应了解更改课程的截止日期。",
+        "attributionType": "original",
+        "speakText": "Students should be aware of the deadline for course changes."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jane Eyre became aware that silence would cost her self-respect.",
+        "translationCN": "简·爱意识到沉默会让她失去自尊。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane Eyre became aware that silence would cost her self-respect."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Consumers are more aware of how data is collected by mobile applications.",
+        "translationCN": "近年消费者更加了解移动应用如何收集数据。",
+        "attributionType": "current-context",
+        "speakText": "Consumers are more aware of how data is collected by mobile applications."
+      }
+    ]
+  },
+  "d09-capable": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkeɪpəbl/",
+        "meaningCN": "有能力的；能干的",
+        "meaningEN": "having the ability needed to do something",
+        "pattern": "capable of doing"
+      }
+    ],
+    "collocations": [
+      "capable of change",
+      "highly capable"
+    ],
+    "wordFamily": [
+      "capability n.",
+      "incapable adj."
+    ],
+    "synonyms": [
+      "able",
+      "competent"
+    ],
+    "antonyms": [
+      "incapable"
+    ],
+    "usageNote": "capable 后用 of doing，不用 capable to do。",
+    "speechText": "capable",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The software is capable of analysing thousands of responses.",
+        "translationCN": "该软件能够分析数千份答复。",
+        "attributionType": "original",
+        "speakText": "The software is capable of analysing thousands of responses."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jo March proved capable of supporting herself through writing.",
+        "translationCN": "乔·马奇证明自己能够靠写作独立生活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "Jo March proved capable of supporting herself through writing."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Modern language models are capable of producing fluent text but can still make factual errors.",
+        "translationCN": "现代语言模型能生成流畅文本，但仍可能出现事实错误。",
+        "attributionType": "current-context",
+        "speakText": "Modern language models are capable of producing fluent text but can still make factual errors."
+      }
+    ]
+  },
+  "d09-reliable": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/rɪˈlaɪəbl/",
+        "meaningCN": "可靠的；可信赖的",
+        "meaningEN": "able to be trusted or depended on",
+        "pattern": "a reliable source"
+      }
+    ],
+    "collocations": [
+      "reliable information",
+      "highly reliable"
+    ],
+    "wordFamily": [
+      "reliability n.",
+      "reliably adv."
+    ],
+    "synonyms": [
+      "dependable",
+      "trustworthy"
+    ],
+    "antonyms": [
+      "unreliable"
+    ],
+    "usageNote": "reliable 可形容人、设备或信息，强调始终可信。",
+    "speechText": "reliable",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Use reliable sources when preparing an academic report.",
+        "translationCN": "准备学术报告时要使用可靠来源。",
+        "attributionType": "original",
+        "speakText": "Use reliable sources when preparing an academic report."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Watson remained a reliable companion through Holmes's most dangerous cases.",
+        "translationCN": "在福尔摩斯最危险的案件中，华生始终是可靠伙伴。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Sherlock Holmes",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "Watson remained a reliable companion through Holmes's most dangerous cases."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Reliable electricity storage is essential for grids using more wind and solar power.",
+        "translationCN": "对更多使用风能和太阳能的电网而言，可靠储能至关重要。",
+        "attributionType": "current-context",
+        "speakText": "Reliable electricity storage is essential for grids using more wind and solar power."
+      }
+    ]
+  },
+  "d09-independent": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˌɪndɪˈpendənt/",
+        "meaningCN": "独立的；自主的",
+        "meaningEN": "free from outside control or support",
+        "pattern": "independent of/from"
+      }
+    ],
+    "collocations": [
+      "independent learner",
+      "independent of government"
+    ],
+    "wordFamily": [
+      "independence n.",
+      "independently adv."
+    ],
+    "synonyms": [
+      "autonomous",
+      "self-reliant"
+    ],
+    "antonyms": [
+      "dependent"
+    ],
+    "usageNote": "independent 常接 of；表示国家独立常用 independence from。",
+    "speechText": "independent",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Group projects should still develop each student's independent thinking.",
+        "translationCN": "小组项目仍应培养每位学生的独立思考。",
+        "attributionType": "original",
+        "speakText": "Group projects should still develop each student's independent thinking."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jane Eyre sought an independent life founded on work and dignity.",
+        "translationCN": "简·爱追求建立在劳动与尊严之上的独立生活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane Eyre sought an independent life founded on work and dignity."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Independent researchers help test major claims about artificial intelligence systems.",
+        "translationCN": "近年独立研究人员帮助检验有关人工智能系统的重要主张。",
+        "attributionType": "current-context",
+        "speakText": "Independent researchers help test major claims about artificial intelligence systems."
+      }
+    ]
+  },
+  "d09-effective": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ɪˈfektɪv/",
+        "meaningCN": "有效的；生效的",
+        "meaningEN": "successful in producing a result; officially operating",
+        "pattern": "effective in/at; effective from"
+      }
+    ],
+    "collocations": [
+      "highly effective",
+      "effective from Monday"
+    ],
+    "wordFamily": [
+      "effect n.",
+      "effectively adv."
+    ],
+    "synonyms": [
+      "successful",
+      "efficient"
+    ],
+    "antonyms": [
+      "ineffective"
+    ],
+    "usageNote": "effective 强调产生预期效果；efficient 强调少浪费资源。",
+    "speechText": "effective",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Regular review is more effective than studying everything at once.",
+        "translationCN": "定期复习比一次学完所有内容更有效。",
+        "attributionType": "original",
+        "speakText": "Regular review is more effective than studying everything at once."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Scheherazade found an effective way to delay the king's cruel decision.",
+        "translationCN": "山鲁佐德找到了一种有效方法来推迟国王残酷的决定。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "One Thousand and One Nights",
+        "sourceAuthor": "Anonymous",
+        "speakText": "Scheherazade found an effective way to delay the king's cruel decision."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Wastewater monitoring has become an effective tool for tracking infectious diseases.",
+        "translationCN": "近年废水监测已成为追踪传染病的有效工具。",
+        "attributionType": "current-context",
+        "speakText": "Wastewater monitoring has become an effective tool for tracking infectious diseases."
+      }
+    ]
+  },
+  "d09-flexible": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈfleksəbl/",
+        "meaningCN": "灵活的；可弯曲的",
+        "meaningEN": "able to change easily or bend without breaking",
+        "pattern": "flexible about/in"
+      }
+    ],
+    "collocations": [
+      "flexible schedule",
+      "remain flexible"
+    ],
+    "wordFamily": [
+      "flexibility n.",
+      "flexibly adv."
+    ],
+    "synonyms": [
+      "adaptable",
+      "bendable"
+    ],
+    "antonyms": [
+      "rigid"
+    ],
+    "usageNote": "flexible 可形容安排能调整，也可形容材料可弯曲。",
+    "speechText": "flexible",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "A flexible timetable helps students balance work and study.",
+        "translationCN": "灵活的时间表帮助学生平衡工作与学习。",
+        "attributionType": "original",
+        "speakText": "A flexible timetable helps students balance work and study."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Odysseus survived because his plans were flexible when circumstances changed.",
+        "translationCN": "奥德修斯能生存下来，是因为情况变化时他的计划很灵活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Odyssey",
+        "sourceAuthor": "Homer",
+        "speakText": "Odysseus survived because his plans were flexible when circumstances changed."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Flexible work arrangements remain common in many technology companies.",
+        "translationCN": "近年灵活工作安排在许多科技公司仍很常见。",
+        "attributionType": "current-context",
+        "speakText": "Flexible work arrangements remain common in many technology companies."
+      }
+    ]
+  },
+  "d09-constant": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkɒnstənt/",
+        "meaningCN": "持续的；恒定的",
+        "meaningEN": "continuing or staying at the same level",
+        "pattern": "remain constant"
+      }
+    ],
+    "collocations": [
+      "constant attention",
+      "at a constant rate"
+    ],
+    "wordFamily": [
+      "constantly adv.",
+      "constancy n."
+    ],
+    "synonyms": [
+      "continuous",
+      "unchanging"
+    ],
+    "antonyms": [
+      "variable"
+    ],
+    "usageNote": "constant 可表示持续不断，也可表示数值恒定。",
+    "speechText": "constant",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The experiment kept the room temperature constant.",
+        "translationCN": "实验使室温保持恒定。",
+        "attributionType": "original",
+        "speakText": "The experiment kept the room temperature constant."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Penelope's constant hope endured through the long years of waiting.",
+        "translationCN": "在漫长等待中，珀涅罗珀始终怀有希望。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Odyssey",
+        "sourceAuthor": "Homer",
+        "speakText": "Penelope's constant hope endured through the long years of waiting."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Constant monitoring helps engineers detect changes in bridges and dams.",
+        "translationCN": "持续监测帮助工程师发现桥梁和大坝的变化。",
+        "attributionType": "current-context",
+        "speakText": "Constant monitoring helps engineers detect changes in bridges and dams."
+      }
+    ]
+  },
+  "d09-stable": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈsteɪbl/",
+        "meaningCN": "稳定的；牢固的",
+        "meaningEN": "not likely to change, move, or fail",
+        "pattern": "remain stable"
+      }
+    ],
+    "collocations": [
+      "stable prices",
+      "stable condition"
+    ],
+    "wordFamily": [
+      "stability n.",
+      "stabilize v."
+    ],
+    "synonyms": [
+      "steady",
+      "secure"
+    ],
+    "antonyms": [
+      "unstable"
+    ],
+    "usageNote": "stable 强调状态不易突然变化；steady 常强调平稳连续。",
+    "speechText": "stable",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The patient's condition remained stable throughout the night.",
+        "translationCN": "病人的状况整夜保持稳定。",
+        "attributionType": "original",
+        "speakText": "The patient's condition remained stable throughout the night."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The farm gave the animals a stable routine before its rules began to change.",
+        "translationCN": "在规则开始改变前，农场给动物们提供了稳定的日常生活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Animal Farm",
+        "sourceAuthor": "George Orwell",
+        "speakText": "The farm gave the animals a stable routine before its rules began to change."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Grid operators use batteries to keep electricity supplies stable during demand peaks.",
+        "translationCN": "近年电网运营方使用电池在需求高峰期保持供电稳定。",
+        "attributionType": "current-context",
+        "speakText": "Grid operators use batteries to keep electricity supplies stable during demand peaks."
+      }
+    ]
+  },
+  "d09-severe": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/sɪˈvɪə(r)/",
+        "meaningCN": "严重的；严厉的",
+        "meaningEN": "very serious, harsh, or intense",
+        "pattern": "severe damage/penalty"
+      }
+    ],
+    "collocations": [
+      "severe weather",
+      "severe shortage"
+    ],
+    "wordFamily": [
+      "severity n.",
+      "severely adv."
+    ],
+    "synonyms": [
+      "serious",
+      "harsh"
+    ],
+    "antonyms": [
+      "mild"
+    ],
+    "usageNote": "severe 可形容问题严重、天气恶劣或惩罚严厉。",
+    "speechText": "severe",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The storm caused severe damage to the campus roof.",
+        "translationCN": "暴风雨严重损坏了校园屋顶。",
+        "attributionType": "original",
+        "speakText": "The storm caused severe damage to the campus roof."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The severe rules at Lowood made Jane's childhood even harder.",
+        "translationCN": "洛伍德学校严苛的规则让简的童年更加艰难。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "The severe rules at Lowood made Jane's childhood even harder."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Several regions have faced severe water shortages after repeated droughts.",
+        "translationCN": "近年一些地区因反复干旱而面临严重缺水。",
+        "attributionType": "current-context",
+        "speakText": "Several regions have faced severe water shortages after repeated droughts."
+      }
+    ]
+  },
+  "d09-minor": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈmaɪnə(r)/",
+        "meaningCN": "较小的；次要的",
+        "meaningEN": "small or less important",
+        "pattern": "a minor change/injury"
+      }
+    ],
+    "collocations": [
+      "minor detail",
+      "minor injury"
+    ],
+    "wordFamily": [
+      "minority n."
+    ],
+    "synonyms": [
+      "slight",
+      "secondary"
+    ],
+    "antonyms": [
+      "major"
+    ],
+    "usageNote": "minor 与 major 相对；表示未成年人时也可作名词。",
+    "speechText": "minor",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The draft needs only minor changes before submission.",
+        "translationCN": "这份草稿提交前只需做小幅修改。",
+        "attributionType": "original",
+        "speakText": "The draft needs only minor changes before submission."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "A minor misunderstanding grew into a serious quarrel between the families.",
+        "translationCN": "一个小误会演变成两家之间的严重争吵。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Romeo and Juliet",
+        "sourceAuthor": "William Shakespeare",
+        "speakText": "A minor misunderstanding grew into a serious quarrel between the families."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Software teams release minor updates to fix security weaknesses and improve stability.",
+        "translationCN": "近年软件团队通过小版本更新修复安全漏洞并提高稳定性。",
+        "attributionType": "current-context",
+        "speakText": "Software teams release minor updates to fix security weaknesses and improve stability."
+      }
+    ]
+  },
+  "d09-complex": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈkɒmpleks/",
+        "meaningCN": "复杂的；复合的",
+        "meaningEN": "made of many connected parts and difficult to understand",
+        "pattern": "a complex system"
+      }
+    ],
+    "collocations": [
+      "complex problem",
+      "highly complex"
+    ],
+    "wordFamily": [
+      "complexity n."
+    ],
+    "synonyms": [
+      "complicated",
+      "intricate"
+    ],
+    "antonyms": [
+      "simple"
+    ],
+    "usageNote": "complex 强调多部分相互联系；complicated 常强调难以处理。",
+    "speechText": "complex",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The diagram makes a complex process easier to understand.",
+        "translationCN": "这张图使复杂过程更容易理解。",
+        "attributionType": "original",
+        "speakText": "The diagram makes a complex process easier to understand."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Hamlet faced a complex choice involving duty, evidence, and revenge.",
+        "translationCN": "哈姆雷特面对一个涉及责任、证据和复仇的复杂选择。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Hamlet",
+        "sourceAuthor": "William Shakespeare",
+        "speakText": "Hamlet faced a complex choice involving duty, evidence, and revenge."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Global semiconductor supply chains remain complex and highly interconnected.",
+        "translationCN": "近年全球半导体供应链仍然复杂且高度互联。",
+        "attributionType": "current-context",
+        "speakText": "Global semiconductor supply chains remain complex and highly interconnected."
+      }
+    ]
+  },
+  "d09-ordinary": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈɔːdnri/",
+        "meaningCN": "普通的；平常的",
+        "meaningEN": "normal and not unusual or special",
+        "pattern": "an ordinary person/day"
+      }
+    ],
+    "collocations": [
+      "ordinary people",
+      "nothing out of the ordinary"
+    ],
+    "wordFamily": [
+      "ordinarily adv."
+    ],
+    "synonyms": [
+      "normal",
+      "everyday"
+    ],
+    "antonyms": [
+      "extraordinary"
+    ],
+    "usageNote": "ordinary 强调没有特殊之处；usual 强调经常发生。",
+    "speechText": "ordinary",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "An ordinary conversation can reveal important cultural differences.",
+        "translationCN": "一次普通对话也能揭示重要的文化差异。",
+        "attributionType": "original",
+        "speakText": "An ordinary conversation can reveal important cultural differences."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Bilbo's ordinary morning ended when unexpected guests filled his home.",
+        "translationCN": "不速之客挤满家门后，比尔博平常的早晨结束了。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Hobbit",
+        "sourceAuthor": "J. R. R. Tolkien",
+        "speakText": "Bilbo's ordinary morning ended when unexpected guests filled his home."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Smartphone cameras now let ordinary users record events in remarkable detail.",
+        "translationCN": "如今智能手机相机让普通用户也能细致记录事件。",
+        "attributionType": "current-context",
+        "speakText": "Smartphone cameras now let ordinary users record events in remarkable detail."
+      }
+    ]
+  },
+  "d09-remarkable": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/rɪˈmɑːkəbl/",
+        "meaningCN": "非凡的；显著的",
+        "meaningEN": "unusual and worthy of attention",
+        "pattern": "remarkable for"
+      }
+    ],
+    "collocations": [
+      "remarkable progress",
+      "remarkable achievement"
+    ],
+    "wordFamily": [
+      "remarkably adv.",
+      "remark v."
+    ],
+    "synonyms": [
+      "extraordinary",
+      "notable"
+    ],
+    "antonyms": [
+      "ordinary"
+    ],
+    "usageNote": "remarkable 表示值得注意或非凡；remark 是“评论”。",
+    "speechText": "remarkable",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The class made remarkable progress in academic writing.",
+        "translationCN": "全班在学术写作方面取得了显著进步。",
+        "attributionType": "original",
+        "speakText": "The class made remarkable progress in academic writing."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Helen Keller made remarkable progress after language opened the world to her.",
+        "translationCN": "语言为海伦·凯勒打开世界后，她取得了非凡进步。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Story of My Life",
+        "sourceAuthor": "Helen Keller",
+        "speakText": "Helen Keller made remarkable progress after language opened the world to her."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Recent vaccines were developed with remarkable speed through global scientific cooperation.",
+        "translationCN": "近年的疫苗在全球科学合作下以非凡速度研发出来。",
+        "attributionType": "current-context",
+        "speakText": "Recent vaccines were developed with remarkable speed through global scientific cooperation."
+      }
+    ]
+  },
+  "d09-formal": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈfɔːml/",
+        "meaningCN": "正式的；正规的",
+        "meaningEN": "official or following accepted rules",
+        "pattern": "formal education/agreement"
+      }
+    ],
+    "collocations": [
+      "formal meeting",
+      "formal approval"
+    ],
+    "wordFamily": [
+      "formally adv.",
+      "formality n."
+    ],
+    "synonyms": [
+      "official",
+      "ceremonial"
+    ],
+    "antonyms": [
+      "informal"
+    ],
+    "usageNote": "formal 可指正式场合、官方程序或规范教育。",
+    "speechText": "formal",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Applicants receive a formal offer by email after the interview.",
+        "translationCN": "申请者面试后会通过邮件收到正式录取通知。",
+        "attributionType": "original",
+        "speakText": "Applicants receive a formal offer by email after the interview."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Darcy's formal manner initially concealed the strength of his feelings.",
+        "translationCN": "达西正式拘谨的举止起初掩盖了他的强烈感情。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Darcy's formal manner initially concealed the strength of his feelings."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Several governments have begun formal negotiations on rules for artificial intelligence.",
+        "translationCN": "近年多个政府已开始就人工智能规则展开正式谈判。",
+        "attributionType": "current-context",
+        "speakText": "Several governments have begun formal negotiations on rules for artificial intelligence."
+      }
+    ]
+  },
+  "d09-informal": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/ɪnˈfɔːml/",
+        "meaningCN": "非正式的；随意的",
+        "meaningEN": "relaxed and not official",
+        "pattern": "informal discussion"
+      }
+    ],
+    "collocations": [
+      "informal meeting",
+      "informal language"
+    ],
+    "wordFamily": [
+      "informally adv.",
+      "informality n."
+    ],
+    "synonyms": [
+      "casual",
+      "unofficial"
+    ],
+    "antonyms": [
+      "formal"
+    ],
+    "usageNote": "informal 表示非正式但不等于不认真或不礼貌。",
+    "speechText": "informal",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The tutor held an informal discussion after class.",
+        "translationCN": "导师课后组织了一次非正式讨论。",
+        "attributionType": "original",
+        "speakText": "The tutor held an informal discussion after class."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The pilgrims shared stories in an informal contest during their journey.",
+        "translationCN": "朝圣者们在旅途中以非正式比赛的方式分享故事。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Canterbury Tales",
+        "sourceAuthor": "Geoffrey Chaucer",
+        "speakText": "The pilgrims shared stories in an informal contest during their journey."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Informal online communities often help programmers solve technical problems quickly.",
+        "translationCN": "近年非正式网络社群常帮助程序员快速解决技术问题。",
+        "attributionType": "current-context",
+        "speakText": "Informal online communities often help programmers solve technical problems quickly."
+      }
+    ]
+  },
+  "d09-remote": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "phonetic": "/rɪˈməʊt/",
+        "meaningCN": "遥远的；远程的；可能性小的",
+        "meaningEN": "far away, operated at a distance, or unlikely",
+        "pattern": "remote area/access/chance"
+      }
+    ],
+    "collocations": [
+      "remote village",
+      "remote access"
+    ],
+    "wordFamily": [
+      "remotely adv."
+    ],
+    "synonyms": [
+      "distant",
+      "isolated"
+    ],
+    "antonyms": [
+      "nearby"
+    ],
+    "usageNote": "remote 可表示地理遥远、远程控制，也可说 a remote chance“极小可能”。",
+    "speechText": "remote",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Remote access allows students to use the library database from home.",
+        "translationCN": "远程访问让学生能在家使用图书馆数据库。",
+        "attributionType": "original",
+        "speakText": "Remote access allows students to use the library database from home."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Heathcliff grew up in a remote house surrounded by open moorland.",
+        "translationCN": "希斯克利夫在荒原包围的偏远宅邸中长大。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Wuthering Heights",
+        "sourceAuthor": "Emily Brontë",
+        "speakText": "Heathcliff grew up in a remote house surrounded by open moorland."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Low-orbit satellites are expanding internet access in some remote communities.",
+        "translationCN": "近年低轨卫星正在扩大部分偏远社区的互联网接入。",
+        "attributionType": "current-context",
+        "speakText": "Low-orbit satellites are expanding internet access in some remote communities."
+      }
+    ]
+  },
+  "d10-claim": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/kleɪm/",
+        "meaningCN": "声称；索赔",
+        "meaningEN": "to state as true or ask for what is owed"
+      },
+      {
+        "pos": "n.",
+        "phonetic": "/kleɪm/",
+        "meaningCN": "主张；权利要求",
+        "meaningEN": "a statement or demand for a right"
+      }
+    ],
+    "collocations": [
+      "claim that",
+      "insurance claim"
+    ],
+    "wordFamily": [
+      "claimant n."
+    ],
+    "synonyms": [
+      "assert",
+      "demand"
+    ],
+    "antonyms": [
+      "deny"
+    ],
+    "usageNote": "claim 表示声称时不保证内容属实；claim damages 表示索赔。",
+    "speechText": "claim",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The article claims that online study always saves time.",
+        "translationCN": "文章声称在线学习总能节省时间。",
+        "attributionType": "original",
+        "speakText": "The article claims that online study always saves time."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The stranger claimed knowledge of secrets hidden in the old house.",
+        "translationCN": "陌生人声称知道老宅中隐藏的秘密。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Woman in White",
+        "sourceAuthor": "Wilkie Collins",
+        "speakText": "The stranger claimed knowledge of secrets hidden in the old house."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Independent laboratories test company claims about the performance of new batteries.",
+        "translationCN": "近年独立实验室检验企业有关新电池性能的说法。",
+        "attributionType": "current-context",
+        "speakText": "Independent laboratories test company claims about the performance of new batteries."
+      }
+    ]
+  },
+  "d10-issue": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈɪʃuː/",
+        "meaningCN": "问题；期号",
+        "meaningEN": "an important topic or an edition of a publication"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈɪʃuː/",
+        "meaningCN": "发布；签发",
+        "meaningEN": "to officially give or announce something"
+      }
+    ],
+    "collocations": [
+      "major issue",
+      "issue a statement"
+    ],
+    "wordFamily": [],
+    "synonyms": [
+      "matter",
+      "publish"
+    ],
+    "antonyms": [
+      "withdraw"
+    ],
+    "usageNote": "issue 可指待处理的问题、刊物一期；作动词表示正式发布或签发。",
+    "speechText": "issue",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The debate focused on the issue of unequal access to education.",
+        "translationCN": "辩论聚焦于教育机会不平等的问题。",
+        "attributionType": "original",
+        "speakText": "The debate focused on the issue of unequal access to education."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Justice became the central issue as the town watched the trial.",
+        "translationCN": "全镇关注审判时，正义成了核心问题。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "To Kill a Mockingbird",
+        "sourceAuthor": "Harper Lee",
+        "speakText": "Justice became the central issue as the town watched the trial."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Health agencies issue updated guidance when evidence about disease risks changes.",
+        "translationCN": "疾病风险证据变化时，卫生机构会发布更新指南。",
+        "attributionType": "current-context",
+        "speakText": "Health agencies issue updated guidance when evidence about disease risks changes."
+      }
+    ]
+  },
+  "d10-charge": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/tʃɑːdʒ/",
+        "meaningCN": "收费；指控；充电",
+        "meaningEN": "to ask payment, accuse, or fill with electricity"
+      },
+      {
+        "pos": "n.",
+        "phonetic": "/tʃɑːdʒ/",
+        "meaningCN": "费用；负责",
+        "meaningEN": "a price or responsibility for someone"
+      }
+    ],
+    "collocations": [
+      "charge a fee",
+      "in charge of"
+    ],
+    "wordFamily": [
+      "recharge v.",
+      "charger n."
+    ],
+    "synonyms": [
+      "bill",
+      "accuse"
+    ],
+    "antonyms": [
+      "discharge"
+    ],
+    "usageNote": "charge someone for something 或 charge someone an amount 表示收费；charge someone with a crime 表示指控；in charge of 表示负责。",
+    "speechText": "charge",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The laboratory does not charge students for basic materials.",
+        "translationCN": "实验室不向学生收取基本材料费。",
+        "attributionType": "original",
+        "speakText": "The laboratory does not charge students for basic materials."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Javert remained in charge of the search for the escaped prisoner.",
+        "translationCN": "沙威继续负责搜捕逃犯。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Les Misérables",
+        "sourceAuthor": "Victor Hugo",
+        "speakText": "Javert remained in charge of the search for the escaped prisoner."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Faster stations can charge many electric vehicles during a short stop.",
+        "translationCN": "近年的快速充电站可在短暂停留期间为多辆电动汽车充电。",
+        "attributionType": "current-context",
+        "speakText": "Faster stations can charge many electric vehicles during a short stop."
+      }
+    ]
+  },
+  "d10-concern": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kənˈsɜːn/",
+        "meaningCN": "担忧；关切",
+        "meaningEN": "a worry or important matter"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/kənˈsɜːn/",
+        "meaningCN": "涉及；使担忧",
+        "meaningEN": "to relate to or worry someone"
+      }
+    ],
+    "collocations": [
+      "cause concern",
+      "be concerned about"
+    ],
+    "wordFamily": [
+      "concerned adj.",
+      "concerning prep."
+    ],
+    "synonyms": [
+      "worry",
+      "involve"
+    ],
+    "antonyms": [
+      "reassure"
+    ],
+    "usageNote": "be concerned about 是担忧；as far as X is concerned 表示就 X 而言。",
+    "speechText": "concern",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Student safety is the university's main concern.",
+        "translationCN": "学生安全是大学最关心的问题。",
+        "attributionType": "original",
+        "speakText": "Student safety is the university's main concern."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Mr Bennet's lack of concern frustrated his anxious wife.",
+        "translationCN": "班纳特先生的漫不经心让焦虑的妻子十分沮丧。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Mr Bennet's lack of concern frustrated his anxious wife."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The spread of drug-resistant infections is a growing global concern.",
+        "translationCN": "耐药性感染的传播是近年日益严重的全球关切。",
+        "attributionType": "current-context",
+        "speakText": "The spread of drug-resistant infections is a growing global concern."
+      }
+    ]
+  },
+  "d10-figure": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈfɪɡə(r)/",
+        "meaningCN": "数字；人物；身影",
+        "meaningEN": "a number, person, or shape"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈfɪɡə(r)/",
+        "meaningCN": "认为；计算",
+        "meaningEN": "to think or calculate"
+      }
+    ],
+    "collocations": [
+      "official figures",
+      "public figure"
+    ],
+    "wordFamily": [
+      "figurative adj."
+    ],
+    "synonyms": [
+      "number",
+      "calculate"
+    ],
+    "antonyms": [],
+    "usageNote": "figure out 表示弄清楚；figure 作名词可指数值、人物或图形。",
+    "speechText": "figure",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The latest figures show a rise in library use.",
+        "translationCN": "最新数字显示图书馆使用率有所上升。",
+        "attributionType": "original",
+        "speakText": "The latest figures show a rise in library use."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "A dark figure appeared at the edge of the moor.",
+        "translationCN": "一个黑色身影出现在荒原边缘。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Hound of the Baskervilles",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "A dark figure appeared at the edge of the moor."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Public figures increasingly label computer-generated images shared online.",
+        "translationCN": "近年公众人物越来越多地标注网上分享的计算机生成图像。",
+        "attributionType": "current-context",
+        "speakText": "Public figures increasingly label computer-generated images shared online."
+      }
+    ]
+  },
+  "d10-account": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/əˈkaʊnt/",
+        "meaningCN": "账户；叙述；解释",
+        "meaningEN": "a banking arrangement, record, or description"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/əˈkaʊnt/",
+        "meaningCN": "解释；占比",
+        "meaningEN": "to explain or form a stated share",
+        "pattern": "account for"
+      }
+    ],
+    "collocations": [
+      "bank account",
+      "account for half"
+    ],
+    "wordFamily": [
+      "accountant n.",
+      "accountable adj."
+    ],
+    "synonyms": [
+      "report",
+      "explain"
+    ],
+    "antonyms": [],
+    "usageNote": "account for 可表示“解释原因”或“占据比例”；on account of 表示因为。",
+    "speechText": "account",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Online courses account for a third of the program's credits.",
+        "translationCN": "在线课程占该项目学分的三分之一。",
+        "attributionType": "original",
+        "speakText": "Online courses account for a third of the program's credits."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Ishmael gave a detailed account of life aboard the whaling ship.",
+        "translationCN": "以实玛利详细叙述了捕鲸船上的生活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Moby-Dick",
+        "sourceAuthor": "Herman Melville",
+        "speakText": "Ishmael gave a detailed account of life aboard the whaling ship."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Renewable energy accounts for a growing share of new electricity capacity.",
+        "translationCN": "近年可再生能源在新增发电能力中所占比例不断提高。",
+        "attributionType": "current-context",
+        "speakText": "Renewable energy accounts for a growing share of new electricity capacity."
+      }
+    ]
+  },
+  "d10-address": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈædres/",
+        "meaningCN": "地址；演说",
+        "meaningEN": "a location or formal speech"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/əˈdres/",
+        "meaningCN": "处理；向……讲话",
+        "meaningEN": "to deal with a problem or speak to someone"
+      }
+    ],
+    "collocations": [
+      "email address",
+      "address a problem"
+    ],
+    "wordFamily": [
+      "addressee n."
+    ],
+    "synonyms": [
+      "location",
+      "tackle"
+    ],
+    "antonyms": [
+      "ignore"
+    ],
+    "usageNote": "address a problem 是“处理问题”，不是只讨论问题。美式英语中名词常重读首音节 /ˈædres/，动词重读末音节 /əˈdres/。",
+    "speechText": "address",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The committee proposed three ways to address food waste.",
+        "translationCN": "委员会提出了三种处理食物浪费的方法。",
+        "attributionType": "original",
+        "speakText": "The committee proposed three ways to address food waste."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The captain addressed the crew before they entered dangerous waters.",
+        "translationCN": "进入危险水域前，船长向船员讲话。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Treasure Island",
+        "sourceAuthor": "Robert Louis Stevenson",
+        "speakText": "The captain addressed the crew before they entered dangerous waters."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Cities are planting shade trees to address rising urban heat.",
+        "translationCN": "近年城市通过种植遮阴树木来应对不断上升的城市高温。",
+        "attributionType": "current-context",
+        "speakText": "Cities are planting shade trees to address rising urban heat."
+      }
+    ]
+  },
+  "d10-approach": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/əˈprəʊtʃ/",
+        "meaningCN": "方法",
+        "meaningEN": "a way of dealing with something"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/əˈprəʊtʃ/",
+        "meaningCN": "接近；着手处理",
+        "meaningEN": "to come near or begin dealing with"
+      }
+    ],
+    "collocations": [
+      "a new approach",
+      "approach the problem"
+    ],
+    "wordFamily": [
+      "approachable adj."
+    ],
+    "synonyms": [
+      "method",
+      "near"
+    ],
+    "antonyms": [
+      "withdraw"
+    ],
+    "usageNote": "approach 作动词直接接宾语，不说 approach to the station；名词常用 approach to。",
+    "speechText": "approach",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The teacher used a practical approach to grammar.",
+        "translationCN": "老师采用实用方法教授语法。",
+        "attributionType": "original",
+        "speakText": "The teacher used a practical approach to grammar."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "As the ship approached the island, Jim watched the shore carefully.",
+        "translationCN": "船接近岛屿时，吉姆仔细观察海岸。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Treasure Island",
+        "sourceAuthor": "Robert Louis Stevenson",
+        "speakText": "As the ship approached the island, Jim watched the shore carefully."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Researchers use a combined approach to track climate risks and public health.",
+        "translationCN": "近年研究人员采用综合方法追踪气候风险与公共健康。",
+        "attributionType": "current-context",
+        "speakText": "Researchers use a combined approach to track climate risks and public health."
+      }
+    ]
+  },
+  "d10-object": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈɒbdʒɪkt/",
+        "meaningCN": "物体；目标；宾语",
+        "meaningEN": "a thing, aim, or grammatical receiver of an action"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/əbˈdʒekt/",
+        "meaningCN": "反对",
+        "meaningEN": "to express opposition",
+        "pattern": "object to doing"
+      }
+    ],
+    "collocations": [
+      "physical object",
+      "object to the plan"
+    ],
+    "wordFamily": [
+      "objection n.",
+      "objective n./adj."
+    ],
+    "synonyms": [
+      "thing",
+      "oppose"
+    ],
+    "antonyms": [
+      "support"
+    ],
+    "usageNote": "名词 object /ˈɒbdʒɪkt/；动词 object /əbˈdʒekt/，常用 object to doing。",
+    "speechText": "object noun; object verb",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Several residents objected to building a car park beside the school.",
+        "translationCN": "几位居民反对在学校旁建停车场。",
+        "attributionType": "original",
+        "speakText": "Several residents objected to building a car park beside the school."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The mysterious object in the road made the traveller stop.",
+        "translationCN": "路上的神秘物体使旅行者停下脚步。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The War of the Worlds",
+        "sourceAuthor": "H. G. Wells",
+        "speakText": "The mysterious object in the road made the traveller stop."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Astronomers track every known object that passes close to Earth.",
+        "translationCN": "近年天文学家持续追踪每个已知的近地天体。",
+        "attributionType": "current-context",
+        "speakText": "Astronomers track every known object that passes close to Earth."
+      }
+    ]
+  },
+  "d10-subject": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈsʌbdʒɪkt/",
+        "meaningCN": "主题；学科；研究对象",
+        "meaningEN": "a topic, field of study, or person being studied"
+      },
+      {
+        "pos": "adj.",
+        "phonetic": "/ˈsʌbdʒɪkt/",
+        "meaningCN": "受制于；可能受……影响",
+        "meaningEN": "dependent on or likely to experience",
+        "pattern": "subject to"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/səbˈdʒekt/",
+        "meaningCN": "使遭受",
+        "meaningEN": "to cause someone to experience something",
+        "pattern": "subject someone to"
+      }
+    ],
+    "collocations": [
+      "school subject",
+      "subject to change"
+    ],
+    "wordFamily": [
+      "subjective adj."
+    ],
+    "synonyms": [
+      "topic",
+      "expose"
+    ],
+    "antonyms": [],
+    "usageNote": "名词/形容词 subject /ˈsʌbdʒɪkt/；动词 subject /səbˈdʒekt/，重音后移。",
+    "speechText": "subject noun; subject verb",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The timetable is subject to change during the examination period.",
+        "translationCN": "考试期间时间表可能会有变动。",
+        "attributionType": "original",
+        "speakText": "The timetable is subject to change during the examination period."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Revenge became the central subject of Hamlet's troubled thoughts.",
+        "translationCN": "复仇成了哈姆雷特烦乱思绪的核心主题。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Hamlet",
+        "sourceAuthor": "William Shakespeare",
+        "speakText": "Revenge became the central subject of Hamlet's troubled thoughts."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "High-risk artificial intelligence is subject to stricter rules in several jurisdictions.",
+        "translationCN": "近年高风险人工智能在多个司法辖区受到更严格规则约束。",
+        "attributionType": "current-context",
+        "speakText": "High-risk artificial intelligence is subject to stricter rules in several jurisdictions."
+      }
+    ]
+  },
+  "d10-conduct": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈkɒndʌkt/",
+        "meaningCN": "行为；举止",
+        "meaningEN": "the way someone behaves"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/kənˈdʌkt/",
+        "meaningCN": "实施；引导；指挥",
+        "meaningEN": "to organize, carry out, or lead"
+      }
+    ],
+    "collocations": [
+      "code of conduct",
+      "conduct research"
+    ],
+    "wordFamily": [
+      "conductor n.",
+      "misconduct n."
+    ],
+    "synonyms": [
+      "behavior",
+      "carry out"
+    ],
+    "antonyms": [],
+    "usageNote": "名词 conduct /ˈkɒndʌkt/；动词 conduct /kənˈdʌkt/，重音后移。",
+    "speechText": "conduct noun; conduct verb",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The students conducted interviews for their social research project.",
+        "translationCN": "学生为社会研究项目开展了访谈。",
+        "attributionType": "original",
+        "speakText": "The students conducted interviews for their social research project."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Darcy's conduct at the assembly shaped Elizabeth's first opinion of him.",
+        "translationCN": "达西在舞会上的举止影响了伊丽莎白对他的第一印象。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Darcy's conduct at the assembly shaped Elizabeth's first opinion of him."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "International teams conduct regular surveys of glaciers using satellites and aircraft.",
+        "translationCN": "近年国际团队利用卫星和飞机定期开展冰川调查。",
+        "attributionType": "current-context",
+        "speakText": "International teams conduct regular surveys of glaciers using satellites and aircraft."
+      }
+    ]
+  },
+  "d10-present": {
+    "senses": [
+      {
+        "pos": "adj./n.",
+        "phonetic": "/ˈpreznt/",
+        "meaningCN": "目前的；在场的；礼物；现在",
+        "meaningEN": "current, attending, a gift, or the current time"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/prɪˈzent/",
+        "meaningCN": "呈现；赠送",
+        "meaningEN": "to show, introduce, or formally give"
+      }
+    ],
+    "collocations": [
+      "at present",
+      "present the findings"
+    ],
+    "wordFamily": [
+      "presentation n.",
+      "presenter n."
+    ],
+    "synonyms": [
+      "current",
+      "show"
+    ],
+    "antonyms": [
+      "absent",
+      "withhold"
+    ],
+    "usageNote": "形容词/名词 present /ˈpreznt/；动词 present /prɪˈzent/，动词重音后移。",
+    "speechText": "present adjective; present verb",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Each group will present its findings at the end of the term.",
+        "translationCN": "每组将在学期末展示研究结果。",
+        "attributionType": "original",
+        "speakText": "Each group will present its findings at the end of the term."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The Ghost of Christmas Present showed Scrooge the life around him.",
+        "translationCN": "圣诞现在之灵向斯克鲁奇展示了他周围的生活。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Christmas Carol",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "The Ghost of Christmas Present showed Scrooge the life around him."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Climate scientists present new observations at international assessment meetings.",
+        "translationCN": "近年气候科学家在国际评估会议上展示新观测结果。",
+        "attributionType": "current-context",
+        "speakText": "Climate scientists present new observations at international assessment meetings."
+      }
+    ]
+  },
+  "d10-content": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈkɒntent/",
+        "meaningCN": "内容；含量",
+        "meaningEN": "the material inside something or dealt with in a work"
+      },
+      {
+        "pos": "adj.",
+        "phonetic": "/kənˈtent/",
+        "meaningCN": "满意的",
+        "meaningEN": "satisfied and willing to accept a situation",
+        "pattern": "content with/to do"
+      }
+    ],
+    "collocations": [
+      "course content",
+      "content with the result"
+    ],
+    "wordFamily": [
+      "contentment n.",
+      "contented adj."
+    ],
+    "synonyms": [
+      "material",
+      "satisfied"
+    ],
+    "antonyms": [
+      "dissatisfied"
+    ],
+    "usageNote": "名词 content /ˈkɒntent/；形容词 content /kənˈtent/，形容词重音后移。",
+    "speechText": "content noun; content adjective",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The course content includes statistics and research ethics.",
+        "translationCN": "课程内容包括统计学和研究伦理。",
+        "attributionType": "original",
+        "speakText": "The course content includes statistics and research ethics."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Heidi felt content with the simple life she shared with her grandfather.",
+        "translationCN": "海蒂对与祖父共同度过的朴素生活感到满足。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Heidi",
+        "sourceAuthor": "Johanna Spyri",
+        "speakText": "Heidi felt content with the simple life she shared with her grandfather."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Platforms increasingly label synthetic content created by generative artificial intelligence.",
+        "translationCN": "近年平台越来越多地标注生成式人工智能制作的合成内容。",
+        "attributionType": "current-context",
+        "speakText": "Platforms increasingly label synthetic content created by generative artificial intelligence."
+      }
+    ]
+  },
+  "d10-course": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kɔːs/",
+        "meaningCN": "课程；过程；路线；一道菜",
+        "meaningEN": "a class, direction, series of events, or part of a meal"
+      }
+    ],
+    "collocations": [
+      "training course",
+      "course of action"
+    ],
+    "wordFamily": [],
+    "synonyms": [
+      "class",
+      "route"
+    ],
+    "antonyms": [],
+    "usageNote": "course of action 是行动方案；of course 表示当然；course 还可指一道菜。",
+    "speechText": "course",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "This course introduces students to environmental economics.",
+        "translationCN": "这门课程向学生介绍环境经济学。",
+        "attributionType": "original",
+        "speakText": "This course introduces students to environmental economics."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The storm forced Odysseus to change the course of his ship.",
+        "translationCN": "暴风雨迫使奥德修斯改变船的航线。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Odyssey",
+        "sourceAuthor": "Homer",
+        "speakText": "The storm forced Odysseus to change the course of his ship."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The course of battery development is changing transport and energy planning.",
+        "translationCN": "近年电池发展的进程正在改变交通与能源规划。",
+        "attributionType": "current-context",
+        "speakText": "The course of battery development is changing transport and energy planning."
+      }
+    ]
+  },
+  "d10-matter": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈmætə(r)/",
+        "meaningCN": "事情；物质",
+        "meaningEN": "a subject or physical substance"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈmætə(r)/",
+        "meaningCN": "要紧",
+        "meaningEN": "to be important"
+      }
+    ],
+    "collocations": [
+      "a serious matter",
+      "it matters"
+    ],
+    "wordFamily": [],
+    "synonyms": [
+      "issue",
+      "substance"
+    ],
+    "antonyms": [],
+    "usageNote": "matter 作不可数名词可指物质；作动词常用于 it matters。",
+    "speechText": "matter",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Small details matter when you report experimental results.",
+        "translationCN": "报告实验结果时，小细节很重要。",
+        "attributionType": "original",
+        "speakText": "Small details matter when you report experimental results."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "For the Little Prince, the time given to the rose was what mattered.",
+        "translationCN": "对小王子而言，为玫瑰付出的时间才是重要的。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Little Prince",
+        "sourceAuthor": "Antoine de Saint-Exupéry",
+        "speakText": "For the Little Prince, the time given to the rose was what mattered."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Dark matter remains one of the largest unanswered questions in physics.",
+        "translationCN": "近年暗物质仍是物理学中最大的未解问题之一。",
+        "attributionType": "current-context",
+        "speakText": "Dark matter remains one of the largest unanswered questions in physics."
+      }
+    ]
+  },
+  "d10-means": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/miːnz/",
+        "meaningCN": "方法；手段；财力",
+        "meaningEN": "a method or available money and resources",
+        "pattern": "a means of doing"
+      }
+    ],
+    "collocations": [
+      "means of transport",
+      "by all means"
+    ],
+    "wordFamily": [],
+    "synonyms": [
+      "method",
+      "resources"
+    ],
+    "antonyms": [],
+    "usageNote": "means 单复数同形：a means / several means；by means of 表示借助。",
+    "speechText": "means",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Email remains an efficient means of communication for the class.",
+        "translationCN": "电子邮件仍是班级沟通的有效手段。",
+        "attributionType": "original",
+        "speakText": "Email remains an efficient means of communication for the class."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Robinson Crusoe used every available means to build a secure shelter.",
+        "translationCN": "鲁滨孙利用一切可用手段建造安全住所。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Robinson Crusoe",
+        "sourceAuthor": "Daniel Defoe",
+        "speakText": "Robinson Crusoe used every available means to build a secure shelter."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Mobile payments provide a useful means of exchange in many rural markets.",
+        "translationCN": "近年移动支付为许多农村市场提供了有用的交易手段。",
+        "attributionType": "current-context",
+        "speakText": "Mobile payments provide a useful means of exchange in many rural markets."
+      }
+    ]
+  },
+  "d10-measure": {
+    "senses": [
+      {
+        "pos": "v.",
+        "phonetic": "/ˈmeʒə(r)/",
+        "meaningCN": "测量；衡量",
+        "meaningEN": "to find size or judge degree"
+      },
+      {
+        "pos": "n.",
+        "phonetic": "/ˈmeʒə(r)/",
+        "meaningCN": "措施；程度",
+        "meaningEN": "an action taken or an amount"
+      }
+    ],
+    "collocations": [
+      "measure progress",
+      "safety measure"
+    ],
+    "wordFamily": [
+      "measurement n.",
+      "measurable adj."
+    ],
+    "synonyms": [
+      "assess",
+      "action"
+    ],
+    "antonyms": [],
+    "usageNote": "take measures to do 表示采取措施；measure 作动词可表示测量或衡量。",
+    "speechText": "measure",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The survey measures changes in students' reading habits.",
+        "translationCN": "该调查衡量学生阅读习惯的变化。",
+        "attributionType": "original",
+        "speakText": "The survey measures changes in students' reading habits."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The tailor carefully took the customer's measure before making the new coat.",
+        "translationCN": "裁缝在制作新外套前仔细量了尺寸。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Tailor of Gloucester",
+        "sourceAuthor": "Beatrix Potter",
+        "speakText": "The tailor carefully took the customer's measure before making the new coat."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Cities are adopting measures to protect residents during extreme heat.",
+        "translationCN": "近年城市正采取措施，在极端高温期间保护居民。",
+        "attributionType": "current-context",
+        "speakText": "Cities are adopting measures to protect residents during extreme heat."
+      }
+    ]
+  },
+  "d10-rate": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/reɪt/",
+        "meaningCN": "比率；速度；费用",
+        "meaningEN": "a level, speed, or price"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/reɪt/",
+        "meaningCN": "评价；评定",
+        "meaningEN": "to judge or assign a score"
+      }
+    ],
+    "collocations": [
+      "growth rate",
+      "rate performance"
+    ],
+    "wordFamily": [
+      "rating n."
+    ],
+    "synonyms": [
+      "ratio",
+      "evaluate"
+    ],
+    "antonyms": [],
+    "usageNote": "at a rate of 表示以某速度或比率；rate A as B 表示把 A 评为 B。",
+    "speechText": "rate",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The completion rate rose after the course was redesigned.",
+        "translationCN": "课程重新设计后，完成率上升了。",
+        "attributionType": "original",
+        "speakText": "The completion rate rose after the course was redesigned."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Scrooge rated profit above human kindness.",
+        "translationCN": "斯克鲁奇对利润的看重超过了人情温暖。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Christmas Carol",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Scrooge rated profit above human kindness."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The rate of electric-vehicle adoption differs widely between regions.",
+        "translationCN": "近年不同地区采用电动汽车的速度差异很大。",
+        "attributionType": "current-context",
+        "speakText": "The rate of electric-vehicle adoption differs widely between regions."
+      }
+    ]
+  },
+  "d10-range": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/reɪndʒ/",
+        "meaningCN": "范围；系列；变化区间",
+        "meaningEN": "an area between limits or a variety"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/reɪndʒ/",
+        "meaningCN": "变化；排列；延伸",
+        "meaningEN": "to vary between limits, arrange, or extend over an area"
+      }
+    ],
+    "collocations": [
+      "wide range",
+      "range from A to B"
+    ],
+    "wordFamily": [],
+    "synonyms": [
+      "scope",
+      "vary"
+    ],
+    "antonyms": [],
+    "usageNote": "range from A to B 表示范围从 A 到 B；a range of 后接复数名词。",
+    "speechText": "range",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The library offers a wide range of digital resources.",
+        "translationCN": "图书馆提供多种数字资源。",
+        "attributionType": "original",
+        "speakText": "The library offers a wide range of digital resources."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The hills ranged across the horizon beyond the travelers' path.",
+        "translationCN": "群山绵延在旅行者道路之外的地平线上。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Fellowship of the Ring",
+        "sourceAuthor": "J. R. R. Tolkien",
+        "speakText": "The hills ranged across the horizon beyond the travelers' path."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "New satellite services support a range of uses from navigation to disaster response.",
+        "translationCN": "近年的新型卫星服务支持从导航到灾害响应的多种用途。",
+        "attributionType": "current-context",
+        "speakText": "New satellite services support a range of uses from navigation to disaster response."
+      }
+    ]
+  },
+  "d10-term": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/tɜːm/",
+        "meaningCN": "术语；期限；学期",
+        "meaningEN": "a word, period, or school session"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/tɜːm/",
+        "meaningCN": "称为",
+        "meaningEN": "to give a particular name to"
+      }
+    ],
+    "collocations": [
+      "technical term",
+      "long-term plan"
+    ],
+    "wordFamily": [
+      "terminology n."
+    ],
+    "synonyms": [
+      "word",
+      "period"
+    ],
+    "antonyms": [],
+    "usageNote": "in terms of 表示就……而言；term 作动词常用 be termed“被称为”。",
+    "speechText": "term",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The term has a different meaning in economics.",
+        "translationCN": "这个术语在经济学中有不同含义。",
+        "attributionType": "original",
+        "speakText": "The term has a different meaning in economics."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The school term at Lowood demanded discipline from every pupil.",
+        "translationCN": "洛伍德的学期要求每个学生严守纪律。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "The school term at Lowood demanded discipline from every pupil."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The term generative artificial intelligence has entered everyday discussion.",
+        "translationCN": "近年“生成式人工智能”这一术语已进入日常讨论。",
+        "attributionType": "current-context",
+        "speakText": "The term generative artificial intelligence has entered everyday discussion."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2307 @@
+{
+  "d03-aspect": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈæspekt/",
+        "meaningCN": "方面；层面",
+        "meaningEN": "one part or feature of a situation",
+        "pattern": "an aspect of"
+      }
+    ],
+    "collocations": [
+      "a key aspect of",
+      "every aspect of"
+    ],
+    "wordFamily": [
+      "aspectual adj."
+    ],
+    "synonyms": [
+      "dimension — 强调可分析的层面",
+      "feature — 强调显著特征"
+    ],
+    "antonyms": [
+      "whole"
+    ],
+    "usageNote": "可数名词；谈“……的一个方面”用 an aspect of，不用 an aspect about。表达“从社会或经济角度”更自然地说 from a social or economic perspective。",
+    "speechText": "aspect",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The survey examines every aspect of student life.",
+        "translationCN": "这项调查考察学生生活的各个方面。",
+        "attributionType": "original",
+        "speakText": "The survey examines every aspect of student life."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Elizabeth began to see another aspect of Darcy's character.",
+        "translationCN": "伊丽莎白开始看到达西性格的另一个侧面。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Elizabeth began to see another aspect of Darcy's character."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Energy security is one aspect of the global shift toward cleaner power.",
+        "translationCN": "能源安全是全球转向更清洁能源的一个方面。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Energy security is one aspect of the global shift toward cleaner power."
+      }
+    ]
+  },
+  "d03-factor": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈfæktə(r)/",
+        "meaningCN": "因素",
+        "meaningEN": "something that influences a result",
+        "pattern": "a factor in"
+      }
+    ],
+    "collocations": [
+      "a major factor",
+      "contributing factor"
+    ],
+    "wordFamily": [
+      "factor v.",
+      "factorial adj."
+    ],
+    "synonyms": [
+      "element — 构成要素",
+      "cause — 直接原因"
+    ],
+    "antonyms": [],
+    "usageNote": "可数名词；factor in 强调“……中的因素”，factor behind 指背后成因。多个因素用 factors；influence 则可作可数或不可数名词。",
+    "speechText": "factor",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Cost was an important factor in choosing the course.",
+        "translationCN": "费用是选择这门课程时的一个重要因素。",
+        "attributionType": "original",
+        "speakText": "Cost was an important factor in choosing the course."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Weather became a decisive factor in Phileas Fogg's journey.",
+        "translationCN": "天气成了斐利亚·福克旅程中的决定性因素。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Around the World in Eighty Days",
+        "sourceAuthor": "Jules Verne",
+        "speakText": "Weather became a decisive factor in Phileas Fogg's journey."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Battery cost remains a major factor in the adoption of electric vehicles.",
+        "translationCN": "电池成本仍是电动汽车普及的一个主要因素。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Battery cost remains a major factor in the adoption of electric vehicles."
+      }
+    ]
+  },
+  "d03-evidence": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈevɪdəns/",
+        "meaningCN": "证据；迹象",
+        "meaningEN": "facts or signs showing that something is true",
+        "pattern": "evidence of/for"
+      }
+    ],
+    "collocations": [
+      "strong evidence",
+      "provide evidence"
+    ],
+    "wordFamily": [
+      "evident adj.",
+      "evidently adv."
+    ],
+    "synonyms": [
+      "proof — 更强调确证",
+      "indication — 较弱的迹象"
+    ],
+    "antonyms": [
+      "disproof"
+    ],
+    "usageNote": "通常不可数：说 some/a piece of evidence，不说 an evidence 或 evidences。evidence of 表示某事存在的迹象，evidence for 支持某观点。",
+    "speechText": "evidence",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The researchers found strong evidence of improved memory.",
+        "translationCN": "研究人员发现了记忆力提高的有力证据。",
+        "attributionType": "original",
+        "speakText": "The researchers found strong evidence of improved memory."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Holmes studied each piece of evidence before naming the suspect.",
+        "translationCN": "福尔摩斯在指出嫌疑人前研究了每一项证据。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Sherlock Holmes",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "Holmes studied each piece of evidence before naming the suspect."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Satellite records provide evidence that many glaciers are retreating.",
+        "translationCN": "卫星记录提供了许多冰川正在消退的证据。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Satellite records provide evidence that many glaciers are retreating."
+      }
+    ]
+  },
+  "d03-consequence": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈkɒnsɪkwəns/",
+        "meaningCN": "结果；后果",
+        "meaningEN": "a result, especially one caused by an action",
+        "pattern": "a consequence of"
+      }
+    ],
+    "collocations": [
+      "serious consequences",
+      "as a consequence"
+    ],
+    "wordFamily": [
+      "consequent adj.",
+      "consequently adv."
+    ],
+    "synonyms": [
+      "result — 中性结果",
+      "outcome — 过程的最终结果"
+    ],
+    "antonyms": [
+      "cause"
+    ],
+    "usageNote": "可数，常用复数 consequences 指不良后果；a consequence of 后接原因，as a consequence 表“因此”，是阅读中的因果标记。",
+    "speechText": "consequence",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Missing several lectures may have serious consequences for your grade.",
+        "translationCN": "缺席多次讲座可能会对你的成绩造成严重后果。",
+        "attributionType": "original",
+        "speakText": "Missing several lectures may have serious consequences for your grade."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Victor slowly understood the terrible consequence of his experiment.",
+        "translationCN": "维克多逐渐明白了他的实验所造成的可怕后果。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Frankenstein",
+        "sourceAuthor": "Mary Shelley",
+        "speakText": "Victor slowly understood the terrible consequence of his experiment."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Longer heat waves can be a consequence of a warming climate.",
+        "translationCN": "更持久的热浪可能是气候变暖的后果。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Longer heat waves can be a consequence of a warming climate."
+      }
+    ]
+  },
+  "d03-opportunity": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌɒpəˈtjuːnəti/",
+        "meaningCN": "机会；时机",
+        "meaningEN": "a suitable chance to do something",
+        "pattern": "an opportunity to do"
+      }
+    ],
+    "collocations": [
+      "equal opportunity",
+      "take the opportunity"
+    ],
+    "wordFamily": [
+      "opportune adj.",
+      "opportunely adv."
+    ],
+    "synonyms": [
+      "chance — 更口语且可含偶然性",
+      "opening — 可利用的空缺"
+    ],
+    "antonyms": [
+      "obstacle"
+    ],
+    "usageNote": "可数；优先用 opportunity to do something 或 opportunity for something。opportunity of doing 语法上可用，但较少见。",
+    "speechText": "opportunity",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The exchange program gives students an opportunity to practise English abroad.",
+        "translationCN": "交换项目给学生提供了在国外练习英语的机会。",
+        "attributionType": "original",
+        "speakText": "The exchange program gives students an opportunity to practise English abroad."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jane welcomed the opportunity to begin an independent life at Thornfield.",
+        "translationCN": "简欣然接受了在桑菲尔德开始独立生活的机会。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane welcomed the opportunity to begin an independent life at Thornfield."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Low-cost satellites offer smaller nations new opportunities for Earth observation.",
+        "translationCN": "低成本卫星为较小国家提供了地球观测的新机会。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Low-cost satellites offer smaller nations new opportunities for Earth observation."
+      }
+    ]
+  },
+  "d03-capacity": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kəˈpæsəti/",
+        "meaningCN": "能力；容量",
+        "meaningEN": "ability or the maximum amount something can hold",
+        "pattern": "capacity for/to; capacity of"
+      }
+    ],
+    "collocations": [
+      "production capacity",
+      "capacity to learn"
+    ],
+    "wordFamily": [
+      "capable adj.",
+      "capability n.",
+      "incapacity n."
+    ],
+    "synonyms": [
+      "ability — 一般能力",
+      "capability — 可实现某事的能力"
+    ],
+    "antonyms": [
+      "incapacity"
+    ],
+    "usageNote": "表示容量可数或不可数，常用 a capacity of + 数量；表示能力常用 capacity to do/for。at full capacity 表“满负荷”。",
+    "speechText": "capacity",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The new library has a seating capacity of eight hundred.",
+        "translationCN": "新图书馆可容纳八百人就座。",
+        "attributionType": "original",
+        "speakText": "The new library has a seating capacity of eight hundred."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Dorothy discovered her companions' capacity for courage along the road.",
+        "translationCN": "多萝茜在旅途中发现了伙伴们勇敢的能力。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Wonderful Wizard of Oz",
+        "sourceAuthor": "L. Frank Baum",
+        "speakText": "Dorothy discovered her companions' capacity for courage along the road."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Many regions are expanding renewable-energy storage capacity.",
+        "translationCN": "许多地区正在扩大可再生能源储存能力。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Many regions are expanding renewable-energy storage capacity."
+      }
+    ]
+  },
+  "d03-pressure": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈpreʃə(r)/",
+        "meaningCN": "压力；压强",
+        "meaningEN": "force or worry produced by demands",
+        "pattern": "pressure on; under pressure"
+      }
+    ],
+    "collocations": [
+      "under pressure",
+      "public pressure"
+    ],
+    "wordFamily": [
+      "press v.",
+      "pressurize v.",
+      "pressurized adj."
+    ],
+    "synonyms": [
+      "stress — 身心紧张",
+      "strain — 长期负担"
+    ],
+    "antonyms": [
+      "relief"
+    ],
+    "usageNote": "表示心理或社会压力通常不可数；pressure on somebody/to do something。under pressure 是固定搭配，不用 under the pressure，除非特指。",
+    "speechText": "pressure",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "She learned to remain calm under examination pressure.",
+        "translationCN": "她学会了在考试压力下保持冷静。",
+        "attributionType": "original",
+        "speakText": "She learned to remain calm under examination pressure."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Under family pressure, Anne tried to hide the depth of her feelings.",
+        "translationCN": "在家庭压力下，安妮试图隐藏自己深切的感情。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Persuasion",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Under family pressure, Anne tried to hide the depth of her feelings."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Growing electricity demand is putting pressure on aging power grids.",
+        "translationCN": "不断增长的用电需求正给老化的电网带来压力。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Growing electricity demand is putting pressure on aging power grids."
+      }
+    ]
+  },
+  "d03-tendency": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈtendənsi/",
+        "meaningCN": "趋势；倾向",
+        "meaningEN": "a usual direction of change or way of behaving",
+        "pattern": "a tendency to/toward"
+      }
+    ],
+    "collocations": [
+      "a growing tendency",
+      "show a tendency"
+    ],
+    "wordFamily": [
+      "tend v."
+    ],
+    "synonyms": [
+      "trend — 可观察的发展方向",
+      "inclination — 个人意愿"
+    ],
+    "antonyms": [
+      "disinclination"
+    ],
+    "usageNote": "可数；a tendency to do 表行为倾向，a tendency toward(s) + 名词表发展方向。阅读中不等于必然结果，只表示概率偏向。",
+    "speechText": "tendency",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Some learners have a tendency to translate every sentence word for word.",
+        "translationCN": "一些学习者倾向于逐字翻译每个句子。",
+        "attributionType": "original",
+        "speakText": "Some learners have a tendency to translate every sentence word for word."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Dorian's tendency to seek beauty gradually overcame his better judgment.",
+        "translationCN": "道林追求美的倾向逐渐压过了他更明智的判断。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Picture of Dorian Gray",
+        "sourceAuthor": "Oscar Wilde",
+        "speakText": "Dorian's tendency to seek beauty gradually overcame his better judgment."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Remote work has strengthened the tendency toward flexible office arrangements.",
+        "translationCN": "远程办公强化了采用灵活办公安排的趋势。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Remote work has strengthened the tendency toward flexible office arrangements."
+      }
+    ]
+  },
+  "d03-comparison": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kəmˈpærɪsn/",
+        "meaningCN": "比较；对照",
+        "meaningEN": "the act of examining similarities and differences",
+        "pattern": "comparison with/between"
+      }
+    ],
+    "collocations": [
+      "make a comparison",
+      "by comparison"
+    ],
+    "wordFamily": [
+      "compare v.",
+      "comparable adj.",
+      "comparative adj."
+    ],
+    "synonyms": [
+      "contrast — 突出差异",
+      "parallel — 突出相似"
+    ],
+    "antonyms": [],
+    "usageNote": "可数或不可数；comparison between A and B，comparison with/to something。by comparison 是篇章转折标记；beyond comparison 表“无与伦比”。",
+    "speechText": "comparison",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "A comparison between the two surveys revealed a change in study habits.",
+        "translationCN": "对两项调查的比较显示学习习惯发生了变化。",
+        "attributionType": "original",
+        "speakText": "A comparison between the two surveys revealed a change in study habits."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "In comparison with London, the country house seemed wonderfully quiet to Pip.",
+        "translationCN": "与伦敦相比，那座乡间宅邸在匹普看来安静极了。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "In comparison with London, the country house seemed wonderfully quiet to Pip."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "International comparisons help cities evaluate their public transport systems.",
+        "translationCN": "国际比较有助于城市评估其公共交通系统。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "International comparisons help cities evaluate their public transport systems."
+      }
+    ]
+  },
+  "d03-feature": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈfiːtʃə(r)/",
+        "meaningCN": "特征；特色",
+        "meaningEN": "an important or noticeable characteristic",
+        "pattern": "a feature of"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈfiːtʃə(r)/",
+        "meaningCN": "以……为特色；重点展示",
+        "meaningEN": "to include someone or something prominently",
+        "pattern": "feature somebody/something"
+      }
+    ],
+    "collocations": [
+      "a distinctive feature",
+      "feature prominently"
+    ],
+    "wordFamily": [
+      "featured adj."
+    ],
+    "synonyms": [
+      "characteristic — 典型性质",
+      "trait — 人或物的特质"
+    ],
+    "antonyms": [],
+    "usageNote": "名词可数，a feature of；动词可及物，也可用 feature in 表“在……中担任重要部分”。阅读中 feature 不一定指“功能”。",
+    "speechText": "feature",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Group discussion is a central feature of the language course.",
+        "translationCN": "小组讨论是这门语言课程的核心特色。",
+        "attributionType": "original",
+        "speakText": "Group discussion is a central feature of the language course."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "A locked room became the most puzzling feature of the case.",
+        "translationCN": "一间上锁的房间成了案件中最令人费解的特征。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Sherlock Holmes",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "A locked room became the most puzzling feature of the case."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "New smartphones increasingly feature tools that run artificial intelligence on the device.",
+        "translationCN": "新款智能手机越来越多地配备在设备端运行人工智能的工具。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "New smartphones increasingly feature tools that run artificial intelligence on the device."
+      }
+    ]
+  },
+  "d03-function": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈfʌŋkʃn/",
+        "meaningCN": "功能；作用",
+        "meaningEN": "the purpose or normal activity of something",
+        "pattern": "the function of"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈfʌŋkʃn/",
+        "meaningCN": "运转；起作用",
+        "meaningEN": "to work or operate",
+        "pattern": "function as"
+      }
+    ],
+    "collocations": [
+      "perform a function",
+      "function properly"
+    ],
+    "wordFamily": [
+      "functional adj.",
+      "functionality n.",
+      "dysfunction n."
+    ],
+    "synonyms": [
+      "purpose — 预定用途",
+      "role — 所起作用"
+    ],
+    "antonyms": [
+      "malfunction"
+    ],
+    "usageNote": "名词可数，function of 表用途；动词不及物，function as + 身份/用途，function well/properly。不要把 function 直接接宾语。",
+    "speechText": "function",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The introduction performs the important function of guiding the reader.",
+        "translationCN": "引言发挥着引导读者的重要作用。",
+        "attributionType": "original",
+        "speakText": "The introduction performs the important function of guiding the reader."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The scarecrow hoped his new brain would function wisely in difficult moments.",
+        "translationCN": "稻草人希望他的新脑子能在困难时刻明智地运转。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Wonderful Wizard of Oz",
+        "sourceAuthor": "L. Frank Baum",
+        "speakText": "The scarecrow hoped his new brain would function wisely in difficult moments."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Wetlands function as natural barriers against floods and storms.",
+        "translationCN": "湿地发挥着抵御洪水和风暴的天然屏障作用。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Wetlands function as natural barriers against floods and storms."
+      }
+    ]
+  },
+  "d03-source": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/sɔːs/",
+        "meaningCN": "来源；源头",
+        "meaningEN": "a person, place, or thing from which something comes",
+        "pattern": "a source of"
+      }
+    ],
+    "collocations": [
+      "reliable source",
+      "energy source"
+    ],
+    "wordFamily": [
+      "source v.",
+      "resource n."
+    ],
+    "synonyms": [
+      "origin — 起源点",
+      "reference — 信息查考资料"
+    ],
+    "antonyms": [
+      "destination"
+    ],
+    "usageNote": "可数；a source of information/energy。学术写作中 source 指资料来源，必须判断 reliable/primary；不可把 resource 与 source 完全互换。",
+    "speechText": "source",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Students should identify the source of every statistic they use.",
+        "translationCN": "学生应注明所用每项统计数据的来源。",
+        "attributionType": "original",
+        "speakText": "Students should identify the source of every statistic they use."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The traveller followed the stream in search of its hidden source.",
+        "translationCN": "旅行者沿着溪流寻找它隐蔽的源头。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Time Machine",
+        "sourceAuthor": "H. G. Wells",
+        "speakText": "The traveller followed the stream in search of its hidden source."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Solar power is now a rapidly expanding source of electricity in many countries.",
+        "translationCN": "太阳能如今是许多国家迅速扩大的电力来源。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Solar power is now a rapidly expanding source of electricity in many countries."
+      }
+    ]
+  },
+  "d03-role": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/rəʊl/",
+        "meaningCN": "作用；角色",
+        "meaningEN": "a function, position, or character in a situation",
+        "pattern": "a role in; the role of"
+      }
+    ],
+    "collocations": [
+      "play a role in",
+      "leading role"
+    ],
+    "wordFamily": [
+      "role-play n./v."
+    ],
+    "synonyms": [
+      "function — 功能",
+      "part — 参与的一份作用"
+    ],
+    "antonyms": [],
+    "usageNote": "可数；play a role in + 名词/动名词，the role of A in B。表示戏剧角色也用 role；不要写 play a role on。",
+    "speechText": "role",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Regular feedback plays an important role in language learning.",
+        "translationCN": "定期反馈在语言学习中起重要作用。",
+        "attributionType": "original",
+        "speakText": "Regular feedback plays an important role in language learning."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Sydney Carton accepted a final role that demanded extraordinary courage.",
+        "translationCN": "西德尼·卡顿接受了一个需要非凡勇气的最终角色。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Tale of Two Cities",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Sydney Carton accepted a final role that demanded extraordinary courage."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Public libraries play a growing role in improving digital access.",
+        "translationCN": "公共图书馆在改善数字接入方面发挥着日益重要的作用。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Public libraries play a growing role in improving digital access."
+      }
+    ]
+  },
+  "d03-method": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈmeθəd/",
+        "meaningCN": "方法；办法",
+        "meaningEN": "a particular, systematic way of doing something",
+        "pattern": "a method of/for"
+      }
+    ],
+    "collocations": [
+      "research method",
+      "effective method"
+    ],
+    "wordFamily": [
+      "methodical adj.",
+      "methodology n.",
+      "methodically adv."
+    ],
+    "synonyms": [
+      "approach — 处理思路",
+      "technique — 具体技巧"
+    ],
+    "antonyms": [],
+    "usageNote": "可数；method of doing 或 method for doing，不用 method to do（正式写作中宜避免）。methodology 是方法体系，不是单个方法。",
+    "speechText": "method",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The teacher introduced a simple method for remembering new words.",
+        "translationCN": "老师介绍了一种记忆新词的简单方法。",
+        "attributionType": "original",
+        "speakText": "The teacher introduced a simple method for remembering new words."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Holmes explained that careful observation was the foundation of his method.",
+        "translationCN": "福尔摩斯解释说，细致观察是他方法的基础。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "A Study in Scarlet",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "Holmes explained that careful observation was the foundation of his method."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Wastewater monitoring has become a useful method for tracking disease trends.",
+        "translationCN": "废水监测已成为追踪疾病趋势的一种有用方法。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Wastewater monitoring has become a useful method for tracking disease trends."
+      }
+    ]
+  },
+  "d03-principle": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈprɪnsəpl/",
+        "meaningCN": "原则；原理",
+        "meaningEN": "a basic rule, belief, or scientific truth",
+        "pattern": "the principle of"
+      }
+    ],
+    "collocations": [
+      "basic principle",
+      "in principle"
+    ],
+    "wordFamily": [
+      "principled adj.",
+      "unprincipled adj."
+    ],
+    "synonyms": [
+      "rule — 明文规则",
+      "standard — 衡量准则"
+    ],
+    "antonyms": [],
+    "usageNote": "可数；principle 指原则，principal 指“主要的/负责人”。in principle 表“原则上”，on principle 表“基于原则”。",
+    "speechText": "principle",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Academic honesty is a basic principle of university life.",
+        "translationCN": "学术诚信是大学生活的一项基本原则。",
+        "attributionType": "original",
+        "speakText": "Academic honesty is a basic principle of university life."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jane refused to abandon her principles even when leaving Thornfield caused pain.",
+        "translationCN": "即使离开桑菲尔德令她痛苦，简也拒绝放弃自己的原则。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane refused to abandon her principles even when leaving Thornfield caused pain."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The principle of human oversight guides many proposals for responsible artificial intelligence.",
+        "translationCN": "人类监督原则指导着许多负责任人工智能的提案。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "The principle of human oversight guides many proposals for responsible artificial intelligence."
+      }
+    ]
+  },
+  "d03-theory": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈθɪəri/",
+        "meaningCN": "理论；学说",
+        "meaningEN": "a set of ideas intended to explain facts or events",
+        "pattern": "a theory of/about"
+      }
+    ],
+    "collocations": [
+      "scientific theory",
+      "support a theory"
+    ],
+    "wordFamily": [
+      "theoretical adj.",
+      "theorize v.",
+      "theoretically adv."
+    ],
+    "synonyms": [
+      "hypothesis — 待检验假说",
+      "explanation — 一般解释"
+    ],
+    "antonyms": [
+      "practice"
+    ],
+    "usageNote": "可数；科学语境中 theory 是有证据支持的解释体系，不等于随意猜测。in theory 与 in practice 常构成对照。",
+    "speechText": "theory",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The experiment allowed students to connect theory with practice.",
+        "translationCN": "这项实验使学生能够把理论与实践联系起来。",
+        "attributionType": "original",
+        "speakText": "The experiment allowed students to connect theory with practice."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The professor formed a strange theory about the visitor's sudden disappearance.",
+        "translationCN": "教授对访客的突然失踪提出了一个奇怪的理论。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Invisible Man",
+        "sourceAuthor": "H. G. Wells",
+        "speakText": "The professor formed a strange theory about the visitor's sudden disappearance."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "New telescope observations continue to test theories of how galaxies formed.",
+        "translationCN": "新的望远镜观测持续检验有关星系如何形成的理论。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "New telescope observations continue to test theories of how galaxies formed."
+      }
+    ]
+  },
+  "d03-concept": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈkɒnsept/",
+        "meaningCN": "概念；观念",
+        "meaningEN": "an abstract idea used to understand something",
+        "pattern": "the concept of"
+      }
+    ],
+    "collocations": [
+      "abstract concept",
+      "basic concept"
+    ],
+    "wordFamily": [
+      "conceptual adj.",
+      "conceptualize v.",
+      "conception n."
+    ],
+    "synonyms": [
+      "idea — 一般想法",
+      "notion — 较模糊的观念"
+    ],
+    "antonyms": [
+      "concrete reality"
+    ],
+    "usageNote": "可数；the concept of + 名词。concept 是抽象概念，conception 还可表示理解方式；academic text 中 define/apply a concept 很常见。",
+    "speechText": "concept",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The lecturer used a diagram to explain the concept of social mobility.",
+        "translationCN": "讲师用图表解释社会流动这一概念。",
+        "attributionType": "original",
+        "speakText": "The lecturer used a diagram to explain the concept of social mobility."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The creature struggled with the human concept of justice.",
+        "translationCN": "那个生物努力理解人类的正义观念。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Frankenstein",
+        "sourceAuthor": "Mary Shelley",
+        "speakText": "The creature struggled with the human concept of justice."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "The concept of a circular economy is shaping product design and recycling policy.",
+        "translationCN": "循环经济的概念正影响产品设计和回收政策。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "The concept of a circular economy is shaping product design and recycling policy."
+      }
+    ]
+  },
+  "d03-context": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈkɒntekst/",
+        "meaningCN": "语境；背景",
+        "meaningEN": "surrounding words or facts that clarify meaning",
+        "pattern": "in the context of"
+      }
+    ],
+    "collocations": [
+      "historical context",
+      "in context"
+    ],
+    "wordFamily": [
+      "contextual adj.",
+      "contextualize v."
+    ],
+    "synonyms": [
+      "background — 背景资料",
+      "setting — 故事或事件环境"
+    ],
+    "antonyms": [
+      "isolation"
+    ],
+    "usageNote": "可数或不可数；in context 表“结合上下文”，out of context 表“脱离语境”；in the context of 用于限定讨论背景。",
+    "speechText": "context",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Readers can often guess an unfamiliar word from its context.",
+        "translationCN": "读者常能根据语境猜出陌生词的意思。",
+        "attributionType": "original",
+        "speakText": "Readers can often guess an unfamiliar word from its context."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Without the context of Pip's childhood, his ambitions are hard to understand.",
+        "translationCN": "不了解匹普童年的背景，就很难理解他的抱负。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Without the context of Pip's childhood, his ambitions are hard to understand."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Media-literacy lessons teach people to examine images in their original context.",
+        "translationCN": "媒介素养课程教人们在原始语境中审视图像。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Media-literacy lessons teach people to examine images in their original context."
+      }
+    ]
+  },
+  "d03-detail": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈdiːteɪl/",
+        "meaningCN": "细节；详情",
+        "meaningEN": "a small fact or individual piece of information",
+        "pattern": "details of/about"
+      }
+    ],
+    "collocations": [
+      "in detail",
+      "attention to detail"
+    ],
+    "wordFamily": [
+      "detail v.",
+      "detailed adj."
+    ],
+    "synonyms": [
+      "particular — 具体事项",
+      "specific — 明确细节"
+    ],
+    "antonyms": [
+      "outline",
+      "overview"
+    ],
+    "usageNote": "单个细节可数，details 常指详细资料。in detail 无冠词；go into detail/details 表“详述”；detail 作动词意为列举说明。",
+    "speechText": "detail",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Please describe the research procedure in detail.",
+        "translationCN": "请详细描述研究步骤。",
+        "attributionType": "original",
+        "speakText": "Please describe the research procedure in detail."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "One tiny detail in the letter caught Holmes's attention.",
+        "translationCN": "信中的一个微小细节引起了福尔摩斯的注意。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Sherlock Holmes",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "One tiny detail in the letter caught Holmes's attention."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "High-resolution climate models reveal local details that global averages can hide.",
+        "translationCN": "高分辨率气候模型揭示了全球平均值可能掩盖的局部细节。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "High-resolution climate models reveal local details that global averages can hide."
+      }
+    ]
+  },
+  "d03-option": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈɒpʃn/",
+        "meaningCN": "选择；选项",
+        "meaningEN": "one possible choice among several",
+        "pattern": "the option of/to"
+      }
+    ],
+    "collocations": [
+      "available option",
+      "keep options open"
+    ],
+    "wordFamily": [
+      "optional adj.",
+      "optionally adv."
+    ],
+    "synonyms": [
+      "choice — 选择行为或结果",
+      "alternative — 替代方案"
+    ],
+    "antonyms": [
+      "necessity"
+    ],
+    "usageNote": "可数；have the option to do/of doing。option 是可选方案，choice 还可指选择行为；the only option 后常接 is to do。",
+    "speechText": "option",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Students have the option to submit the assignment online.",
+        "translationCN": "学生可以选择在线提交作业。",
+        "attributionType": "original",
+        "speakText": "Students have the option to submit the assignment online."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "With few safe options remaining, the travellers continued through the night.",
+        "translationCN": "由于几乎没有安全选择，旅行者们连夜继续前行。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Around the World in Eighty Days",
+        "sourceAuthor": "Jules Verne",
+        "speakText": "With few safe options remaining, the travellers continued through the night."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Night trains are returning as a lower-carbon travel option in parts of Europe.",
+        "translationCN": "夜间列车正在欧洲部分地区重新成为一种低碳出行选择。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Night trains are returning as a lower-carbon travel option in parts of Europe."
+      }
+    ]
+  },
+  "d04-condition": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kənˈdɪʃn/",
+        "meaningCN": "状况；条件",
+        "meaningEN": "a state or a requirement that must be met",
+        "pattern": "in ... condition; on condition that"
+      }
+    ],
+    "collocations": [
+      "working conditions",
+      "on condition that"
+    ],
+    "wordFamily": [
+      "condition v.",
+      "conditional adj.",
+      "unconditional adj."
+    ],
+    "synonyms": [
+      "state — 某时状态",
+      "requirement — 必须满足的要求"
+    ],
+    "antonyms": [],
+    "usageNote": "表示状态时常用单数 in good/bad condition；表示环境或条款常用复数 conditions。on condition that 后接完整从句。",
+    "speechText": "condition",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The laboratory equipment must be kept in good condition.",
+        "translationCN": "实验室设备必须保持良好状态。",
+        "attributionType": "original",
+        "speakText": "The laboratory equipment must be kept in good condition."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The poor condition of the room made Jane's first night at Lowood uncomfortable.",
+        "translationCN": "房间糟糕的状况让简在洛伍德的第一夜很不舒服。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "The poor condition of the room made Jane's first night at Lowood uncomfortable."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Sensors can report the condition of bridges before visible damage becomes severe.",
+        "translationCN": "传感器能在可见损伤变严重前报告桥梁状况。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Sensors can report the condition of bridges before visible damage becomes severe."
+      }
+    ]
+  },
+  "d04-circumstance": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈsɜːkəmstəns/",
+        "meaningCN": "情况；环境",
+        "meaningEN": "a fact or condition affecting what happens",
+        "pattern": "under/in the circumstances"
+      }
+    ],
+    "collocations": [
+      "changing circumstances",
+      "under no circumstances"
+    ],
+    "wordFamily": [
+      "circumstantial adj."
+    ],
+    "synonyms": [
+      "condition — 条件或状态",
+      "situation — 整体局面"
+    ],
+    "antonyms": [],
+    "usageNote": "通常用复数 circumstances 指周围情况；under the circumstances 表“在这种情况下”，under no circumstances 置于句首要部分倒装。",
+    "speechText": "circumstance",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Under these circumstances, the meeting should be postponed.",
+        "translationCN": "在这些情况下，会议应该推迟。",
+        "attributionType": "original",
+        "speakText": "Under these circumstances, the meeting should be postponed."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Anne's feelings remained steady despite the painful circumstances of their separation.",
+        "translationCN": "尽管分离的处境令人痛苦，安妮的感情依然坚定。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Persuasion",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "Anne's feelings remained steady despite the painful circumstances of their separation."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Emergency cash programs can help families cope with circumstances beyond their control.",
+        "translationCN": "紧急现金援助计划能帮助家庭应对无法控制的处境。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Emergency cash programs can help families cope with circumstances beyond their control."
+      }
+    ]
+  },
+  "d04-situation": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "meaningCN": "情况；形势",
+        "meaningEN": "the set of things happening at a particular time",
+        "pattern": "in a situation"
+      }
+    ],
+    "collocations": [
+      "current situation",
+      "deal with a situation"
+    ],
+    "wordFamily": [
+      "situate v.",
+      "situated adj."
+    ],
+    "synonyms": [
+      "circumstance — 影响事件的条件",
+      "position — 所处境地"
+    ],
+    "antonyms": [],
+    "usageNote": "可数，通常说 in a difficult situation。situation 指整体局面，circumstances 常指构成局面的外部条件。",
+    "speechText": "situation",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The team discussed how to respond to the unexpected situation.",
+        "translationCN": "团队讨论了如何应对意外情况。",
+        "attributionType": "original",
+        "speakText": "The team discussed how to respond to the unexpected situation."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Robinson carefully assessed his situation on the unfamiliar island.",
+        "translationCN": "鲁滨逊仔细评估了自己在陌生岛屿上的处境。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Robinson Crusoe",
+        "sourceAuthor": "Daniel Defoe",
+        "speakText": "Robinson carefully assessed his situation on the unfamiliar island."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Shared satellite maps give rescue teams a clearer picture of a disaster situation.",
+        "translationCN": "共享卫星地图让救援队更清楚地了解灾情。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Shared satellite maps give rescue teams a clearer picture of a disaster situation."
+      }
+    ]
+  },
+  "d04-purpose": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈpɜːpəs/",
+        "meaningCN": "目的；用途",
+        "meaningEN": "the reason for doing something or its intended use",
+        "pattern": "the purpose of; for the purpose of"
+      }
+    ],
+    "collocations": [
+      "serve a purpose",
+      "main purpose"
+    ],
+    "wordFamily": [
+      "purposeful adj.",
+      "purposely adv.",
+      "purposeless adj."
+    ],
+    "synonyms": [
+      "aim — 努力达到的目标",
+      "function — 事物的功能"
+    ],
+    "antonyms": [
+      "aimlessness"
+    ],
+    "usageNote": "可数；the purpose of doing something，purpose in doing 也可表示做某事的意义。on purpose 表“故意地”，不可与 for a purpose 混淆。",
+    "speechText": "purpose",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The main purpose of the questionnaire is to collect student feedback.",
+        "translationCN": "这份问卷的主要目的是收集学生反馈。",
+        "attributionType": "original",
+        "speakText": "The main purpose of the questionnaire is to collect student feedback."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Phileas Fogg travelled with a clear purpose and a strict timetable.",
+        "translationCN": "斐利亚·福克带着明确目的和严格时间表出发。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Around the World in Eighty Days",
+        "sourceAuthor": "Jules Verne",
+        "speakText": "Phileas Fogg travelled with a clear purpose and a strict timetable."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Some cities are redesigning streets for the dual purpose of safety and cleaner travel.",
+        "translationCN": "一些城市正在重新设计街道，以实现安全和清洁出行的双重目的。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Some cities are redesigning streets for the dual purpose of safety and cleaner travel."
+      }
+    ]
+  },
+  "d04-advantage": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ədˈvɑːntɪdʒ/",
+        "meaningCN": "优势；有利条件",
+        "meaningEN": "something that improves the chance of success",
+        "pattern": "an advantage over; advantage of"
+      }
+    ],
+    "collocations": [
+      "competitive advantage",
+      "take advantage of"
+    ],
+    "wordFamily": [
+      "advantageous adj.",
+      "advantageously adv."
+    ],
+    "synonyms": [
+      "benefit — 得到的好处",
+      "strength — 内在强项"
+    ],
+    "antonyms": [
+      "disadvantage"
+    ],
+    "usageNote": "可数；an advantage over 对……的优势，the advantage of + 名词/动名词。take advantage of 可指“利用”，语境不同也可指“占便宜”。",
+    "speechText": "advantage",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Living near campus has the advantage of reducing travel time.",
+        "translationCN": "住在校园附近的好处是能减少通勤时间。",
+        "attributionType": "original",
+        "speakText": "Living near campus has the advantage of reducing travel time."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Alice used her small size as an advantage when passing through the tiny door.",
+        "translationCN": "爱丽丝穿过小门时把身材小巧当作一种优势。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Alice's Adventures in Wonderland",
+        "sourceAuthor": "Lewis Carroll",
+        "speakText": "Alice used her small size as an advantage when passing through the tiny door."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Heat pumps have the advantage of providing both heating and cooling.",
+        "translationCN": "热泵的优势是既能供暖又能制冷。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Heat pumps have the advantage of providing both heating and cooling."
+      }
+    ]
+  },
+  "d04-disadvantage": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌdɪsədˈvɑːntɪdʒ/",
+        "meaningCN": "劣势；不利条件",
+        "meaningEN": "something that makes success more difficult",
+        "pattern": "a disadvantage of; at a disadvantage"
+      }
+    ],
+    "collocations": [
+      "major disadvantage",
+      "put at a disadvantage"
+    ],
+    "wordFamily": [
+      "disadvantage v.",
+      "disadvantaged adj."
+    ],
+    "synonyms": [
+      "drawback — 方案的缺点",
+      "weakness — 内在弱点"
+    ],
+    "antonyms": [
+      "advantage"
+    ],
+    "usageNote": "可数；the disadvantage of + 名词/动名词；be at a disadvantage 是固定搭配。disadvantaged 作形容词常指社会资源不足。",
+    "speechText": "disadvantage",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "A major disadvantage of online discussion is the lack of immediate feedback.",
+        "translationCN": "线上讨论的一个主要缺点是缺少即时反馈。",
+        "attributionType": "original",
+        "speakText": "A major disadvantage of online discussion is the lack of immediate feedback."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Without money or connections, Pip believed he was at a social disadvantage.",
+        "translationCN": "没有金钱或人脉，匹普认为自己处于社会劣势。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "Without money or connections, Pip believed he was at a social disadvantage."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Limited charging access remains a disadvantage for some electric-vehicle drivers.",
+        "translationCN": "充电渠道有限仍是部分电动汽车驾驶者面临的不利条件。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Limited charging access remains a disadvantage for some electric-vehicle drivers."
+      }
+    ]
+  },
+  "d04-responsibility": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+        "meaningCN": "责任；职责",
+        "meaningEN": "a duty to deal with or be accountable for something",
+        "pattern": "responsibility for; responsibility to do"
+      }
+    ],
+    "collocations": [
+      "take responsibility",
+      "social responsibility"
+    ],
+    "wordFamily": [
+      "responsible adj.",
+      "responsibly adv.",
+      "irresponsible adj."
+    ],
+    "synonyms": [
+      "duty — 职责义务",
+      "accountability — 对结果负责"
+    ],
+    "antonyms": [
+      "irresponsibility"
+    ],
+    "usageNote": "作“责任”可不可数；responsibility for + 名词/动名词，responsibility to do。be responsible for 与 take responsibility for 都接 for。",
+    "speechText": "responsibility",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Each group member has responsibility for part of the presentation.",
+        "translationCN": "每位小组成员都负责展示的一部分。",
+        "attributionType": "original",
+        "speakText": "Each group member has responsibility for part of the presentation."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Marmee taught her daughters to accept responsibility for their choices.",
+        "translationCN": "马奇太太教女儿们为自己的选择承担责任。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "Marmee taught her daughters to accept responsibility for their choices."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Technology companies face growing responsibility for protecting users' personal data.",
+        "translationCN": "科技公司在保护用户个人数据方面承担着日益增加的责任。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Technology companies face growing responsibility for protecting users' personal data."
+      }
+    ]
+  },
+  "d04-requirement": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/rɪˈkwaɪəmənt/",
+        "meaningCN": "要求；必要条件",
+        "meaningEN": "something officially demanded or needed",
+        "pattern": "a requirement for; requirement to do"
+      }
+    ],
+    "collocations": [
+      "meet a requirement",
+      "legal requirement"
+    ],
+    "wordFamily": [
+      "require v.",
+      "required adj."
+    ],
+    "synonyms": [
+      "condition — 必须满足的条件",
+      "necessity — 必需之物"
+    ],
+    "antonyms": [
+      "option"
+    ],
+    "usageNote": "可数；a requirement for admission，a requirement to do。meet/fulfil/satisfy a requirement，不说 reach a requirement。",
+    "speechText": "requirement",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Regular attendance is a requirement for completing the course.",
+        "translationCN": "定期出勤是完成这门课程的一项要求。",
+        "attributionType": "original",
+        "speakText": "Regular attendance is a requirement for completing the course."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The strange requirement in the will changed the young man's future.",
+        "translationCN": "遗嘱中的奇怪要求改变了那个年轻人的未来。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Adventures of Sherlock Holmes",
+        "sourceAuthor": "Arthur Conan Doyle",
+        "speakText": "The strange requirement in the will changed the young man's future."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Carbon reporting is becoming a standard requirement for large companies in several markets.",
+        "translationCN": "在若干市场，碳排放报告正成为大型公司的标准要求。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Carbon reporting is becoming a standard requirement for large companies in several markets."
+      }
+    ]
+  },
+  "d04-relationship": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "meaningCN": "关系；联系",
+        "meaningEN": "the way in which people or things are connected",
+        "pattern": "relationship between/with"
+      }
+    ],
+    "collocations": [
+      "close relationship",
+      "causal relationship"
+    ],
+    "wordFamily": [
+      "relate v.",
+      "relation n.",
+      "related adj."
+    ],
+    "synonyms": [
+      "connection — 一般联系",
+      "relation — 较正式或家族关系"
+    ],
+    "antonyms": [
+      "separation"
+    ],
+    "usageNote": "可数；relationship between A and B，relationship with a person/group。学术阅读中 correlation 不自动证明 causal relationship。",
+    "speechText": "relationship",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The study explores the relationship between sleep and academic performance.",
+        "translationCN": "这项研究探讨睡眠与学业表现之间的关系。",
+        "attributionType": "original",
+        "speakText": "The study explores the relationship between sleep and academic performance."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The relationship between Elizabeth and Darcy changed as each questioned an early judgment.",
+        "translationCN": "随着两人质疑最初的判断，伊丽莎白与达西的关系发生了变化。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Pride and Prejudice",
+        "sourceAuthor": "Jane Austen",
+        "speakText": "The relationship between Elizabeth and Darcy changed as each questioned an early judgment."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Researchers are examining the relationship between urban trees and lower summer temperatures.",
+        "translationCN": "研究人员正在考察城市树木与较低夏季气温之间的关系。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Researchers are examining the relationship between urban trees and lower summer temperatures."
+      }
+    ]
+  },
+  "d04-behavior": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/bɪˈheɪvjə(r)/",
+        "meaningCN": "行为；表现",
+        "meaningEN": "the way a person, animal, or system acts",
+        "pattern": "behavior toward; behavior of"
+      }
+    ],
+    "collocations": [
+      "consumer behavior",
+      "patterns of behavior"
+    ],
+    "wordFamily": [
+      "behave v.",
+      "behavioral adj.",
+      "misbehavior n."
+    ],
+    "synonyms": [
+      "conduct — 较正式的人类行为",
+      "action — 单次行动"
+    ],
+    "antonyms": [
+      "misconduct"
+    ],
+    "usageNote": "通常不可数，英式拼写 behaviour；指不同类型时可用 behaviors（学术语境）。behaviour toward others，the behavior of a system。",
+    "speechText": "behavior",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The experiment measured changes in students' reading behavior.",
+        "translationCN": "实验测量了学生阅读行为的变化。",
+        "attributionType": "original",
+        "speakText": "The experiment measured changes in students' reading behavior."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Dorian's secret behavior stood in sharp contrast to his youthful appearance.",
+        "translationCN": "道林隐秘的行为与他年轻的外表形成鲜明对比。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Picture of Dorian Gray",
+        "sourceAuthor": "Oscar Wilde",
+        "speakText": "Dorian's secret behavior stood in sharp contrast to his youthful appearance."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Cities use travel data to understand how new rail lines change commuting behavior.",
+        "translationCN": "城市利用出行数据了解新铁路线如何改变通勤行为。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Cities use travel data to understand how new rail lines change commuting behavior."
+      }
+    ]
+  },
+  "d04-communication": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+        "meaningCN": "交流；通信",
+        "meaningEN": "the sharing or transmission of information",
+        "pattern": "communication with/between"
+      }
+    ],
+    "collocations": [
+      "effective communication",
+      "communication skills"
+    ],
+    "wordFamily": [
+      "communicate v.",
+      "communicative adj.",
+      "communicator n."
+    ],
+    "synonyms": [
+      "contact — 联系",
+      "interaction — 双向互动"
+    ],
+    "antonyms": [
+      "silence",
+      "miscommunication"
+    ],
+    "usageNote": "表示交流过程通常不可数；communications 可指通信系统或行业。communication with 某人，between 多方；communicate something to somebody。",
+    "speechText": "communication",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Clear communication helped the group finish its project on time.",
+        "translationCN": "清晰的沟通帮助小组按时完成了项目。",
+        "attributionType": "original",
+        "speakText": "Clear communication helped the group finish its project on time."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "A failure of communication kept Jane and Rochester apart for too long.",
+        "translationCN": "沟通的失败让简和罗切斯特分离了太久。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "A failure of communication kept Jane and Rochester apart for too long."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Low-orbit satellites are extending emergency communication to remote regions.",
+        "translationCN": "低轨卫星正把应急通信扩展到偏远地区。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Low-orbit satellites are extending emergency communication to remote regions."
+      }
+    ]
+  },
+  "d04-experience": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ɪkˈspɪəriəns/",
+        "meaningCN": "经验；经历",
+        "meaningEN": "knowledge gained by doing, or an event lived through",
+        "pattern": "experience in/of"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ɪkˈspɪəriəns/",
+        "meaningCN": "经历；体验",
+        "meaningEN": "to undergo or feel something",
+        "pattern": "experience something"
+      }
+    ],
+    "collocations": [
+      "practical experience",
+      "gain experience"
+    ],
+    "wordFamily": [
+      "experienced adj.",
+      "inexperienced adj."
+    ],
+    "synonyms": [
+      "expertise — 专业技能",
+      "event — 发生的事情"
+    ],
+    "antonyms": [
+      "inexperience"
+    ],
+    "usageNote": "“经验”不可数：gain experience；“一次经历”可数：an experience。动词直接接宾语，不说 experience in something 表“经历”。",
+    "speechText": "experience",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Volunteer work gave her valuable experience in organizing events.",
+        "translationCN": "志愿工作给了她组织活动的宝贵经验。",
+        "attributionType": "original",
+        "speakText": "Volunteer work gave her valuable experience in organizing events."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Gulliver's unusual experiences changed his view of human society.",
+        "translationCN": "格列佛不同寻常的经历改变了他对人类社会的看法。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Gulliver's Travels",
+        "sourceAuthor": "Jonathan Swift",
+        "speakText": "Gulliver's unusual experiences changed his view of human society."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Virtual laboratories give more students experience with scientific instruments.",
+        "translationCN": "虚拟实验室让更多学生获得使用科学仪器的经验。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Virtual laboratories give more students experience with scientific instruments."
+      }
+    ]
+  },
+  "d04-influence": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˈɪnfluəns/",
+        "meaningCN": "影响；作用",
+        "meaningEN": "the power to affect people or events",
+        "pattern": "influence on/over"
+      },
+      {
+        "pos": "v.",
+        "phonetic": "/ˈɪnfluəns/",
+        "meaningCN": "影响",
+        "meaningEN": "to affect how someone thinks or what happens",
+        "pattern": "influence something"
+      }
+    ],
+    "collocations": [
+      "have an influence on",
+      "under the influence"
+    ],
+    "wordFamily": [
+      "influential adj.",
+      "influencer n."
+    ],
+    "synonyms": [
+      "effect — 产生的结果",
+      "impact — 强烈影响"
+    ],
+    "antonyms": [
+      "independence"
+    ],
+    "usageNote": "名词可不可数，have an influence on；动词直接接宾语，不说 influence on something。influence 常指间接、逐渐作用。",
+    "speechText": "influence",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Friends can have a strong influence on a student's study habits.",
+        "translationCN": "朋友会对学生的学习习惯产生强烈影响。",
+        "attributionType": "original",
+        "speakText": "Friends can have a strong influence on a student's study habits."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Lord Henry's words exerted a dangerous influence on Dorian.",
+        "translationCN": "亨利勋爵的话对道林产生了危险的影响。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "The Picture of Dorian Gray",
+        "sourceAuthor": "Oscar Wilde",
+        "speakText": "Lord Henry's words exerted a dangerous influence on Dorian."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Short-video platforms influence how many young people discover music and news.",
+        "translationCN": "短视频平台影响着许多年轻人发现音乐和新闻的方式。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Short-video platforms influence how many young people discover music and news."
+      }
+    ]
+  },
+  "d04-importance": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ɪmˈpɔːtns/",
+        "meaningCN": "重要性",
+        "meaningEN": "the quality or degree of being important",
+        "pattern": "the importance of"
+      }
+    ],
+    "collocations": [
+      "great importance",
+      "attach importance to"
+    ],
+    "wordFamily": [
+      "important adj.",
+      "importantly adv."
+    ],
+    "synonyms": [
+      "significance — 意义或重要程度",
+      "value — 价值"
+    ],
+    "antonyms": [
+      "insignificance"
+    ],
+    "usageNote": "不可数；the importance of + 名词/动名词。attach importance to 中 to 是介词，后接名词或 doing；of great importance 等于 very important。",
+    "speechText": "importance",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The workshop emphasized the importance of checking information sources.",
+        "translationCN": "研讨会强调了核查信息来源的重要性。",
+        "attributionType": "original",
+        "speakText": "The workshop emphasized the importance of checking information sources."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jo gradually understood the importance of patience in caring for her family.",
+        "translationCN": "乔逐渐懂得耐心照顾家人的重要性。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "Jo gradually understood the importance of patience in caring for her family."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Recent droughts have highlighted the importance of efficient water management.",
+        "translationCN": "近年的干旱凸显了高效水资源管理的重要性。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Recent droughts have highlighted the importance of efficient water management."
+      }
+    ]
+  },
+  "d04-development": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/dɪˈveləpmənt/",
+        "meaningCN": "发展；进展；新事态",
+        "meaningEN": "growth, progress, or a new event or product",
+        "pattern": "development of/in"
+      }
+    ],
+    "collocations": [
+      "sustainable development",
+      "latest development"
+    ],
+    "wordFamily": [
+      "develop v.",
+      "developed adj.",
+      "developing adj.",
+      "developer n."
+    ],
+    "synonyms": [
+      "growth — 规模增长",
+      "progress — 朝目标前进"
+    ],
+    "antonyms": [
+      "decline",
+      "stagnation"
+    ],
+    "usageNote": "表示发展过程常不可数；表示新事态或房地产项目可数。development of a system，development in a field 指领域内的新进展。",
+    "speechText": "development",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The report traces the development of the university over fifty years.",
+        "translationCN": "报告追溯了这所大学五十年来的发展。",
+        "attributionType": "original",
+        "speakText": "The report traces the development of the university over fifty years."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The development of Pip's character depended on painful self-knowledge.",
+        "translationCN": "匹普性格的成长有赖于痛苦的自我认识。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Great Expectations",
+        "sourceAuthor": "Charles Dickens",
+        "speakText": "The development of Pip's character depended on painful self-knowledge."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Rapid development in battery chemistry is improving energy storage.",
+        "translationCN": "电池化学的快速发展正在改善能源储存。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Rapid development in battery chemistry is improving energy storage."
+      }
+    ]
+  },
+  "d04-environment": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "meaningCN": "环境；周围状况",
+        "meaningEN": "the natural world or surrounding conditions",
+        "pattern": "environment for/in which"
+      }
+    ],
+    "collocations": [
+      "natural environment",
+      "learning environment"
+    ],
+    "wordFamily": [
+      "environmental adj.",
+      "environmentalist n.",
+      "environmentally adv."
+    ],
+    "synonyms": [
+      "surroundings — 周围事物",
+      "habitat — 生物栖息地"
+    ],
+    "antonyms": [],
+    "usageNote": "指自然环境常用 the environment，不可数；指具体工作/学习环境可数。environmental 是形容词，environmentally friendly 为固定搭配。",
+    "speechText": "environment",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "A quiet learning environment can improve concentration.",
+        "translationCN": "安静的学习环境能提高专注力。",
+        "attributionType": "original",
+        "speakText": "A quiet learning environment can improve concentration."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The wild environment of the moors shaped Jane's sense of freedom.",
+        "translationCN": "荒野环境塑造了简对自由的感受。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "The wild environment of the moors shaped Jane's sense of freedom."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "A global treaty process is seeking ways to reduce plastic pollution in the environment.",
+        "translationCN": "一项全球条约进程正在寻求减少环境中塑料污染的方法。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "A global treaty process is seeking ways to reduce plastic pollution in the environment."
+      }
+    ]
+  },
+  "d04-population": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌpɒpjuˈleɪʃn/",
+        "meaningCN": "人口；族群",
+        "meaningEN": "all people or organisms living in a particular area",
+        "pattern": "population of"
+      }
+    ],
+    "collocations": [
+      "aging population",
+      "population growth"
+    ],
+    "wordFamily": [
+      "populate v.",
+      "populated adj.",
+      "overpopulation n."
+    ],
+    "synonyms": [
+      "inhabitants — 居民个体",
+      "community — 有共同联系的群体"
+    ],
+    "antonyms": [
+      "depopulation"
+    ],
+    "usageNote": "集合名词；population of + 地区。人口多少用 large/small，不用 many/few；具体群体可用 populations。",
+    "speechText": "population",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The chart shows changes in the city's student population.",
+        "translationCN": "图表显示了该市学生人口的变化。",
+        "attributionType": "original",
+        "speakText": "The chart shows changes in the city's student population."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Gulliver was astonished by the population of tiny Lilliputians.",
+        "translationCN": "格列佛对小人国身材矮小的居民感到惊讶。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Gulliver's Travels",
+        "sourceAuthor": "Jonathan Swift",
+        "speakText": "Gulliver was astonished by the population of tiny Lilliputians."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "An aging population is increasing demand for accessible health and transport services.",
+        "translationCN": "人口老龄化正在增加对无障碍医疗和交通服务的需求。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "An aging population is increasing demand for accessible health and transport services."
+      }
+    ]
+  },
+  "d04-generation": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌdʒenəˈreɪʃn/",
+        "meaningCN": "一代人；产生",
+        "meaningEN": "people born at a similar time, or the production of something",
+        "pattern": "generation of"
+      }
+    ],
+    "collocations": [
+      "younger generation",
+      "power generation"
+    ],
+    "wordFamily": [
+      "generate v.",
+      "generator n.",
+      "generational adj."
+    ],
+    "synonyms": [
+      "age group — 年龄群体",
+      "production — 产生过程"
+    ],
+    "antonyms": [],
+    "usageNote": "可数；a generation of people，from generation to generation 无冠词。科技语境中 generation 也指“代”或“产生”，如 power generation。",
+    "speechText": "generation",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Each generation develops its own ways of using language.",
+        "translationCN": "每一代人都会形成自己使用语言的方式。",
+        "attributionType": "original",
+        "speakText": "Each generation develops its own ways of using language."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The old family story passed from one generation to the next.",
+        "translationCN": "这个古老的家族故事代代相传。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Wuthering Heights",
+        "sourceAuthor": "Emily Brontë",
+        "speakText": "The old family story passed from one generation to the next."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "A new generation of reusable rockets is lowering some launch costs.",
+        "translationCN": "新一代可重复使用火箭正在降低部分发射成本。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "A new generation of reusable rockets is lowering some launch costs."
+      }
+    ]
+  },
+  "d04-education": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/ˌedʒuˈkeɪʃn/",
+        "meaningCN": "教育；培养",
+        "meaningEN": "the process of teaching, learning, and developing knowledge",
+        "pattern": "education in/for"
+      }
+    ],
+    "collocations": [
+      "higher education",
+      "access to education"
+    ],
+    "wordFamily": [
+      "educate v.",
+      "educational adj.",
+      "educator n.",
+      "educated adj."
+    ],
+    "synonyms": [
+      "schooling — 学校教育过程",
+      "training — 针对技能的训练"
+    ],
+    "antonyms": [
+      "ignorance"
+    ],
+    "usageNote": "通常不可数；an education 可指某人接受的一段教育。education in a subject，education for a purpose；educational 是“教育性的”。",
+    "speechText": "education",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "Higher education can provide both knowledge and practical skills.",
+        "translationCN": "高等教育既能提供知识，也能培养实践技能。",
+        "attributionType": "original",
+        "speakText": "Higher education can provide both knowledge and practical skills."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "Jane regarded education as a path toward independence.",
+        "translationCN": "简把教育视为通往独立的道路。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Jane Eyre",
+        "sourceAuthor": "Charlotte Brontë",
+        "speakText": "Jane regarded education as a path toward independence."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Open online courses are widening access to education in many languages.",
+        "translationCN": "开放在线课程正在扩大人们以多种语言接受教育的机会。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Open online courses are widening access to education in many languages."
+      }
+    ]
+  },
+  "d04-tradition": {
+    "senses": [
+      {
+        "pos": "n.",
+        "phonetic": "/trəˈdɪʃn/",
+        "meaningCN": "传统；惯例",
+        "meaningEN": "a belief or custom passed from one generation to another",
+        "pattern": "tradition of"
+      }
+    ],
+    "collocations": [
+      "cultural tradition",
+      "follow a tradition"
+    ],
+    "wordFamily": [
+      "traditional adj.",
+      "traditionally adv.",
+      "traditionalist n."
+    ],
+    "synonyms": [
+      "custom — 社会习俗",
+      "heritage — 继承的文化遗产"
+    ],
+    "antonyms": [
+      "innovation"
+    ],
+    "usageNote": "可数或不可数；a tradition of doing，by tradition 表“按照传统”。traditional 不一定等于 old-fashioned，阅读中常与 innovation 对照。",
+    "speechText": "tradition",
+    "examples": [
+      {
+        "type": "cet4",
+        "label": "CET-4 Context",
+        "text": "The university has a long tradition of welcoming international students.",
+        "translationCN": "这所大学有欢迎国际学生的悠久传统。",
+        "attributionType": "original",
+        "speakText": "The university has a long tradition of welcoming international students."
+      },
+      {
+        "type": "literature",
+        "label": "Literature",
+        "text": "The March family preserved a tradition of giving despite having little money.",
+        "translationCN": "尽管钱不多，马奇一家仍保留着助人的传统。",
+        "attributionType": "literary-adaptation",
+        "sourceTitle": "Little Women",
+        "sourceAuthor": "Louisa May Alcott",
+        "speakText": "The March family preserved a tradition of giving despite having little money."
+      },
+      {
+        "type": "world",
+        "label": "World Now",
+        "text": "Digital archives help communities preserve oral traditions for future generations.",
+        "translationCN": "数字档案帮助社区为后代保存口述传统。",
+        "attributionType": "current-context",
+        "sourceDate": "recent-years",
+        "speakText": "Digital archives help communities preserve oral traditions for future generations."
+      }
+    ]
+  }
+}
