@@ -54,6 +54,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Many cities make transport data available so developers can improve journey-planning tools."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "readily available",
+        "cn": "随时可获得的"
+      },
+      {
+        "en": "available resources",
+        "cn": "可利用的资源"
+      }
     ]
   },
   "d01-individual": {
@@ -110,6 +120,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "自适应学习平台可以提供个性化练习路径，同时教师关注全班情况。",
         "attributionType": "current-context",
         "speakText": "Adaptive learning platforms can offer individual practice paths while teachers monitor the whole class."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "individual needs",
+        "cn": "个人需求"
+      },
+      {
+        "en": "private individual",
+        "cn": "普通私人个体"
       }
     ]
   },
@@ -168,6 +188,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Heat alerts increasingly target particular neighborhoods where shade and cooling are scarce."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "particular attention",
+        "cn": "特别关注"
+      },
+      {
+        "en": "no particular reason",
+        "cn": "没有特别原因"
+      }
     ]
   },
   "d01-significant": {
@@ -224,6 +254,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "太阳能和风能如今在许多国家的发电结构中占有重要份额。",
         "attributionType": "current-context",
         "speakText": "Solar and wind power now make a significant contribution to electricity generation in many countries."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "significant difference",
+        "cn": "显著差异"
+      },
+      {
+        "en": "statistically significant",
+        "cn": "具有统计学意义的"
       }
     ]
   },
@@ -282,6 +322,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Accurate local data remain essential when health agencies plan vaccination campaigns."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "essential skill",
+        "cn": "必备技能"
+      },
+      {
+        "en": "absolutely essential",
+        "cn": "绝对不可缺少的"
+      }
     ]
   },
   "d01-relevant": {
@@ -338,6 +388,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "监管机构寻找有关自动化系统如何影响不同群体的相关证据。",
         "attributionType": "current-context",
         "speakText": "Regulators seek relevant evidence about how automated systems affect different communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "relevant evidence",
+        "cn": "相关证据"
+      },
+      {
+        "en": "directly relevant",
+        "cn": "直接相关的"
       }
     ]
   },
@@ -397,6 +457,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Cities are testing whether tree cover provides adequate protection during longer heat waves."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "adequate funding",
+        "cn": "充足的资金"
+      },
+      {
+        "en": "perfectly adequate",
+        "cn": "完全够用的"
+      }
     ]
   },
   "d01-previous": {
@@ -452,6 +522,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年的气温纪录已超过许多国家此前的最高值。",
         "attributionType": "current-context",
         "speakText": "Recent temperature records have exceeded many previous national highs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "previous experience",
+        "cn": "以往经验"
+      },
+      {
+        "en": "previous owner",
+        "cn": "前任所有者"
       }
     ]
   },
@@ -510,6 +590,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Current battery research focuses on cost, safety, charging speed, and material supply."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "current situation",
+        "cn": "当前形势"
+      },
+      {
+        "en": "ocean current",
+        "cn": "洋流"
+      }
     ]
   },
   "d01-average": {
@@ -565,6 +655,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "随着海洋变暖和陆地冰融化，全球平均海平面持续上升。",
         "attributionType": "current-context",
         "speakText": "Global average sea level continues to rise as oceans warm and land ice melts."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "average income",
+        "cn": "平均收入"
+      },
+      {
+        "en": "above average",
+        "cn": "高于平均水平"
       }
     ]
   },
@@ -623,6 +723,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Wastewater monitoring can reveal specific disease trends without identifying individual residents."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "specific purpose",
+        "cn": "特定用途"
+      },
+      {
+        "en": "be specific about",
+        "cn": "明确说明……"
+      }
     ]
   },
   "d01-considerable": {
@@ -679,6 +789,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "建设先进半导体工厂需要大量资金、能源、水和专业知识。",
         "attributionType": "current-context",
         "speakText": "Building advanced semiconductor facilities demands considerable capital, energy, water, and expertise."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "considerable effort",
+        "cn": "付出大量努力"
+      },
+      {
+        "en": "considerable influence",
+        "cn": "产生相当大的影响"
       }
     ]
   },
@@ -737,6 +857,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Densely built neighborhoods with little shade are likely to experience greater heat stress."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "most likely",
+        "cn": "很可能"
+      },
+      {
+        "en": "likely outcome",
+        "cn": "可能出现的结果"
+      }
     ]
   },
   "d01-negative": {
@@ -793,6 +923,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "研究人员继续研究社交媒体对青少年的正面和负面影响。",
         "attributionType": "current-context",
         "speakText": "Researchers continue to study both positive and negative effects of social media on adolescents."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "negative impact",
+        "cn": "负面影响"
+      },
+      {
+        "en": "negative number",
+        "cn": "负数"
       }
     ]
   },
@@ -851,6 +991,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Wetland restoration can produce positive results for flood control, wildlife, and water quality."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "positive attitude",
+        "cn": "积极态度"
+      },
+      {
+        "en": "positive result",
+        "cn": "正面结果"
+      }
     ]
   },
   "d01-proper": {
@@ -907,6 +1057,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "妥善回收可让有价值的金属继续利用，并防止有害物质进入土壤。",
         "attributionType": "current-context",
         "speakText": "Proper recycling keeps valuable metals in use and hazardous materials out of soil."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "proper procedure",
+        "cn": "规范程序"
+      },
+      {
+        "en": "properly trained",
+        "cn": "受过适当培训的"
       }
     ]
   },
@@ -965,6 +1125,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "A typical hybrid schedule combines remote work with several shared office days."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "typical example",
+        "cn": "典型例子"
+      },
+      {
+        "en": "typical behavior",
+        "cn": "典型行为"
+      }
     ]
   },
   "d01-similar": {
@@ -1021,6 +1191,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "各国正在建立类似的预警系统，结合实验室和污水数据。",
         "attributionType": "current-context",
         "speakText": "Countries are building similar early-warning systems that combine laboratory and wastewater data."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "similar results",
+        "cn": "相似的结果"
+      },
+      {
+        "en": "remarkably similar",
+        "cn": "极为相似"
       }
     ]
   },
@@ -1080,6 +1260,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Various storage technologies are being tested to balance electricity from wind and solar power."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "various reasons",
+        "cn": "种种原因"
+      },
+      {
+        "en": "in various ways",
+        "cn": "以各种方式"
+      }
     ]
   },
   "d01-frequent": {
@@ -1136,6 +1326,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "更频繁的城市洪涝正推动排水、湿地和预警系统方面的投资。",
         "attributionType": "current-context",
         "speakText": "More frequent urban flooding is prompting investment in drainage, wetlands, and warning systems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "frequent contact",
+        "cn": "频繁联系"
+      },
+      {
+        "en": "increasingly frequent",
+        "cn": "日益频繁的"
       }
     ]
   },
@@ -1195,6 +1395,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Long-term observations indicate that oceans are absorbing most of the excess heat from global warming."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "clearly indicate",
+        "cn": "清楚表明"
+      },
+      {
+        "en": "indicate a trend",
+        "cn": "显示一种趋势"
+      }
     ]
   },
   "d02-involve": {
@@ -1251,6 +1461,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "电网现代化将涉及新输电线路、储能和灵活用电需求。",
         "attributionType": "current-context",
         "speakText": "Modernizing power grids will involve new transmission lines, storage, and flexible demand."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "involve risk",
+        "cn": "涉及风险"
+      },
+      {
+        "en": "be actively involved",
+        "cn": "积极参与"
       }
     ]
   },
@@ -1309,6 +1529,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Protecting public infrastructure requires regular updates, trained staff, and tested recovery plans."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "require attention",
+        "cn": "需要关注"
+      },
+      {
+        "en": "legally required",
+        "cn": "法律规定必须的"
+      }
     ]
   },
   "d02-obtain": {
@@ -1365,6 +1595,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "农民可以获得有关土壤湿度和作物胁迫的近实时卫星信息。",
         "attributionType": "current-context",
         "speakText": "Farmers can obtain near-real-time satellite information about soil moisture and crop stress."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "obtain permission",
+        "cn": "获得许可"
+      },
+      {
+        "en": "obtain evidence",
+        "cn": "取得证据"
       }
     ]
   },
@@ -1423,6 +1663,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Transport agencies use sensors to maintain bridges before small defects become dangerous."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "maintain standards",
+        "cn": "维持标准"
+      },
+      {
+        "en": "regularly maintained",
+        "cn": "定期维护的"
+      }
     ]
   },
   "d02-establish": {
@@ -1479,6 +1729,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "多个航天计划准备在月球周边建立持续的科学活动。",
         "attributionType": "current-context",
         "speakText": "Several space programs plan to establish sustained scientific operations around the Moon."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "establish a system",
+        "cn": "建立一套制度"
+      },
+      {
+        "en": "firmly established",
+        "cn": "牢固确立的"
       }
     ]
   },
@@ -1538,6 +1798,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Environmental DNA helps scientists identify species from traces left in water or soil."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "identify a cause",
+        "cn": "找出原因"
+      },
+      {
+        "en": "correctly identify",
+        "cn": "正确识别"
+      }
     ]
   },
   "d02-reflect": {
@@ -1594,6 +1864,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "新的街道设计反映了人们对更安全步行和骑行日益增长的需求。",
         "attributionType": "current-context",
         "speakText": "New street designs reflect growing demand for safer walking and cycling."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reflect reality",
+        "cn": "反映现实"
+      },
+      {
+        "en": "reflect on experience",
+        "cn": "反思经历"
       }
     ]
   },
@@ -1652,6 +1932,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Climate attribution studies help determine how warming changes the likelihood of extreme events."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "determine the cause",
+        "cn": "查明原因"
+      },
+      {
+        "en": "largely determine",
+        "cn": "在很大程度上决定"
+      }
     ]
   },
   "d02-represent": {
@@ -1708,6 +1998,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "青年观察员越来越多地寻求在气候讨论中代表未来世代的机会。",
         "attributionType": "current-context",
         "speakText": "Youth observers increasingly seek opportunities to represent future generations in climate discussions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "represent a group",
+        "cn": "代表一个群体"
+      },
+      {
+        "en": "accurately represent",
+        "cn": "准确体现"
       }
     ]
   },
@@ -1766,6 +2066,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Volunteers contribute millions of wildlife observations to global biodiversity databases."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "contribute money",
+        "cn": "捐款"
+      },
+      {
+        "en": "contribute to growth",
+        "cn": "促进增长"
+      }
     ]
   },
   "d02-assume": {
@@ -1823,6 +2133,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Workforce plans should not assume that automation affects every occupation in the same way."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reasonably assume",
+        "cn": "有理由推定"
+      },
+      {
+        "en": "assume responsibility",
+        "cn": "承担责任"
+      }
     ]
   },
   "d02-reduce": {
@@ -1879,6 +2199,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "修复石油和天然气系统的泄漏可以迅速减少甲烷排放。",
         "attributionType": "current-context",
         "speakText": "Repairing leaks in oil and gas systems can rapidly reduce methane emissions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reduce costs",
+        "cn": "降低成本"
+      },
+      {
+        "en": "greatly reduce",
+        "cn": "大幅减少"
       }
     ]
   },
@@ -1938,6 +2268,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Demand for charging infrastructure continues to increase as electric vehicle use expands."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "increase demand",
+        "cn": "增加需求"
+      },
+      {
+        "en": "steadily increase",
+        "cn": "稳步增长"
+      }
     ]
   },
   "d02-provide": {
@@ -1994,6 +2334,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "地球观测卫星在洪水、火灾和地震后提供快速地图。",
         "attributionType": "current-context",
         "speakText": "Earth-observation satellites provide rapid maps after floods, fires, and earthquakes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "provide support",
+        "cn": "提供支持"
+      },
+      {
+        "en": "provide access to",
+        "cn": "提供使用……的机会"
       }
     ]
   },
@@ -2052,6 +2402,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Researchers use visual models to explain complex climate risks to local decision-makers."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "clearly explain",
+        "cn": "清楚解释"
+      },
+      {
+        "en": "explain why",
+        "cn": "解释为何……"
+      }
     ]
   },
   "d02-suggest": {
@@ -2108,6 +2468,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "多项职场试验表明，缩短每周工时可能在保持产出的同时改善福祉。",
         "attributionType": "current-context",
         "speakText": "Several workplace trials suggest that shorter weeks can preserve output while improving well-being."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "strongly suggest",
+        "cn": "强烈表明"
+      },
+      {
+        "en": "evidence suggests",
+        "cn": "证据显示"
       }
     ]
   },
@@ -2167,6 +2537,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Cities compare electric buses, rail, and cycling networks when planning lower-carbon transport."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "compare results",
+        "cn": "比较结果"
+      },
+      {
+        "en": "closely compare",
+        "cn": "仔细比较"
+      }
     ]
   },
   "d02-recognize": {
@@ -2223,6 +2603,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "越来越多的保护项目承认原住民知识是管理生态系统的重要依据。",
         "attributionType": "current-context",
         "speakText": "More conservation programs recognize Indigenous knowledge as valuable evidence for managing ecosystems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "widely recognized",
+        "cn": "得到广泛认可的"
+      },
+      {
+        "en": "recognize the need",
+        "cn": "认识到有必要"
       }
     ]
   },
@@ -2282,6 +2672,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Mobile alert systems help communities respond more quickly to wildfires and flash floods."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "respond quickly",
+        "cn": "迅速回应"
+      },
+      {
+        "en": "respond to treatment",
+        "cn": "对治疗产生反应"
+      }
     ]
   },
   "d03-aspect": {
@@ -2338,6 +2738,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Energy security is one aspect of the global shift toward cleaner power."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a key aspect of",
+        "cn": "……的一个关键方面"
+      },
+      {
+        "en": "every aspect of",
+        "cn": "……的方方面面"
+      }
     ]
   },
   "d03-factor": {
@@ -2392,6 +2802,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Battery cost remains a major factor in the adoption of electric vehicles."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a major factor",
+        "cn": "一个主要因素"
+      },
+      {
+        "en": "contributing factor",
+        "cn": "促成因素"
       }
     ]
   },
@@ -2450,6 +2870,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Satellite records provide evidence that many glaciers are retreating."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "strong evidence",
+        "cn": "有力证据"
+      },
+      {
+        "en": "provide evidence",
+        "cn": "提供证据"
+      }
     ]
   },
   "d03-consequence": {
@@ -2507,6 +2937,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Longer heat waves can be a consequence of a warming climate."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "serious consequences",
+        "cn": "严重后果"
+      },
+      {
+        "en": "as a consequence",
+        "cn": "因此"
+      }
     ]
   },
   "d03-opportunity": {
@@ -2563,6 +3003,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Low-cost satellites offer smaller nations new opportunities for Earth observation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "equal opportunity",
+        "cn": "机会平等"
+      },
+      {
+        "en": "take the opportunity",
+        "cn": "抓住机会"
       }
     ]
   },
@@ -2622,6 +3072,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Many regions are expanding renewable-energy storage capacity."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "production capacity",
+        "cn": "生产能力"
+      },
+      {
+        "en": "capacity to learn",
+        "cn": "学习能力"
+      }
     ]
   },
   "d03-pressure": {
@@ -2680,6 +3140,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Growing electricity demand is putting pressure on aging power grids."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "under pressure",
+        "cn": "承受压力"
+      },
+      {
+        "en": "public pressure",
+        "cn": "公众压力"
+      }
     ]
   },
   "d03-tendency": {
@@ -2736,6 +3206,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Remote work has strengthened the tendency toward flexible office arrangements."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a growing tendency",
+        "cn": "日益明显的趋势"
+      },
+      {
+        "en": "show a tendency",
+        "cn": "表现出倾向"
+      }
     ]
   },
   "d03-comparison": {
@@ -2791,6 +3271,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "International comparisons help cities evaluate their public transport systems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "make a comparison",
+        "cn": "作比较"
+      },
+      {
+        "en": "by comparison",
+        "cn": "相比之下"
       }
     ]
   },
@@ -2852,6 +3342,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "New smartphones increasingly feature tools that run artificial intelligence on the device."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a distinctive feature",
+        "cn": "鲜明特征"
+      },
+      {
+        "en": "feature prominently",
+        "cn": "占据显著位置"
       }
     ]
   },
@@ -2918,6 +3418,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Wetlands function as natural barriers against floods and storms."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "perform a function",
+        "cn": "发挥功能"
+      },
+      {
+        "en": "function properly",
+        "cn": "正常运转"
+      }
     ]
   },
   "d03-source": {
@@ -2975,6 +3485,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Solar power is now a rapidly expanding source of electricity in many countries."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reliable source",
+        "cn": "可靠来源"
+      },
+      {
+        "en": "energy source",
+        "cn": "能源"
+      }
     ]
   },
   "d03-role": {
@@ -3028,6 +3548,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Public libraries play a growing role in improving digital access."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "play a role in",
+        "cn": "在……中发挥作用"
+      },
+      {
+        "en": "leading role",
+        "cn": "主导角色"
       }
     ]
   },
@@ -3085,6 +3615,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Wastewater monitoring has become a useful method for tracking disease trends."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "research method",
+        "cn": "研究方法"
+      },
+      {
+        "en": "effective method",
+        "cn": "有效方法"
+      }
     ]
   },
   "d03-principle": {
@@ -3139,6 +3679,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "The principle of human oversight guides many proposals for responsible artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "basic principle",
+        "cn": "基本原则"
+      },
+      {
+        "en": "in principle",
+        "cn": "原则上"
       }
     ]
   },
@@ -3198,6 +3748,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "New telescope observations continue to test theories of how galaxies formed."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "scientific theory",
+        "cn": "科学理论"
+      },
+      {
+        "en": "support a theory",
+        "cn": "支持某种理论"
+      }
     ]
   },
   "d03-concept": {
@@ -3256,6 +3816,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "The concept of a circular economy is shaping product design and recycling policy."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "abstract concept",
+        "cn": "抽象概念"
+      },
+      {
+        "en": "basic concept",
+        "cn": "基本概念"
+      }
     ]
   },
   "d03-context": {
@@ -3312,6 +3882,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Media-literacy lessons teach people to examine images in their original context."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "historical context",
+        "cn": "历史背景"
+      },
+      {
+        "en": "in context",
+        "cn": "结合上下文"
       }
     ]
   },
@@ -3371,6 +3951,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "High-resolution climate models reveal local details that global averages can hide."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "in detail",
+        "cn": "详细地"
+      },
+      {
+        "en": "attention to detail",
+        "cn": "对细节的关注"
+      }
     ]
   },
   "d03-option": {
@@ -3428,6 +4018,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Night trains are returning as a lower-carbon travel option in parts of Europe."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "available option",
+        "cn": "可选方案"
+      },
+      {
+        "en": "keep options open",
+        "cn": "保留选择余地"
+      }
     ]
   },
   "d04-condition": {
@@ -3484,6 +4084,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Sensors can report the condition of bridges before visible damage becomes severe."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "working conditions",
+        "cn": "工作条件"
+      },
+      {
+        "en": "on condition that",
+        "cn": "条件是……"
+      }
     ]
   },
   "d04-circumstance": {
@@ -3537,6 +4147,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Emergency cash programs can help families cope with circumstances beyond their control."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "changing circumstances",
+        "cn": "不断变化的情况"
+      },
+      {
+        "en": "under no circumstances",
+        "cn": "绝不"
       }
     ]
   },
@@ -3592,6 +4212,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Shared satellite maps give rescue teams a clearer picture of a disaster situation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "current situation",
+        "cn": "当前局势"
+      },
+      {
+        "en": "deal with a situation",
+        "cn": "应对某种局面"
       }
     ]
   },
@@ -3651,6 +4281,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Some cities are redesigning streets for the dual purpose of safety and cleaner travel."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "serve a purpose",
+        "cn": "发挥作用"
+      },
+      {
+        "en": "main purpose",
+        "cn": "主要目的"
+      }
     ]
   },
   "d04-advantage": {
@@ -3708,6 +4348,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Heat pumps have the advantage of providing both heating and cooling."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "competitive advantage",
+        "cn": "竞争优势"
+      },
+      {
+        "en": "take advantage of",
+        "cn": "利用"
+      }
     ]
   },
   "d04-disadvantage": {
@@ -3764,6 +4414,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Limited charging access remains a disadvantage for some electric-vehicle drivers."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "major disadvantage",
+        "cn": "主要劣势"
+      },
+      {
+        "en": "put at a disadvantage",
+        "cn": "使处于不利地位"
       }
     ]
   },
@@ -3823,6 +4483,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Technology companies face growing responsibility for protecting users' personal data."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "take responsibility",
+        "cn": "承担责任"
+      },
+      {
+        "en": "social responsibility",
+        "cn": "社会责任"
+      }
     ]
   },
   "d04-requirement": {
@@ -3879,6 +4549,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Carbon reporting is becoming a standard requirement for large companies in several markets."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "meet a requirement",
+        "cn": "满足要求"
+      },
+      {
+        "en": "legal requirement",
+        "cn": "法定要求"
       }
     ]
   },
@@ -3938,6 +4618,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Researchers are examining the relationship between urban trees and lower summer temperatures."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "close relationship",
+        "cn": "密切关系"
+      },
+      {
+        "en": "causal relationship",
+        "cn": "因果关系"
+      }
     ]
   },
   "d04-behavior": {
@@ -3995,6 +4685,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Cities use travel data to understand how new rail lines change commuting behavior."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "consumer behavior",
+        "cn": "消费者行为"
+      },
+      {
+        "en": "patterns of behavior",
+        "cn": "行为模式"
       }
     ]
   },
@@ -4054,6 +4754,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Low-orbit satellites are extending emergency communication to remote regions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "effective communication",
+        "cn": "有效沟通"
+      },
+      {
+        "en": "communication skills",
+        "cn": "沟通技巧"
       }
     ]
   },
@@ -4119,6 +4829,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Virtual laboratories give more students experience with scientific instruments."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "practical experience",
+        "cn": "实践经验"
+      },
+      {
+        "en": "gain experience",
+        "cn": "积累经验"
+      }
     ]
   },
   "d04-influence": {
@@ -4183,6 +4903,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Short-video platforms influence how many young people discover music and news."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "have an influence on",
+        "cn": "对……有影响"
+      },
+      {
+        "en": "under the influence",
+        "cn": "在……影响下"
+      }
     ]
   },
   "d04-importance": {
@@ -4239,6 +4969,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Recent droughts have highlighted the importance of efficient water management."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "great importance",
+        "cn": "十分重要"
+      },
+      {
+        "en": "attach importance to",
+        "cn": "重视"
       }
     ]
   },
@@ -4300,6 +5040,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Rapid development in battery chemistry is improving energy storage."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "sustainable development",
+        "cn": "可持续发展"
+      },
+      {
+        "en": "latest development",
+        "cn": "最新进展"
+      }
     ]
   },
   "d04-environment": {
@@ -4355,6 +5105,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "A global treaty process is seeking ways to reduce plastic pollution in the environment."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "natural environment",
+        "cn": "自然环境"
+      },
+      {
+        "en": "learning environment",
+        "cn": "学习环境"
       }
     ]
   },
@@ -4414,6 +5174,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "An aging population is increasing demand for accessible health and transport services."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "aging population",
+        "cn": "老龄化人口"
+      },
+      {
+        "en": "population growth",
+        "cn": "人口增长"
+      }
     ]
   },
   "d04-generation": {
@@ -4469,6 +5239,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "A new generation of reusable rockets is lowering some launch costs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "younger generation",
+        "cn": "年轻一代"
+      },
+      {
+        "en": "power generation",
+        "cn": "发电"
       }
     ]
   },
@@ -4529,6 +5309,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Open online courses are widening access to education in many languages."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "higher education",
+        "cn": "高等教育"
+      },
+      {
+        "en": "access to education",
+        "cn": "接受教育的机会"
+      }
     ]
   },
   "d04-tradition": {
@@ -4587,6 +5377,16 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Digital archives help communities preserve oral traditions for future generations."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "cultural tradition",
+        "cn": "文化传统"
+      },
+      {
+        "en": "follow a tradition",
+        "cn": "遵循传统"
+      }
     ]
   },
   "d05-achieve": {
@@ -4644,6 +5444,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Several space agencies aim to achieve safer lunar exploration through international cooperation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "achieve success",
+        "cn": "取得成功"
+      },
+      {
+        "en": "achieve a goal",
+        "cn": "实现目标"
+      },
+      {
+        "en": "achieve a balance",
+        "cn": "达到平衡"
       }
     ]
   },
@@ -4704,6 +5518,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Workers are acquiring new digital skills as artificial intelligence changes many occupations."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "acquire knowledge",
+        "cn": "获取知识"
+      },
+      {
+        "en": "acquire a skill",
+        "cn": "掌握一项技能"
+      },
+      {
+        "en": "acquire a company",
+        "cn": "收购一家公司"
+      }
     ]
   },
   "d05-apply": {
@@ -4763,6 +5591,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Cities are applying heat-mapping data to the design of cooler public spaces."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "apply for a job",
+        "cn": "申请工作"
+      },
+      {
+        "en": "apply a method",
+        "cn": "运用方法"
+      },
+      {
+        "en": "apply pressure",
+        "cn": "施加压力"
+      }
     ]
   },
   "d05-arrange": {
@@ -4821,6 +5663,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Humanitarian groups arrange temporary shelter after severe floods displace families."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "arrange a meeting",
+        "cn": "安排会议"
+      },
+      {
+        "en": "arrange the books",
+        "cn": "整理书籍"
+      },
+      {
+        "en": "arrange for transport",
+        "cn": "安排交通"
+      }
     ]
   },
   "d05-attempt": {
@@ -4877,6 +5733,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Engineers are attempting to recycle more battery materials for electric vehicles."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "attempt to solve",
+        "cn": "尝试解决"
+      },
+      {
+        "en": "make an attempt",
+        "cn": "作出尝试"
+      },
+      {
+        "en": "a rescue attempt",
+        "cn": "营救行动"
       }
     ]
   },
@@ -4938,6 +5808,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "New battery factories have attracted major investment to several industrial regions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "attract attention",
+        "cn": "吸引注意"
+      },
+      {
+        "en": "attract visitors",
+        "cn": "吸引游客"
+      },
+      {
+        "en": "attract investment",
+        "cn": "吸引投资"
+      }
     ]
   },
   "d05-avoid": {
@@ -4998,6 +5882,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Health systems use genomic monitoring to avoid being surprised by emerging virus variants."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "avoid mistakes",
+        "cn": "避免错误"
+      },
+      {
+        "en": "avoid doing something",
+        "cn": "避免做某事"
+      },
+      {
+        "en": "avoid unnecessary risk",
+        "cn": "规避不必要的风险"
+      }
     ]
   },
   "d05-combine": {
@@ -5056,6 +5954,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Modern weather models combine satellite observations with powerful computer simulations."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "combine theory with practice",
+        "cn": "理论联系实际"
+      },
+      {
+        "en": "combine forces",
+        "cn": "联合力量"
+      },
+      {
+        "en": "combine ingredients",
+        "cn": "混合配料"
       }
     ]
   },
@@ -5123,6 +6035,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Scientists completed the first full draft of the human pangenome reference in recent years."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "complete a form",
+        "cn": "填写表格"
+      },
+      {
+        "en": "complete the project",
+        "cn": "完成项目"
+      },
+      {
+        "en": "a complete set",
+        "cn": "完整的一套"
+      }
     ]
   },
   "d05-concentrate": {
@@ -5181,6 +6107,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Chip manufacturers are concentrating investment on more energy-efficient designs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "concentrate on a task",
+        "cn": "专注于任务"
+      },
+      {
+        "en": "concentrate efforts",
+        "cn": "集中力量"
+      },
+      {
+        "en": "highly concentrated",
+        "cn": "高浓度的"
       }
     ]
   },
@@ -5241,6 +6181,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Telescope observations have confirmed carbon-bearing molecules in distant planetary systems."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "confirm a booking",
+        "cn": "确认预订"
+      },
+      {
+        "en": "confirm the result",
+        "cn": "证实结果"
+      },
+      {
+        "en": "confirm that",
+        "cn": "确认……"
+      }
     ]
   },
   "d05-consider": {
@@ -5299,6 +6253,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Many governments are considering rules for the safe use of generative artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "consider an option",
+        "cn": "考虑一种选择"
+      },
+      {
+        "en": "consider doing something",
+        "cn": "考虑做某事"
+      },
+      {
+        "en": "be widely considered",
+        "cn": "被普遍认为"
       }
     ]
   },
@@ -5361,6 +6329,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Community solar projects are creating lower-cost paths to clean electricity."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "create opportunities",
+        "cn": "创造机会"
+      },
+      {
+        "en": "create a design",
+        "cn": "创作设计"
+      },
+      {
+        "en": "create jobs",
+        "cn": "创造就业岗位"
+      }
     ]
   },
   "d05-define": {
@@ -5421,6 +6403,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "New laws are beginning to define how high-risk artificial intelligence systems may be used."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "define a term",
+        "cn": "给术语下定义"
+      },
+      {
+        "en": "clearly define",
+        "cn": "明确界定"
+      },
+      {
+        "en": "define the boundaries",
+        "cn": "划定边界"
+      }
     ]
   },
   "d05-describe": {
@@ -5478,6 +6474,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Climate reports describe longer heat waves across many regions in recent years."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "describe a process",
+        "cn": "描述过程"
+      },
+      {
+        "en": "describe in detail",
+        "cn": "详细描述"
+      },
+      {
+        "en": "accurately describe",
+        "cn": "准确描述"
       }
     ]
   },
@@ -5539,6 +6549,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Recent public-health campaigns emphasize ventilation as one way to reduce airborne infection."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "emphasize the importance",
+        "cn": "强调重要性"
+      },
+      {
+        "en": "strongly emphasize",
+        "cn": "着重强调"
+      },
+      {
+        "en": "emphasize that",
+        "cn": "强调……"
+      }
     ]
   },
   "d05-encourage": {
@@ -5598,6 +6622,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Deposit-return programs encourage consumers to bring bottles back for recycling."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "encourage participation",
+        "cn": "鼓励参与"
+      },
+      {
+        "en": "encourage someone to try",
+        "cn": "鼓励某人尝试"
+      },
+      {
+        "en": "strongly encourage",
+        "cn": "大力鼓励"
       }
     ]
   },
@@ -5659,6 +6697,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Researchers are examining how microplastics move through food chains and human tissues."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "examine the evidence",
+        "cn": "审查证据"
+      },
+      {
+        "en": "carefully examine",
+        "cn": "仔细检查"
+      },
+      {
+        "en": "medical examination",
+        "cn": "体格检查"
+      }
     ]
   },
   "d05-expand": {
@@ -5717,6 +6769,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Several countries are expanding offshore wind capacity to diversify their energy supplies."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "expand services",
+        "cn": "扩大服务"
+      },
+      {
+        "en": "rapidly expand",
+        "cn": "迅速扩张"
+      },
+      {
+        "en": "expand into new markets",
+        "cn": "拓展到新市场"
       }
     ]
   },
@@ -5777,6 +6843,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Rapid diagnostic tools are improving the detection of diseases in remote communities."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "improve performance",
+        "cn": "提升表现"
+      },
+      {
+        "en": "improve significantly",
+        "cn": "显著改善"
+      },
+      {
+        "en": "improve access",
+        "cn": "改善获取机会"
+      }
     ]
   },
   "d06-affect": {
@@ -5834,6 +6914,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Extreme heat increasingly affects workers, schools, and transport systems across many regions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "affect performance",
+        "cn": "影响表现（动词）"
+      },
+      {
+        "en": "directly affect",
+        "cn": "直接影响（动词）"
+      },
+      {
+        "en": "be badly affected",
+        "cn": "受到严重影响"
       }
     ]
   },
@@ -5894,6 +6988,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Researchers continue to measure the long-term effects of wildfire smoke on public health."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "have an effect on",
+        "cn": "对……产生影响（名词）"
+      },
+      {
+        "en": "side effect",
+        "cn": "副作用（名词）"
+      },
+      {
+        "en": "take effect",
+        "cn": "开始生效"
+      }
     ]
   },
   "d06-adapt": {
@@ -5952,6 +7060,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Coastal cities are adapting drainage systems to heavier rainfall and rising seas."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "adapt to change",
+        "cn": "适应变化"
+      },
+      {
+        "en": "adapt a novel",
+        "cn": "改编小说"
+      },
+      {
+        "en": "quickly adapt",
+        "cn": "很快适应"
       }
     ]
   },
@@ -6013,6 +7135,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Many hospitals have adopted digital systems that help doctors review medical images."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "adopt a policy",
+        "cn": "采纳政策"
+      },
+      {
+        "en": "adopt a child",
+        "cn": "收养孩子"
+      },
+      {
+        "en": "widely adopted",
+        "cn": "被广泛采用"
+      }
     ]
   },
   "d06-economic": {
@@ -6071,6 +7207,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Supply-chain changes have become an important part of economic planning in many countries."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "economic growth",
+        "cn": "经济增长（与经济有关）"
+      },
+      {
+        "en": "economic policy",
+        "cn": "经济政策"
+      },
+      {
+        "en": "economic pressure",
+        "cn": "经济压力"
       }
     ]
   },
@@ -6131,6 +7281,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Electric buses are becoming more economical to operate as battery costs decline."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "economical to run",
+        "cn": "运行起来省钱"
+      },
+      {
+        "en": "an economical choice",
+        "cn": "经济实惠的选择"
+      },
+      {
+        "en": "economical use of space",
+        "cn": "节约空间的利用方式"
+      }
     ]
   },
   "d06-historic": {
@@ -6188,6 +7352,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "The first image of a black hole was widely regarded as a historic scientific achievement."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "historic agreement",
+        "cn": "具有历史意义的协议"
+      },
+      {
+        "en": "historic moment",
+        "cn": "历史性时刻"
+      },
+      {
+        "en": "historic victory",
+        "cn": "历史性胜利"
       }
     ]
   },
@@ -6249,6 +7427,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Digitized historical newspapers are helping researchers study changes in public language."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "historical records",
+        "cn": "历史档案（与历史有关）"
+      },
+      {
+        "en": "historical evidence",
+        "cn": "历史证据"
+      },
+      {
+        "en": "historical context",
+        "cn": "历史背景"
+      }
     ]
   },
   "d06-personal": {
@@ -6309,6 +7501,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Privacy laws increasingly regulate how companies collect and use personal data."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "personal information",
+        "cn": "个人信息"
+      },
+      {
+        "en": "personal experience",
+        "cn": "个人经历"
+      },
+      {
+        "en": "personal choice",
+        "cn": "个人选择"
+      }
     ]
   },
   "d06-personnel": {
@@ -6363,6 +7569,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Emergency personnel increasingly use drones to survey areas damaged by earthquakes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "trained personnel",
+        "cn": "受训人员"
+      },
+      {
+        "en": "military personnel",
+        "cn": "军方人员"
+      },
+      {
+        "en": "personnel department",
+        "cn": "人事部门"
       }
     ]
   },
@@ -6427,6 +7647,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "For many renewable-energy projects, the principal challenge is connecting new power to the grid."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "principal reason",
+        "cn": "主要原因"
+      },
+      {
+        "en": "school principal",
+        "cn": "校长"
+      },
+      {
+        "en": "principal amount",
+        "cn": "本金"
+      }
     ]
   },
   "d06-principle": {
@@ -6484,6 +7718,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "The principle of human oversight appears in many recent frameworks for responsible artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "basic principle",
+        "cn": "基本原则"
+      },
+      {
+        "en": "guiding principle",
+        "cn": "指导原则"
+      },
+      {
+        "en": "in principle",
+        "cn": "原则上"
       }
     ]
   },
@@ -6543,6 +7791,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Water reuse is a sensible option for many cities facing longer dry periods."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "sensible decision",
+        "cn": "明智的决定"
+      },
+      {
+        "en": "sensible approach",
+        "cn": "合理的做法"
+      },
+      {
+        "en": "perfectly sensible",
+        "cn": "完全合情合理"
       }
     ]
   },
@@ -6604,6 +7866,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "New ocean sensors are sensitive enough to detect subtle changes in temperature and chemistry."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "sensitive to light",
+        "cn": "对光敏感"
+      },
+      {
+        "en": "sensitive issue",
+        "cn": "敏感议题"
+      },
+      {
+        "en": "highly sensitive",
+        "cn": "高度敏感的"
+      }
     ]
   },
   "d06-considerable": {
@@ -6661,6 +7937,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "The shift to electric transport requires considerable investment in charging networks."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "considerable effort",
+        "cn": "相当大的努力"
+      },
+      {
+        "en": "considerable amount",
+        "cn": "相当大的数量"
+      },
+      {
+        "en": "considerable progress",
+        "cn": "长足进展"
       }
     ]
   },
@@ -6722,6 +8012,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Considerate urban design includes quiet areas and step-free routes for diverse users."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "considerate of others",
+        "cn": "体谅他人"
+      },
+      {
+        "en": "considerate behavior",
+        "cn": "体贴的行为"
+      },
+      {
+        "en": "kind and considerate",
+        "cn": "善良又体贴"
+      }
     ]
   },
   "d06-ensure": {
@@ -6777,6 +8081,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Satellite operators coordinate paths to help ensure the safe use of crowded orbits."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "ensure safety",
+        "cn": "确保安全"
+      },
+      {
+        "en": "ensure that",
+        "cn": "确保……"
+      },
+      {
+        "en": "help ensure",
+        "cn": "有助于确保"
       }
     ]
   },
@@ -6837,6 +8155,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Insurers are revising how they insure homes exposed to repeated floods and wildfires."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "insure a house",
+        "cn": "给房屋投保"
+      },
+      {
+        "en": "fully insured",
+        "cn": "已足额投保"
+      },
+      {
+        "en": "insure against loss",
+        "cn": "投保以防损失"
+      }
     ]
   },
   "d06-compliment": {
@@ -6894,6 +8226,20 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Athletes often compliment volunteers whose work keeps major competitions running smoothly."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "pay a compliment",
+        "cn": "赞美一番"
+      },
+      {
+        "en": "compliment someone on",
+        "cn": "称赞某人的……"
+      },
+      {
+        "en": "receive a compliment",
+        "cn": "得到赞美"
       }
     ]
   },
@@ -6953,6 +8299,20 @@ window.ATLAS_DETAILS = {
         "sourceDate": "recent-years",
         "speakText": "Battery storage can complement solar and wind power when weather conditions change."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "perfect complement",
+        "cn": "绝佳补充"
+      },
+      {
+        "en": "complement each other",
+        "cn": "相互补充"
+      },
+      {
+        "en": "complement existing skills",
+        "cn": "补足现有技能"
+      }
     ]
   },
   "d07-construct": {
@@ -7008,6 +8368,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "工程师建造适用于更深水域和更强海浪的海上风电平台。",
         "attributionType": "current-context",
         "speakText": "Engineers construct offshore wind platforms designed for deeper waters and stronger waves."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "construct a bridge",
+        "cn": "建造桥梁"
+      },
+      {
+        "en": "construct an argument",
+        "cn": "构建论点"
       }
     ]
   },
@@ -7065,6 +8435,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Low-carbon cement is being tested in construction projects to reduce embodied emissions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "under construction",
+        "cn": "正在施工"
+      },
+      {
+        "en": "construction project",
+        "cn": "建设项目"
+      }
     ]
   },
   "d07-instruct": {
@@ -7120,6 +8500,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "公共卫生团队指导当地工作人员正确使用冷链监测工具。",
         "attributionType": "current-context",
         "speakText": "Public-health teams instruct local workers to use cold-chain monitoring tools correctly."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "instruct someone to do",
+        "cn": "指示某人做……"
+      },
+      {
+        "en": "instruct someone in a skill",
+        "cn": "教授某人一项技能"
       }
     ]
   },
@@ -7177,6 +8567,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Digital instruction now often combines classroom teaching with accessible online materials."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "follow instructions",
+        "cn": "遵照指示"
+      },
+      {
+        "en": "clear instructions",
+        "cn": "清楚的说明"
+      }
     ]
   },
   "d07-introduce": {
@@ -7232,6 +8632,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "多个城市在扩建充电场站的同时引入了电动公交车队。",
         "attributionType": "current-context",
         "speakText": "Several cities have introduced electric bus fleets while expanding charging depots."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "introduce someone to",
+        "cn": "把某人介绍给……"
+      },
+      {
+        "en": "introduce a policy",
+        "cn": "推行一项政策"
       }
     ]
   },
@@ -7289,6 +8699,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "The introduction of digital product passports aims to make supply chains more transparent."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "brief introduction",
+        "cn": "简要介绍"
+      },
+      {
+        "en": "introduction to",
+        "cn": "……入门"
+      }
     ]
   },
   "d07-reduce": {
@@ -7345,6 +8765,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Repairing methane leaks can reduce warming pollution quickly and at relatively low cost."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reduce waste",
+        "cn": "减少浪费"
+      },
+      {
+        "en": "reduce by half",
+        "cn": "减少一半"
+      }
     ]
   },
   "d07-reduction": {
@@ -7400,6 +8830,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "电池价格下降推动了部分电动汽车成本的降低。",
         "attributionType": "current-context",
         "speakText": "Falling battery prices have supported a reduction in the cost of some electric vehicles."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "significant reduction",
+        "cn": "显著减少"
+      },
+      {
+        "en": "reduction in costs",
+        "cn": "成本下降"
       }
     ]
   },
@@ -7458,6 +8898,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Green hydrogen projects aim to produce fuel using renewable electricity and water."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "produce goods",
+        "cn": "生产商品"
+      },
+      {
+        "en": "produce evidence",
+        "cn": "出示证据"
+      }
     ]
   },
   "d07-production": {
@@ -7515,6 +8965,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Solar power production is expanding as module costs decline and installations grow."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "mass production",
+        "cn": "大规模生产"
+      },
+      {
+        "en": "energy production",
+        "cn": "能源生产"
+      }
     ]
   },
   "d07-transform": {
@@ -7571,6 +9031,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Artificial intelligence may transform routine office tasks while creating new training needs."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "transform society",
+        "cn": "改变社会"
+      },
+      {
+        "en": "transform into",
+        "cn": "转变为"
+      }
     ]
   },
   "d07-transformation": {
@@ -7626,6 +9096,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "能源系统转型需要电网、储能、能效和更清洁的发电方式。",
         "attributionType": "current-context",
         "speakText": "Energy-system transformation requires grids, storage, efficiency, and cleaner generation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "digital transformation",
+        "cn": "数字化转型"
+      },
+      {
+        "en": "rapid transformation",
+        "cn": "快速转变"
       }
     ]
   },
@@ -7690,6 +9170,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Cities are integrating rail, buses, and cycling into lower-emission transport networks."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public transport",
+        "cn": "公共交通"
+      },
+      {
+        "en": "transport goods",
+        "cn": "运输货物"
+      }
     ]
   },
   "d07-transportation": {
@@ -7745,6 +9235,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "交通规划越来越多地考虑充电、无障碍和气候韧性。",
         "attributionType": "current-context",
         "speakText": "Transportation planning increasingly accounts for charging, accessibility, and climate resilience."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "transportation costs",
+        "cn": "运输成本"
+      },
+      {
+        "en": "public transportation",
+        "cn": "公共交通系统"
       }
     ]
   },
@@ -7802,6 +9302,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Researchers translate climate projections into local maps for planners and emergency teams."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "translate into",
+        "cn": "翻译成；转化为"
+      },
+      {
+        "en": "accurately translate",
+        "cn": "准确翻译"
+      }
     ]
   },
   "d07-translation": {
@@ -7857,6 +9367,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "神经网络翻译工具正在改善多语言公共信息的获取，但人工审核仍然重要。",
         "attributionType": "current-context",
         "speakText": "Neural translation tools are improving access to multilingual public information, though human review remains important."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "accurate translation",
+        "cn": "准确的译文"
+      },
+      {
+        "en": "machine translation",
+        "cn": "机器翻译"
       }
     ]
   },
@@ -7914,6 +9434,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Modern building codes increasingly include standards for heat, floods, and energy efficiency."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "include details",
+        "cn": "包括细节"
+      },
+      {
+        "en": "price includes",
+        "cn": "价格包含……"
+      }
     ]
   },
   "d07-exclude": {
@@ -7969,6 +9499,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "无障碍设计旨在消除把残障人士排除在数字服务之外的障碍。",
         "attributionType": "current-context",
         "speakText": "Accessible design aims to remove barriers that exclude people with disabilities from digital services."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "exclude from",
+        "cn": "将……排除在外"
+      },
+      {
+        "en": "deliberately exclude",
+        "cn": "有意排除"
       }
     ]
   },
@@ -8026,6 +9566,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Recent assessments conclude that adaptation and emissions reduction must proceed together."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "conclude that",
+        "cn": "得出结论认为……"
+      },
+      {
+        "en": "conclude a meeting",
+        "cn": "结束会议"
+      }
     ]
   },
   "d07-conclusion": {
@@ -8081,6 +9631,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "多轮可再生能源竞拍的结束为各国项目储备增加了新容量。",
         "attributionType": "current-context",
         "speakText": "The conclusion of several renewable-energy auctions has added new capacity to national project pipelines."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reach a conclusion",
+        "cn": "得出结论"
+      },
+      {
+        "en": "logical conclusion",
+        "cn": "合乎逻辑的结论"
       }
     ]
   },
@@ -8139,6 +9699,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Clean-energy investment is becoming a larger part of the global economy."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "global economy",
+        "cn": "全球经济"
+      },
+      {
+        "en": "local economy",
+        "cn": "地方经济"
+      }
     ]
   },
   "d08-industry": {
@@ -8194,6 +9764,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "航运业正在测试更清洁的燃料、风力辅助和更高效的航线。",
         "attributionType": "current-context",
         "speakText": "The shipping industry is testing cleaner fuels, wind assistance, and more efficient routes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "manufacturing industry",
+        "cn": "制造业"
+      },
+      {
+        "en": "tourism industry",
+        "cn": "旅游业"
       }
     ]
   },
@@ -8251,6 +9831,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Battery technology continues to improve in cost, energy density, safety, and charging speed."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "digital technology",
+        "cn": "数字技术"
+      },
+      {
+        "en": "emerging technology",
+        "cn": "新兴技术"
+      }
     ]
   },
   "d08-equipment": {
@@ -8306,6 +9896,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "便携式诊断设备正在扩大偏远诊所获得检测的机会。",
         "attributionType": "current-context",
         "speakText": "Portable diagnostic equipment is expanding access to testing in remote clinics."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "safety equipment",
+        "cn": "安全设备"
+      },
+      {
+        "en": "laboratory equipment",
+        "cn": "实验室设备"
       }
     ]
   },
@@ -8363,6 +9963,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Power systems are adding storage and flexible demand to manage variable renewable generation."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "health system",
+        "cn": "医疗体系"
+      },
+      {
+        "en": "computer system",
+        "cn": "计算机系统"
+      }
     ]
   },
   "d08-resource": {
@@ -8418,6 +10028,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "随着干旱和人口增长加大供水压力，淡水仍是关键资源。",
         "attributionType": "current-context",
         "speakText": "Fresh water remains a critical resource as drought and population growth increase pressure on supplies."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "natural resource",
+        "cn": "自然资源"
+      },
+      {
+        "en": "learning resource",
+        "cn": "学习资源"
       }
     ]
   },
@@ -8481,6 +10101,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Scientists are developing battery materials made from more abundant minerals."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "raw material",
+        "cn": "原材料"
+      },
+      {
+        "en": "course material",
+        "cn": "课程资料"
+      }
     ]
   },
   "d08-process": {
@@ -8537,6 +10167,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "New recycling facilities process used batteries to recover lithium, nickel, and other materials."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "decision-making process",
+        "cn": "决策过程"
+      },
+      {
+        "en": "process data",
+        "cn": "处理数据"
+      }
     ]
   },
   "d08-consumption": {
@@ -8592,6 +10232,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "随着用电量增长，数据中心正在改进冷却和芯片能效。",
         "attributionType": "current-context",
         "speakText": "Data centers are improving cooling and chip efficiency as electricity consumption grows."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "energy consumption",
+        "cn": "能源消耗"
+      },
+      {
+        "en": "household consumption",
+        "cn": "家庭消费"
       }
     ]
   },
@@ -8656,6 +10306,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Demand for grid-scale batteries is rising alongside solar and wind deployment."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "meet demand",
+        "cn": "满足需求"
+      },
+      {
+        "en": "demand action",
+        "cn": "要求采取行动"
+      }
     ]
   },
   "d08-supply": {
@@ -8711,6 +10371,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "各国正在使电池和电子产品所需关键矿物的供应链多元化。",
         "attributionType": "current-context",
         "speakText": "Countries are diversifying critical-mineral supply chains for batteries and electronics."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "water supply",
+        "cn": "供水"
+      },
+      {
+        "en": "supply goods",
+        "cn": "供应货物"
       }
     ]
   },
@@ -8768,6 +10438,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "The market for heat pumps is expanding in regions seeking lower-carbon building heating."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "global market",
+        "cn": "全球市场"
+      },
+      {
+        "en": "labor market",
+        "cn": "劳动力市场"
+      }
     ]
   },
   "d08-service": {
@@ -8823,6 +10503,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "远程医疗服务正在把专科建议带给一些偏远社区。",
         "attributionType": "current-context",
         "speakText": "Telehealth services are extending specialist advice to some remote communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public service",
+        "cn": "公共服务"
+      },
+      {
+        "en": "customer service",
+        "cn": "客户服务"
       }
     ]
   },
@@ -8880,6 +10570,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Local authorities are updating heat-action plans as extreme temperatures become more common."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "local authority",
+        "cn": "地方当局"
+      },
+      {
+        "en": "have authority",
+        "cn": "拥有权限"
+      }
     ]
   },
   "d08-community": {
@@ -8935,6 +10635,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "社区能源项目让居民分享本地太阳能发电带来的收益。",
         "attributionType": "current-context",
         "speakText": "Community energy projects allow residents to share benefits from local solar generation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "local community",
+        "cn": "当地社区"
+      },
+      {
+        "en": "online community",
+        "cn": "网络社群"
       }
     ]
   },
@@ -8992,6 +10702,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Many governments are developing policy frameworks for artificial-intelligence safety and accountability."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public policy",
+        "cn": "公共政策"
+      },
+      {
+        "en": "adopt a policy",
+        "cn": "采纳政策"
+      }
     ]
   },
   "d08-benefit": {
@@ -9047,6 +10767,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "修复后的湿地通过蓄洪和支持生物多样性使社区受益。",
         "attributionType": "current-context",
         "speakText": "Restored wetlands benefit communities by storing floodwater and supporting biodiversity."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "mutual benefit",
+        "cn": "互惠"
+      },
+      {
+        "en": "benefit from",
+        "cn": "从……中受益"
       }
     ]
   },
@@ -9104,6 +10834,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Some cities are testing guaranteed-income programs and evaluating effects on housing and health."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "household income",
+        "cn": "家庭收入"
+      },
+      {
+        "en": "income tax",
+        "cn": "所得税"
+      }
     ]
   },
   "d08-expense": {
@@ -9159,6 +10899,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "在建筑低效且天气极端的地区，能源仍是家庭的一项主要开支。",
         "attributionType": "current-context",
         "speakText": "Energy remains a major household expense in regions with inefficient buildings and extreme weather."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "living expenses",
+        "cn": "生活开支"
+      },
+      {
+        "en": "at the expense of",
+        "cn": "以牺牲……为代价"
       }
     ]
   },
@@ -9223,6 +10973,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Repair programs recover value from electronics by extending product life and reducing waste."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "lasting value",
+        "cn": "持久价值"
+      },
+      {
+        "en": "value diversity",
+        "cn": "重视多样性"
+      }
     ]
   },
   "d09-confident": {
@@ -9278,6 +11038,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年科学家越来越确信，快速减排能够限制未来变暖。",
         "attributionType": "current-context",
         "speakText": "Scientists are increasingly confident that rapid emission cuts can limit future warming."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "feel confident",
+        "cn": "感到自信"
+      },
+      {
+        "en": "confident about the future",
+        "cn": "对未来有信心"
       }
     ]
   },
@@ -9335,6 +11105,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Young workers in many cities are anxious about housing costs."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "anxious about exams",
+        "cn": "为考试焦虑"
+      },
+      {
+        "en": "anxious to learn",
+        "cn": "渴望学习"
+      }
     ]
   },
   "d09-curious": {
@@ -9390,6 +11170,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年天文学家对新观测到的系外行星大气成分很好奇。",
         "attributionType": "current-context",
         "speakText": "Astronomers are curious about the chemistry of newly observed exoplanet atmospheres."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "curious about science",
+        "cn": "对科学好奇"
+      },
+      {
+        "en": "a curious fact",
+        "cn": "一件奇特的事实"
       }
     ]
   },
@@ -9447,6 +11237,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Central banks have remained cautious while inflation pressures change."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remain cautious",
+        "cn": "保持谨慎"
+      },
+      {
+        "en": "a cautious approach",
+        "cn": "谨慎的做法"
+      }
     ]
   },
   "d09-aware": {
@@ -9502,6 +11302,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年消费者更加了解移动应用如何收集数据。",
         "attributionType": "current-context",
         "speakText": "Consumers are more aware of how data is collected by mobile applications."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "be aware of",
+        "cn": "意识到……"
+      },
+      {
+        "en": "environmentally aware",
+        "cn": "有环保意识的"
       }
     ]
   },
@@ -9559,6 +11369,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Modern language models are capable of producing fluent text but can still make factual errors."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "capable of change",
+        "cn": "能够改变"
+      },
+      {
+        "en": "highly capable",
+        "cn": "能力很强的"
+      }
     ]
   },
   "d09-reliable": {
@@ -9614,6 +11434,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "对更多使用风能和太阳能的电网而言，可靠储能至关重要。",
         "attributionType": "current-context",
         "speakText": "Reliable electricity storage is essential for grids using more wind and solar power."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reliable information",
+        "cn": "可靠的信息"
+      },
+      {
+        "en": "highly reliable",
+        "cn": "非常可靠"
       }
     ]
   },
@@ -9671,6 +11501,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Independent researchers help test major claims about artificial intelligence systems."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "independent learner",
+        "cn": "自主学习者"
+      },
+      {
+        "en": "independent of government",
+        "cn": "不受政府控制的"
+      }
     ]
   },
   "d09-effective": {
@@ -9726,6 +11566,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年废水监测已成为追踪传染病的有效工具。",
         "attributionType": "current-context",
         "speakText": "Wastewater monitoring has become an effective tool for tracking infectious diseases."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "highly effective",
+        "cn": "非常有效"
+      },
+      {
+        "en": "effective from Monday",
+        "cn": "自周一起生效"
       }
     ]
   },
@@ -9783,6 +11633,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Flexible work arrangements remain common in many technology companies."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "flexible schedule",
+        "cn": "灵活的日程"
+      },
+      {
+        "en": "remain flexible",
+        "cn": "保持灵活"
+      }
     ]
   },
   "d09-constant": {
@@ -9838,6 +11698,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "持续监测帮助工程师发现桥梁和大坝的变化。",
         "attributionType": "current-context",
         "speakText": "Constant monitoring helps engineers detect changes in bridges and dams."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "constant attention",
+        "cn": "持续关注"
+      },
+      {
+        "en": "at a constant rate",
+        "cn": "以恒定速率"
       }
     ]
   },
@@ -9895,6 +11765,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Grid operators use batteries to keep electricity supplies stable during demand peaks."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "stable prices",
+        "cn": "稳定的价格"
+      },
+      {
+        "en": "stable condition",
+        "cn": "状况稳定"
+      }
     ]
   },
   "d09-severe": {
@@ -9951,6 +11831,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Several regions have faced severe water shortages after repeated droughts."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "severe weather",
+        "cn": "恶劣天气"
+      },
+      {
+        "en": "severe shortage",
+        "cn": "严重短缺"
+      }
     ]
   },
   "d09-minor": {
@@ -10005,6 +11895,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年软件团队通过小版本更新修复安全漏洞并提高稳定性。",
         "attributionType": "current-context",
         "speakText": "Software teams release minor updates to fix security weaknesses and improve stability."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "minor detail",
+        "cn": "次要细节"
+      },
+      {
+        "en": "minor injury",
+        "cn": "轻伤"
       }
     ]
   },
@@ -10061,6 +11961,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Global semiconductor supply chains remain complex and highly interconnected."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "complex problem",
+        "cn": "复杂的问题"
+      },
+      {
+        "en": "highly complex",
+        "cn": "极其复杂"
+      }
     ]
   },
   "d09-ordinary": {
@@ -10115,6 +12025,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "如今智能手机相机让普通用户也能细致记录事件。",
         "attributionType": "current-context",
         "speakText": "Smartphone cameras now let ordinary users record events in remarkable detail."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "ordinary people",
+        "cn": "普通人"
+      },
+      {
+        "en": "nothing out of the ordinary",
+        "cn": "没有任何异常"
       }
     ]
   },
@@ -10172,6 +12092,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Recent vaccines were developed with remarkable speed through global scientific cooperation."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remarkable progress",
+        "cn": "显著进展"
+      },
+      {
+        "en": "remarkable achievement",
+        "cn": "非凡成就"
+      }
     ]
   },
   "d09-formal": {
@@ -10227,6 +12157,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年多个政府已开始就人工智能规则展开正式谈判。",
         "attributionType": "current-context",
         "speakText": "Several governments have begun formal negotiations on rules for artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "formal meeting",
+        "cn": "正式会议"
+      },
+      {
+        "en": "formal approval",
+        "cn": "正式批准"
       }
     ]
   },
@@ -10284,6 +12224,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Informal online communities often help programmers solve technical problems quickly."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "informal meeting",
+        "cn": "非正式会面"
+      },
+      {
+        "en": "informal language",
+        "cn": "非正式用语"
+      }
     ]
   },
   "d09-remote": {
@@ -10338,6 +12288,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年低轨卫星正在扩大部分偏远社区的互联网接入。",
         "attributionType": "current-context",
         "speakText": "Low-orbit satellites are expanding internet access in some remote communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remote village",
+        "cn": "偏远村庄"
+      },
+      {
+        "en": "remote access",
+        "cn": "远程访问"
       }
     ]
   },
@@ -10399,6 +12359,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Independent laboratories test company claims about the performance of new batteries."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "claim that",
+        "cn": "声称……"
+      },
+      {
+        "en": "insurance claim",
+        "cn": "保险索赔"
+      }
     ]
   },
   "d10-issue": {
@@ -10456,6 +12426,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "疾病风险证据变化时，卫生机构会发布更新指南。",
         "attributionType": "current-context",
         "speakText": "Health agencies issue updated guidance when evidence about disease risks changes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "major issue",
+        "cn": "重大问题"
+      },
+      {
+        "en": "issue a statement",
+        "cn": "发布声明"
       }
     ]
   },
@@ -10518,6 +12498,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Faster stations can charge many electric vehicles during a short stop."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "charge a fee",
+        "cn": "收取费用"
+      },
+      {
+        "en": "in charge of",
+        "cn": "负责"
+      }
     ]
   },
   "d10-concern": {
@@ -10579,6 +12569,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "The spread of drug-resistant infections is a growing global concern."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "cause concern",
+        "cn": "引起担忧"
+      },
+      {
+        "en": "be concerned about",
+        "cn": "担心……"
+      }
     ]
   },
   "d10-figure": {
@@ -10636,6 +12636,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年公众人物越来越多地标注网上分享的计算机生成图像。",
         "attributionType": "current-context",
         "speakText": "Public figures increasingly label computer-generated images shared online."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "official figures",
+        "cn": "官方数据"
+      },
+      {
+        "en": "public figure",
+        "cn": "公众人物"
       }
     ]
   },
@@ -10697,6 +12707,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Renewable energy accounts for a growing share of new electricity capacity."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "bank account",
+        "cn": "银行账户"
+      },
+      {
+        "en": "account for half",
+        "cn": "占一半"
+      }
     ]
   },
   "d10-address": {
@@ -10757,6 +12777,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Cities are planting shade trees to address rising urban heat."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "email address",
+        "cn": "电子邮件地址"
+      },
+      {
+        "en": "address a problem",
+        "cn": "处理问题"
+      }
     ]
   },
   "d10-approach": {
@@ -10816,6 +12846,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年研究人员采用综合方法追踪气候风险与公共健康。",
         "attributionType": "current-context",
         "speakText": "Researchers use a combined approach to track climate risks and public health."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a new approach",
+        "cn": "一种新方法"
+      },
+      {
+        "en": "approach the problem",
+        "cn": "着手处理问题"
       }
     ]
   },
@@ -10878,6 +12918,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年天文学家持续追踪每个已知的近地天体。",
         "attributionType": "current-context",
         "speakText": "Astronomers track every known object that passes close to Earth."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "physical object",
+        "cn": "实体物件"
+      },
+      {
+        "en": "object to the plan",
+        "cn": "反对该计划"
       }
     ]
   },
@@ -10945,6 +12995,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "High-risk artificial intelligence is subject to stricter rules in several jurisdictions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "school subject",
+        "cn": "学校科目"
+      },
+      {
+        "en": "subject to change",
+        "cn": "可能发生变化"
+      }
     ]
   },
   "d10-conduct": {
@@ -11003,6 +13063,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年国际团队利用卫星和飞机定期开展冰川调查。",
         "attributionType": "current-context",
         "speakText": "International teams conduct regular surveys of glaciers using satellites and aircraft."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "code of conduct",
+        "cn": "行为准则"
+      },
+      {
+        "en": "conduct research",
+        "cn": "开展研究"
       }
     ]
   },
@@ -11066,6 +13136,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Climate scientists present new observations at international assessment meetings."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "at present",
+        "cn": "目前"
+      },
+      {
+        "en": "present the findings",
+        "cn": "呈现研究结果"
+      }
     ]
   },
   "d10-content": {
@@ -11128,6 +13208,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Platforms increasingly label synthetic content created by generative artificial intelligence."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "course content",
+        "cn": "课程内容"
+      },
+      {
+        "en": "content with the result",
+        "cn": "对结果感到满意"
+      }
     ]
   },
   "d10-course": {
@@ -11177,6 +13267,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年电池发展的进程正在改变交通与能源规划。",
         "attributionType": "current-context",
         "speakText": "The course of battery development is changing transport and energy planning."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "training course",
+        "cn": "培训课程"
+      },
+      {
+        "en": "course of action",
+        "cn": "行动方案"
       }
     ]
   },
@@ -11234,6 +13334,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Dark matter remains one of the largest unanswered questions in physics."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a serious matter",
+        "cn": "一件严肃的事"
+      },
+      {
+        "en": "it matters",
+        "cn": "这很重要"
+      }
     ]
   },
   "d10-means": {
@@ -11284,6 +13394,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年移动支付为许多农村市场提供了有用的交易手段。",
         "attributionType": "current-context",
         "speakText": "Mobile payments provide a useful means of exchange in many rural markets."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "means of transport",
+        "cn": "交通工具"
+      },
+      {
+        "en": "by all means",
+        "cn": "当然可以"
       }
     ]
   },
@@ -11344,6 +13464,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "Cities are adopting measures to protect residents during extreme heat."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "measure progress",
+        "cn": "衡量进展"
+      },
+      {
+        "en": "safety measure",
+        "cn": "安全措施"
+      }
     ]
   },
   "d10-rate": {
@@ -11402,6 +13532,16 @@ window.ATLAS_DETAILS = {
         "attributionType": "current-context",
         "speakText": "The rate of electric-vehicle adoption differs widely between regions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "growth rate",
+        "cn": "增长率"
+      },
+      {
+        "en": "rate performance",
+        "cn": "评价表现"
+      }
     ]
   },
   "d10-range": {
@@ -11457,6 +13597,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年的新型卫星服务支持从导航到灾害响应的多种用途。",
         "attributionType": "current-context",
         "speakText": "New satellite services support a range of uses from navigation to disaster response."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "wide range",
+        "cn": "范围广泛"
+      },
+      {
+        "en": "range from A to B",
+        "cn": "范围从 A 到 B"
       }
     ]
   },
@@ -11515,6 +13665,16 @@ window.ATLAS_DETAILS = {
         "translationCN": "近年“生成式人工智能”这一术语已进入日常讨论。",
         "attributionType": "current-context",
         "speakText": "The term generative artificial intelligence has entered everyday discussion."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "technical term",
+        "cn": "专业术语"
+      },
+      {
+        "en": "long-term plan",
+        "cn": "长期计划"
       }
     ]
   }

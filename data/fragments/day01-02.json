@@ -54,6 +54,16 @@
         "attributionType": "current-context",
         "speakText": "Many cities make transport data available so developers can improve journey-planning tools."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "readily available",
+        "cn": "随时可获得的"
+      },
+      {
+        "en": "available resources",
+        "cn": "可利用的资源"
+      }
     ]
   },
   "d01-individual": {
@@ -110,6 +120,16 @@
         "translationCN": "自适应学习平台可以提供个性化练习路径，同时教师关注全班情况。",
         "attributionType": "current-context",
         "speakText": "Adaptive learning platforms can offer individual practice paths while teachers monitor the whole class."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "individual needs",
+        "cn": "个人需求"
+      },
+      {
+        "en": "private individual",
+        "cn": "普通私人个体"
       }
     ]
   },
@@ -168,6 +188,16 @@
         "attributionType": "current-context",
         "speakText": "Heat alerts increasingly target particular neighborhoods where shade and cooling are scarce."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "particular attention",
+        "cn": "特别关注"
+      },
+      {
+        "en": "no particular reason",
+        "cn": "没有特别原因"
+      }
     ]
   },
   "d01-significant": {
@@ -224,6 +254,16 @@
         "translationCN": "太阳能和风能如今在许多国家的发电结构中占有重要份额。",
         "attributionType": "current-context",
         "speakText": "Solar and wind power now make a significant contribution to electricity generation in many countries."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "significant difference",
+        "cn": "显著差异"
+      },
+      {
+        "en": "statistically significant",
+        "cn": "具有统计学意义的"
       }
     ]
   },
@@ -282,6 +322,16 @@
         "attributionType": "current-context",
         "speakText": "Accurate local data remain essential when health agencies plan vaccination campaigns."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "essential skill",
+        "cn": "必备技能"
+      },
+      {
+        "en": "absolutely essential",
+        "cn": "绝对不可缺少的"
+      }
     ]
   },
   "d01-relevant": {
@@ -338,6 +388,16 @@
         "translationCN": "监管机构寻找有关自动化系统如何影响不同群体的相关证据。",
         "attributionType": "current-context",
         "speakText": "Regulators seek relevant evidence about how automated systems affect different communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "relevant evidence",
+        "cn": "相关证据"
+      },
+      {
+        "en": "directly relevant",
+        "cn": "直接相关的"
       }
     ]
   },
@@ -397,6 +457,16 @@
         "attributionType": "current-context",
         "speakText": "Cities are testing whether tree cover provides adequate protection during longer heat waves."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "adequate funding",
+        "cn": "充足的资金"
+      },
+      {
+        "en": "perfectly adequate",
+        "cn": "完全够用的"
+      }
     ]
   },
   "d01-previous": {
@@ -452,6 +522,16 @@
         "translationCN": "近年的气温纪录已超过许多国家此前的最高值。",
         "attributionType": "current-context",
         "speakText": "Recent temperature records have exceeded many previous national highs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "previous experience",
+        "cn": "以往经验"
+      },
+      {
+        "en": "previous owner",
+        "cn": "前任所有者"
       }
     ]
   },
@@ -510,6 +590,16 @@
         "attributionType": "current-context",
         "speakText": "Current battery research focuses on cost, safety, charging speed, and material supply."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "current situation",
+        "cn": "当前形势"
+      },
+      {
+        "en": "ocean current",
+        "cn": "洋流"
+      }
     ]
   },
   "d01-average": {
@@ -565,6 +655,16 @@
         "translationCN": "随着海洋变暖和陆地冰融化，全球平均海平面持续上升。",
         "attributionType": "current-context",
         "speakText": "Global average sea level continues to rise as oceans warm and land ice melts."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "average income",
+        "cn": "平均收入"
+      },
+      {
+        "en": "above average",
+        "cn": "高于平均水平"
       }
     ]
   },
@@ -623,6 +723,16 @@
         "attributionType": "current-context",
         "speakText": "Wastewater monitoring can reveal specific disease trends without identifying individual residents."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "specific purpose",
+        "cn": "特定用途"
+      },
+      {
+        "en": "be specific about",
+        "cn": "明确说明……"
+      }
     ]
   },
   "d01-considerable": {
@@ -679,6 +789,16 @@
         "translationCN": "建设先进半导体工厂需要大量资金、能源、水和专业知识。",
         "attributionType": "current-context",
         "speakText": "Building advanced semiconductor facilities demands considerable capital, energy, water, and expertise."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "considerable effort",
+        "cn": "付出大量努力"
+      },
+      {
+        "en": "considerable influence",
+        "cn": "产生相当大的影响"
       }
     ]
   },
@@ -737,6 +857,16 @@
         "attributionType": "current-context",
         "speakText": "Densely built neighborhoods with little shade are likely to experience greater heat stress."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "most likely",
+        "cn": "很可能"
+      },
+      {
+        "en": "likely outcome",
+        "cn": "可能出现的结果"
+      }
     ]
   },
   "d01-negative": {
@@ -793,6 +923,16 @@
         "translationCN": "研究人员继续研究社交媒体对青少年的正面和负面影响。",
         "attributionType": "current-context",
         "speakText": "Researchers continue to study both positive and negative effects of social media on adolescents."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "negative impact",
+        "cn": "负面影响"
+      },
+      {
+        "en": "negative number",
+        "cn": "负数"
       }
     ]
   },
@@ -851,6 +991,16 @@
         "attributionType": "current-context",
         "speakText": "Wetland restoration can produce positive results for flood control, wildlife, and water quality."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "positive attitude",
+        "cn": "积极态度"
+      },
+      {
+        "en": "positive result",
+        "cn": "正面结果"
+      }
     ]
   },
   "d01-proper": {
@@ -907,6 +1057,16 @@
         "translationCN": "妥善回收可让有价值的金属继续利用，并防止有害物质进入土壤。",
         "attributionType": "current-context",
         "speakText": "Proper recycling keeps valuable metals in use and hazardous materials out of soil."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "proper procedure",
+        "cn": "规范程序"
+      },
+      {
+        "en": "properly trained",
+        "cn": "受过适当培训的"
       }
     ]
   },
@@ -965,6 +1125,16 @@
         "attributionType": "current-context",
         "speakText": "A typical hybrid schedule combines remote work with several shared office days."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "typical example",
+        "cn": "典型例子"
+      },
+      {
+        "en": "typical behavior",
+        "cn": "典型行为"
+      }
     ]
   },
   "d01-similar": {
@@ -1021,6 +1191,16 @@
         "translationCN": "各国正在建立类似的预警系统，结合实验室和污水数据。",
         "attributionType": "current-context",
         "speakText": "Countries are building similar early-warning systems that combine laboratory and wastewater data."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "similar results",
+        "cn": "相似的结果"
+      },
+      {
+        "en": "remarkably similar",
+        "cn": "极为相似"
       }
     ]
   },
@@ -1080,6 +1260,16 @@
         "attributionType": "current-context",
         "speakText": "Various storage technologies are being tested to balance electricity from wind and solar power."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "various reasons",
+        "cn": "种种原因"
+      },
+      {
+        "en": "in various ways",
+        "cn": "以各种方式"
+      }
     ]
   },
   "d01-frequent": {
@@ -1136,6 +1326,16 @@
         "translationCN": "更频繁的城市洪涝正推动排水、湿地和预警系统方面的投资。",
         "attributionType": "current-context",
         "speakText": "More frequent urban flooding is prompting investment in drainage, wetlands, and warning systems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "frequent contact",
+        "cn": "频繁联系"
+      },
+      {
+        "en": "increasingly frequent",
+        "cn": "日益频繁的"
       }
     ]
   },
@@ -1195,6 +1395,16 @@
         "attributionType": "current-context",
         "speakText": "Long-term observations indicate that oceans are absorbing most of the excess heat from global warming."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "clearly indicate",
+        "cn": "清楚表明"
+      },
+      {
+        "en": "indicate a trend",
+        "cn": "显示一种趋势"
+      }
     ]
   },
   "d02-involve": {
@@ -1251,6 +1461,16 @@
         "translationCN": "电网现代化将涉及新输电线路、储能和灵活用电需求。",
         "attributionType": "current-context",
         "speakText": "Modernizing power grids will involve new transmission lines, storage, and flexible demand."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "involve risk",
+        "cn": "涉及风险"
+      },
+      {
+        "en": "be actively involved",
+        "cn": "积极参与"
       }
     ]
   },
@@ -1309,6 +1529,16 @@
         "attributionType": "current-context",
         "speakText": "Protecting public infrastructure requires regular updates, trained staff, and tested recovery plans."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "require attention",
+        "cn": "需要关注"
+      },
+      {
+        "en": "legally required",
+        "cn": "法律规定必须的"
+      }
     ]
   },
   "d02-obtain": {
@@ -1365,6 +1595,16 @@
         "translationCN": "农民可以获得有关土壤湿度和作物胁迫的近实时卫星信息。",
         "attributionType": "current-context",
         "speakText": "Farmers can obtain near-real-time satellite information about soil moisture and crop stress."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "obtain permission",
+        "cn": "获得许可"
+      },
+      {
+        "en": "obtain evidence",
+        "cn": "取得证据"
       }
     ]
   },
@@ -1423,6 +1663,16 @@
         "attributionType": "current-context",
         "speakText": "Transport agencies use sensors to maintain bridges before small defects become dangerous."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "maintain standards",
+        "cn": "维持标准"
+      },
+      {
+        "en": "regularly maintained",
+        "cn": "定期维护的"
+      }
     ]
   },
   "d02-establish": {
@@ -1479,6 +1729,16 @@
         "translationCN": "多个航天计划准备在月球周边建立持续的科学活动。",
         "attributionType": "current-context",
         "speakText": "Several space programs plan to establish sustained scientific operations around the Moon."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "establish a system",
+        "cn": "建立一套制度"
+      },
+      {
+        "en": "firmly established",
+        "cn": "牢固确立的"
       }
     ]
   },
@@ -1538,6 +1798,16 @@
         "attributionType": "current-context",
         "speakText": "Environmental DNA helps scientists identify species from traces left in water or soil."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "identify a cause",
+        "cn": "找出原因"
+      },
+      {
+        "en": "correctly identify",
+        "cn": "正确识别"
+      }
     ]
   },
   "d02-reflect": {
@@ -1594,6 +1864,16 @@
         "translationCN": "新的街道设计反映了人们对更安全步行和骑行日益增长的需求。",
         "attributionType": "current-context",
         "speakText": "New street designs reflect growing demand for safer walking and cycling."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reflect reality",
+        "cn": "反映现实"
+      },
+      {
+        "en": "reflect on experience",
+        "cn": "反思经历"
       }
     ]
   },
@@ -1652,6 +1932,16 @@
         "attributionType": "current-context",
         "speakText": "Climate attribution studies help determine how warming changes the likelihood of extreme events."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "determine the cause",
+        "cn": "查明原因"
+      },
+      {
+        "en": "largely determine",
+        "cn": "在很大程度上决定"
+      }
     ]
   },
   "d02-represent": {
@@ -1708,6 +1998,16 @@
         "translationCN": "青年观察员越来越多地寻求在气候讨论中代表未来世代的机会。",
         "attributionType": "current-context",
         "speakText": "Youth observers increasingly seek opportunities to represent future generations in climate discussions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "represent a group",
+        "cn": "代表一个群体"
+      },
+      {
+        "en": "accurately represent",
+        "cn": "准确体现"
       }
     ]
   },
@@ -1766,6 +2066,16 @@
         "attributionType": "current-context",
         "speakText": "Volunteers contribute millions of wildlife observations to global biodiversity databases."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "contribute money",
+        "cn": "捐款"
+      },
+      {
+        "en": "contribute to growth",
+        "cn": "促进增长"
+      }
     ]
   },
   "d02-assume": {
@@ -1823,6 +2133,16 @@
         "attributionType": "current-context",
         "speakText": "Workforce plans should not assume that automation affects every occupation in the same way."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reasonably assume",
+        "cn": "有理由推定"
+      },
+      {
+        "en": "assume responsibility",
+        "cn": "承担责任"
+      }
     ]
   },
   "d02-reduce": {
@@ -1879,6 +2199,16 @@
         "translationCN": "修复石油和天然气系统的泄漏可以迅速减少甲烷排放。",
         "attributionType": "current-context",
         "speakText": "Repairing leaks in oil and gas systems can rapidly reduce methane emissions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reduce costs",
+        "cn": "降低成本"
+      },
+      {
+        "en": "greatly reduce",
+        "cn": "大幅减少"
       }
     ]
   },
@@ -1938,6 +2268,16 @@
         "attributionType": "current-context",
         "speakText": "Demand for charging infrastructure continues to increase as electric vehicle use expands."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "increase demand",
+        "cn": "增加需求"
+      },
+      {
+        "en": "steadily increase",
+        "cn": "稳步增长"
+      }
     ]
   },
   "d02-provide": {
@@ -1994,6 +2334,16 @@
         "translationCN": "地球观测卫星在洪水、火灾和地震后提供快速地图。",
         "attributionType": "current-context",
         "speakText": "Earth-observation satellites provide rapid maps after floods, fires, and earthquakes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "provide support",
+        "cn": "提供支持"
+      },
+      {
+        "en": "provide access to",
+        "cn": "提供使用……的机会"
       }
     ]
   },
@@ -2052,6 +2402,16 @@
         "attributionType": "current-context",
         "speakText": "Researchers use visual models to explain complex climate risks to local decision-makers."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "clearly explain",
+        "cn": "清楚解释"
+      },
+      {
+        "en": "explain why",
+        "cn": "解释为何……"
+      }
     ]
   },
   "d02-suggest": {
@@ -2108,6 +2468,16 @@
         "translationCN": "多项职场试验表明，缩短每周工时可能在保持产出的同时改善福祉。",
         "attributionType": "current-context",
         "speakText": "Several workplace trials suggest that shorter weeks can preserve output while improving well-being."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "strongly suggest",
+        "cn": "强烈表明"
+      },
+      {
+        "en": "evidence suggests",
+        "cn": "证据显示"
       }
     ]
   },
@@ -2167,6 +2537,16 @@
         "attributionType": "current-context",
         "speakText": "Cities compare electric buses, rail, and cycling networks when planning lower-carbon transport."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "compare results",
+        "cn": "比较结果"
+      },
+      {
+        "en": "closely compare",
+        "cn": "仔细比较"
+      }
     ]
   },
   "d02-recognize": {
@@ -2223,6 +2603,16 @@
         "translationCN": "越来越多的保护项目承认原住民知识是管理生态系统的重要依据。",
         "attributionType": "current-context",
         "speakText": "More conservation programs recognize Indigenous knowledge as valuable evidence for managing ecosystems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "widely recognized",
+        "cn": "得到广泛认可的"
+      },
+      {
+        "en": "recognize the need",
+        "cn": "认识到有必要"
       }
     ]
   },
@@ -2281,6 +2671,16 @@
         "translationCN": "移动预警系统帮助社区更快应对野火和山洪。",
         "attributionType": "current-context",
         "speakText": "Mobile alert systems help communities respond more quickly to wildfires and flash floods."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "respond quickly",
+        "cn": "迅速回应"
+      },
+      {
+        "en": "respond to treatment",
+        "cn": "对治疗产生反应"
       }
     ]
   }

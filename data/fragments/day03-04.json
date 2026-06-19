@@ -53,6 +53,16 @@
         "sourceDate": "recent-years",
         "speakText": "Energy security is one aspect of the global shift toward cleaner power."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a key aspect of",
+        "cn": "……的一个关键方面"
+      },
+      {
+        "en": "every aspect of",
+        "cn": "……的方方面面"
+      }
     ]
   },
   "d03-factor": {
@@ -107,6 +117,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Battery cost remains a major factor in the adoption of electric vehicles."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a major factor",
+        "cn": "一个主要因素"
+      },
+      {
+        "en": "contributing factor",
+        "cn": "促成因素"
       }
     ]
   },
@@ -165,6 +185,16 @@
         "sourceDate": "recent-years",
         "speakText": "Satellite records provide evidence that many glaciers are retreating."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "strong evidence",
+        "cn": "有力证据"
+      },
+      {
+        "en": "provide evidence",
+        "cn": "提供证据"
+      }
     ]
   },
   "d03-consequence": {
@@ -222,6 +252,16 @@
         "sourceDate": "recent-years",
         "speakText": "Longer heat waves can be a consequence of a warming climate."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "serious consequences",
+        "cn": "严重后果"
+      },
+      {
+        "en": "as a consequence",
+        "cn": "因此"
+      }
     ]
   },
   "d03-opportunity": {
@@ -278,6 +318,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Low-cost satellites offer smaller nations new opportunities for Earth observation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "equal opportunity",
+        "cn": "机会平等"
+      },
+      {
+        "en": "take the opportunity",
+        "cn": "抓住机会"
       }
     ]
   },
@@ -337,6 +387,16 @@
         "sourceDate": "recent-years",
         "speakText": "Many regions are expanding renewable-energy storage capacity."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "production capacity",
+        "cn": "生产能力"
+      },
+      {
+        "en": "capacity to learn",
+        "cn": "学习能力"
+      }
     ]
   },
   "d03-pressure": {
@@ -395,6 +455,16 @@
         "sourceDate": "recent-years",
         "speakText": "Growing electricity demand is putting pressure on aging power grids."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "under pressure",
+        "cn": "承受压力"
+      },
+      {
+        "en": "public pressure",
+        "cn": "公众压力"
+      }
     ]
   },
   "d03-tendency": {
@@ -451,6 +521,16 @@
         "sourceDate": "recent-years",
         "speakText": "Remote work has strengthened the tendency toward flexible office arrangements."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a growing tendency",
+        "cn": "日益明显的趋势"
+      },
+      {
+        "en": "show a tendency",
+        "cn": "表现出倾向"
+      }
     ]
   },
   "d03-comparison": {
@@ -506,6 +586,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "International comparisons help cities evaluate their public transport systems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "make a comparison",
+        "cn": "作比较"
+      },
+      {
+        "en": "by comparison",
+        "cn": "相比之下"
       }
     ]
   },
@@ -567,6 +657,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "New smartphones increasingly feature tools that run artificial intelligence on the device."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a distinctive feature",
+        "cn": "鲜明特征"
+      },
+      {
+        "en": "feature prominently",
+        "cn": "占据显著位置"
       }
     ]
   },
@@ -633,6 +733,16 @@
         "sourceDate": "recent-years",
         "speakText": "Wetlands function as natural barriers against floods and storms."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "perform a function",
+        "cn": "发挥功能"
+      },
+      {
+        "en": "function properly",
+        "cn": "正常运转"
+      }
     ]
   },
   "d03-source": {
@@ -690,6 +800,16 @@
         "sourceDate": "recent-years",
         "speakText": "Solar power is now a rapidly expanding source of electricity in many countries."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reliable source",
+        "cn": "可靠来源"
+      },
+      {
+        "en": "energy source",
+        "cn": "能源"
+      }
     ]
   },
   "d03-role": {
@@ -743,6 +863,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Public libraries play a growing role in improving digital access."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "play a role in",
+        "cn": "在……中发挥作用"
+      },
+      {
+        "en": "leading role",
+        "cn": "主导角色"
       }
     ]
   },
@@ -800,6 +930,16 @@
         "sourceDate": "recent-years",
         "speakText": "Wastewater monitoring has become a useful method for tracking disease trends."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "research method",
+        "cn": "研究方法"
+      },
+      {
+        "en": "effective method",
+        "cn": "有效方法"
+      }
     ]
   },
   "d03-principle": {
@@ -854,6 +994,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "The principle of human oversight guides many proposals for responsible artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "basic principle",
+        "cn": "基本原则"
+      },
+      {
+        "en": "in principle",
+        "cn": "原则上"
       }
     ]
   },
@@ -913,6 +1063,16 @@
         "sourceDate": "recent-years",
         "speakText": "New telescope observations continue to test theories of how galaxies formed."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "scientific theory",
+        "cn": "科学理论"
+      },
+      {
+        "en": "support a theory",
+        "cn": "支持某种理论"
+      }
     ]
   },
   "d03-concept": {
@@ -971,6 +1131,16 @@
         "sourceDate": "recent-years",
         "speakText": "The concept of a circular economy is shaping product design and recycling policy."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "abstract concept",
+        "cn": "抽象概念"
+      },
+      {
+        "en": "basic concept",
+        "cn": "基本概念"
+      }
     ]
   },
   "d03-context": {
@@ -1027,6 +1197,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Media-literacy lessons teach people to examine images in their original context."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "historical context",
+        "cn": "历史背景"
+      },
+      {
+        "en": "in context",
+        "cn": "结合上下文"
       }
     ]
   },
@@ -1086,6 +1266,16 @@
         "sourceDate": "recent-years",
         "speakText": "High-resolution climate models reveal local details that global averages can hide."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "in detail",
+        "cn": "详细地"
+      },
+      {
+        "en": "attention to detail",
+        "cn": "对细节的关注"
+      }
     ]
   },
   "d03-option": {
@@ -1143,6 +1333,16 @@
         "sourceDate": "recent-years",
         "speakText": "Night trains are returning as a lower-carbon travel option in parts of Europe."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "available option",
+        "cn": "可选方案"
+      },
+      {
+        "en": "keep options open",
+        "cn": "保留选择余地"
+      }
     ]
   },
   "d04-condition": {
@@ -1199,6 +1399,16 @@
         "sourceDate": "recent-years",
         "speakText": "Sensors can report the condition of bridges before visible damage becomes severe."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "working conditions",
+        "cn": "工作条件"
+      },
+      {
+        "en": "on condition that",
+        "cn": "条件是……"
+      }
     ]
   },
   "d04-circumstance": {
@@ -1252,6 +1462,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Emergency cash programs can help families cope with circumstances beyond their control."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "changing circumstances",
+        "cn": "不断变化的情况"
+      },
+      {
+        "en": "under no circumstances",
+        "cn": "绝不"
       }
     ]
   },
@@ -1307,6 +1527,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Shared satellite maps give rescue teams a clearer picture of a disaster situation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "current situation",
+        "cn": "当前局势"
+      },
+      {
+        "en": "deal with a situation",
+        "cn": "应对某种局面"
       }
     ]
   },
@@ -1366,6 +1596,16 @@
         "sourceDate": "recent-years",
         "speakText": "Some cities are redesigning streets for the dual purpose of safety and cleaner travel."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "serve a purpose",
+        "cn": "发挥作用"
+      },
+      {
+        "en": "main purpose",
+        "cn": "主要目的"
+      }
     ]
   },
   "d04-advantage": {
@@ -1423,6 +1663,16 @@
         "sourceDate": "recent-years",
         "speakText": "Heat pumps have the advantage of providing both heating and cooling."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "competitive advantage",
+        "cn": "竞争优势"
+      },
+      {
+        "en": "take advantage of",
+        "cn": "利用"
+      }
     ]
   },
   "d04-disadvantage": {
@@ -1479,6 +1729,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Limited charging access remains a disadvantage for some electric-vehicle drivers."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "major disadvantage",
+        "cn": "主要劣势"
+      },
+      {
+        "en": "put at a disadvantage",
+        "cn": "使处于不利地位"
       }
     ]
   },
@@ -1538,6 +1798,16 @@
         "sourceDate": "recent-years",
         "speakText": "Technology companies face growing responsibility for protecting users' personal data."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "take responsibility",
+        "cn": "承担责任"
+      },
+      {
+        "en": "social responsibility",
+        "cn": "社会责任"
+      }
     ]
   },
   "d04-requirement": {
@@ -1594,6 +1864,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Carbon reporting is becoming a standard requirement for large companies in several markets."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "meet a requirement",
+        "cn": "满足要求"
+      },
+      {
+        "en": "legal requirement",
+        "cn": "法定要求"
       }
     ]
   },
@@ -1653,6 +1933,16 @@
         "sourceDate": "recent-years",
         "speakText": "Researchers are examining the relationship between urban trees and lower summer temperatures."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "close relationship",
+        "cn": "密切关系"
+      },
+      {
+        "en": "causal relationship",
+        "cn": "因果关系"
+      }
     ]
   },
   "d04-behavior": {
@@ -1710,6 +2000,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Cities use travel data to understand how new rail lines change commuting behavior."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "consumer behavior",
+        "cn": "消费者行为"
+      },
+      {
+        "en": "patterns of behavior",
+        "cn": "行为模式"
       }
     ]
   },
@@ -1769,6 +2069,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Low-orbit satellites are extending emergency communication to remote regions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "effective communication",
+        "cn": "有效沟通"
+      },
+      {
+        "en": "communication skills",
+        "cn": "沟通技巧"
       }
     ]
   },
@@ -1834,6 +2144,16 @@
         "sourceDate": "recent-years",
         "speakText": "Virtual laboratories give more students experience with scientific instruments."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "practical experience",
+        "cn": "实践经验"
+      },
+      {
+        "en": "gain experience",
+        "cn": "积累经验"
+      }
     ]
   },
   "d04-influence": {
@@ -1898,6 +2218,16 @@
         "sourceDate": "recent-years",
         "speakText": "Short-video platforms influence how many young people discover music and news."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "have an influence on",
+        "cn": "对……有影响"
+      },
+      {
+        "en": "under the influence",
+        "cn": "在……影响下"
+      }
     ]
   },
   "d04-importance": {
@@ -1954,6 +2284,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Recent droughts have highlighted the importance of efficient water management."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "great importance",
+        "cn": "十分重要"
+      },
+      {
+        "en": "attach importance to",
+        "cn": "重视"
       }
     ]
   },
@@ -2015,6 +2355,16 @@
         "sourceDate": "recent-years",
         "speakText": "Rapid development in battery chemistry is improving energy storage."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "sustainable development",
+        "cn": "可持续发展"
+      },
+      {
+        "en": "latest development",
+        "cn": "最新进展"
+      }
     ]
   },
   "d04-environment": {
@@ -2070,6 +2420,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "A global treaty process is seeking ways to reduce plastic pollution in the environment."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "natural environment",
+        "cn": "自然环境"
+      },
+      {
+        "en": "learning environment",
+        "cn": "学习环境"
       }
     ]
   },
@@ -2129,6 +2489,16 @@
         "sourceDate": "recent-years",
         "speakText": "An aging population is increasing demand for accessible health and transport services."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "aging population",
+        "cn": "老龄化人口"
+      },
+      {
+        "en": "population growth",
+        "cn": "人口增长"
+      }
     ]
   },
   "d04-generation": {
@@ -2184,6 +2554,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "A new generation of reusable rockets is lowering some launch costs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "younger generation",
+        "cn": "年轻一代"
+      },
+      {
+        "en": "power generation",
+        "cn": "发电"
       }
     ]
   },
@@ -2244,6 +2624,16 @@
         "sourceDate": "recent-years",
         "speakText": "Open online courses are widening access to education in many languages."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "higher education",
+        "cn": "高等教育"
+      },
+      {
+        "en": "access to education",
+        "cn": "接受教育的机会"
+      }
     ]
   },
   "d04-tradition": {
@@ -2301,6 +2691,16 @@
         "attributionType": "current-context",
         "sourceDate": "recent-years",
         "speakText": "Digital archives help communities preserve oral traditions for future generations."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "cultural tradition",
+        "cn": "文化传统"
+      },
+      {
+        "en": "follow a tradition",
+        "cn": "遵循传统"
       }
     ]
   }

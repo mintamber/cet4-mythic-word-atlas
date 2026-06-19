@@ -53,6 +53,16 @@
         "attributionType": "current-context",
         "speakText": "Engineers construct offshore wind platforms designed for deeper waters and stronger waves."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "construct a bridge",
+        "cn": "建造桥梁"
+      },
+      {
+        "en": "construct an argument",
+        "cn": "构建论点"
+      }
     ]
   },
   "d07-construction": {
@@ -108,6 +118,16 @@
         "translationCN": "低碳水泥正用于建筑项目测试，以减少隐含碳排放。",
         "attributionType": "current-context",
         "speakText": "Low-carbon cement is being tested in construction projects to reduce embodied emissions."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "under construction",
+        "cn": "正在施工"
+      },
+      {
+        "en": "construction project",
+        "cn": "建设项目"
       }
     ]
   },
@@ -165,6 +185,16 @@
         "attributionType": "current-context",
         "speakText": "Public-health teams instruct local workers to use cold-chain monitoring tools correctly."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "instruct someone to do",
+        "cn": "指示某人做……"
+      },
+      {
+        "en": "instruct someone in a skill",
+        "cn": "教授某人一项技能"
+      }
     ]
   },
   "d07-instruction": {
@@ -220,6 +250,16 @@
         "translationCN": "如今的数字化教学常把课堂教学与无障碍在线材料结合起来。",
         "attributionType": "current-context",
         "speakText": "Digital instruction now often combines classroom teaching with accessible online materials."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "follow instructions",
+        "cn": "遵照指示"
+      },
+      {
+        "en": "clear instructions",
+        "cn": "清楚的说明"
       }
     ]
   },
@@ -277,6 +317,16 @@
         "attributionType": "current-context",
         "speakText": "Several cities have introduced electric bus fleets while expanding charging depots."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "introduce someone to",
+        "cn": "把某人介绍给……"
+      },
+      {
+        "en": "introduce a policy",
+        "cn": "推行一项政策"
+      }
     ]
   },
   "d07-introduction": {
@@ -332,6 +382,16 @@
         "translationCN": "数字产品护照的引入旨在提高供应链透明度。",
         "attributionType": "current-context",
         "speakText": "The introduction of digital product passports aims to make supply chains more transparent."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "brief introduction",
+        "cn": "简要介绍"
+      },
+      {
+        "en": "introduction to",
+        "cn": "……入门"
       }
     ]
   },
@@ -389,6 +449,16 @@
         "attributionType": "current-context",
         "speakText": "Repairing methane leaks can reduce warming pollution quickly and at relatively low cost."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reduce waste",
+        "cn": "减少浪费"
+      },
+      {
+        "en": "reduce by half",
+        "cn": "减少一半"
+      }
     ]
   },
   "d07-reduction": {
@@ -444,6 +514,16 @@
         "translationCN": "电池价格下降推动了部分电动汽车成本的降低。",
         "attributionType": "current-context",
         "speakText": "Falling battery prices have supported a reduction in the cost of some electric vehicles."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "significant reduction",
+        "cn": "显著减少"
+      },
+      {
+        "en": "reduction in costs",
+        "cn": "成本下降"
       }
     ]
   },
@@ -502,6 +582,16 @@
         "attributionType": "current-context",
         "speakText": "Green hydrogen projects aim to produce fuel using renewable electricity and water."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "produce goods",
+        "cn": "生产商品"
+      },
+      {
+        "en": "produce evidence",
+        "cn": "出示证据"
+      }
     ]
   },
   "d07-production": {
@@ -559,6 +649,16 @@
         "attributionType": "current-context",
         "speakText": "Solar power production is expanding as module costs decline and installations grow."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "mass production",
+        "cn": "大规模生产"
+      },
+      {
+        "en": "energy production",
+        "cn": "能源生产"
+      }
     ]
   },
   "d07-transform": {
@@ -615,6 +715,16 @@
         "attributionType": "current-context",
         "speakText": "Artificial intelligence may transform routine office tasks while creating new training needs."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "transform society",
+        "cn": "改变社会"
+      },
+      {
+        "en": "transform into",
+        "cn": "转变为"
+      }
     ]
   },
   "d07-transformation": {
@@ -670,6 +780,16 @@
         "translationCN": "能源系统转型需要电网、储能、能效和更清洁的发电方式。",
         "attributionType": "current-context",
         "speakText": "Energy-system transformation requires grids, storage, efficiency, and cleaner generation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "digital transformation",
+        "cn": "数字化转型"
+      },
+      {
+        "en": "rapid transformation",
+        "cn": "快速转变"
       }
     ]
   },
@@ -734,6 +854,16 @@
         "attributionType": "current-context",
         "speakText": "Cities are integrating rail, buses, and cycling into lower-emission transport networks."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public transport",
+        "cn": "公共交通"
+      },
+      {
+        "en": "transport goods",
+        "cn": "运输货物"
+      }
     ]
   },
   "d07-transportation": {
@@ -789,6 +919,16 @@
         "translationCN": "交通规划越来越多地考虑充电、无障碍和气候韧性。",
         "attributionType": "current-context",
         "speakText": "Transportation planning increasingly accounts for charging, accessibility, and climate resilience."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "transportation costs",
+        "cn": "运输成本"
+      },
+      {
+        "en": "public transportation",
+        "cn": "公共交通系统"
       }
     ]
   },
@@ -846,6 +986,16 @@
         "attributionType": "current-context",
         "speakText": "Researchers translate climate projections into local maps for planners and emergency teams."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "translate into",
+        "cn": "翻译成；转化为"
+      },
+      {
+        "en": "accurately translate",
+        "cn": "准确翻译"
+      }
     ]
   },
   "d07-translation": {
@@ -901,6 +1051,16 @@
         "translationCN": "神经网络翻译工具正在改善多语言公共信息的获取，但人工审核仍然重要。",
         "attributionType": "current-context",
         "speakText": "Neural translation tools are improving access to multilingual public information, though human review remains important."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "accurate translation",
+        "cn": "准确的译文"
+      },
+      {
+        "en": "machine translation",
+        "cn": "机器翻译"
       }
     ]
   },
@@ -958,6 +1118,16 @@
         "attributionType": "current-context",
         "speakText": "Modern building codes increasingly include standards for heat, floods, and energy efficiency."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "include details",
+        "cn": "包括细节"
+      },
+      {
+        "en": "price includes",
+        "cn": "价格包含……"
+      }
     ]
   },
   "d07-exclude": {
@@ -1013,6 +1183,16 @@
         "translationCN": "无障碍设计旨在消除把残障人士排除在数字服务之外的障碍。",
         "attributionType": "current-context",
         "speakText": "Accessible design aims to remove barriers that exclude people with disabilities from digital services."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "exclude from",
+        "cn": "将……排除在外"
+      },
+      {
+        "en": "deliberately exclude",
+        "cn": "有意排除"
       }
     ]
   },
@@ -1070,6 +1250,16 @@
         "attributionType": "current-context",
         "speakText": "Recent assessments conclude that adaptation and emissions reduction must proceed together."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "conclude that",
+        "cn": "得出结论认为……"
+      },
+      {
+        "en": "conclude a meeting",
+        "cn": "结束会议"
+      }
     ]
   },
   "d07-conclusion": {
@@ -1125,6 +1315,16 @@
         "translationCN": "多轮可再生能源竞拍的结束为各国项目储备增加了新容量。",
         "attributionType": "current-context",
         "speakText": "The conclusion of several renewable-energy auctions has added new capacity to national project pipelines."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reach a conclusion",
+        "cn": "得出结论"
+      },
+      {
+        "en": "logical conclusion",
+        "cn": "合乎逻辑的结论"
       }
     ]
   },
@@ -1183,6 +1383,16 @@
         "attributionType": "current-context",
         "speakText": "Clean-energy investment is becoming a larger part of the global economy."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "global economy",
+        "cn": "全球经济"
+      },
+      {
+        "en": "local economy",
+        "cn": "地方经济"
+      }
     ]
   },
   "d08-industry": {
@@ -1238,6 +1448,16 @@
         "translationCN": "航运业正在测试更清洁的燃料、风力辅助和更高效的航线。",
         "attributionType": "current-context",
         "speakText": "The shipping industry is testing cleaner fuels, wind assistance, and more efficient routes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "manufacturing industry",
+        "cn": "制造业"
+      },
+      {
+        "en": "tourism industry",
+        "cn": "旅游业"
       }
     ]
   },
@@ -1295,6 +1515,16 @@
         "attributionType": "current-context",
         "speakText": "Battery technology continues to improve in cost, energy density, safety, and charging speed."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "digital technology",
+        "cn": "数字技术"
+      },
+      {
+        "en": "emerging technology",
+        "cn": "新兴技术"
+      }
     ]
   },
   "d08-equipment": {
@@ -1350,6 +1580,16 @@
         "translationCN": "便携式诊断设备正在扩大偏远诊所获得检测的机会。",
         "attributionType": "current-context",
         "speakText": "Portable diagnostic equipment is expanding access to testing in remote clinics."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "safety equipment",
+        "cn": "安全设备"
+      },
+      {
+        "en": "laboratory equipment",
+        "cn": "实验室设备"
       }
     ]
   },
@@ -1407,6 +1647,16 @@
         "attributionType": "current-context",
         "speakText": "Power systems are adding storage and flexible demand to manage variable renewable generation."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "health system",
+        "cn": "医疗体系"
+      },
+      {
+        "en": "computer system",
+        "cn": "计算机系统"
+      }
     ]
   },
   "d08-resource": {
@@ -1462,6 +1712,16 @@
         "translationCN": "随着干旱和人口增长加大供水压力，淡水仍是关键资源。",
         "attributionType": "current-context",
         "speakText": "Fresh water remains a critical resource as drought and population growth increase pressure on supplies."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "natural resource",
+        "cn": "自然资源"
+      },
+      {
+        "en": "learning resource",
+        "cn": "学习资源"
       }
     ]
   },
@@ -1525,6 +1785,16 @@
         "attributionType": "current-context",
         "speakText": "Scientists are developing battery materials made from more abundant minerals."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "raw material",
+        "cn": "原材料"
+      },
+      {
+        "en": "course material",
+        "cn": "课程资料"
+      }
     ]
   },
   "d08-process": {
@@ -1581,6 +1851,16 @@
         "attributionType": "current-context",
         "speakText": "New recycling facilities process used batteries to recover lithium, nickel, and other materials."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "decision-making process",
+        "cn": "决策过程"
+      },
+      {
+        "en": "process data",
+        "cn": "处理数据"
+      }
     ]
   },
   "d08-consumption": {
@@ -1636,6 +1916,16 @@
         "translationCN": "随着用电量增长，数据中心正在改进冷却和芯片能效。",
         "attributionType": "current-context",
         "speakText": "Data centers are improving cooling and chip efficiency as electricity consumption grows."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "energy consumption",
+        "cn": "能源消耗"
+      },
+      {
+        "en": "household consumption",
+        "cn": "家庭消费"
       }
     ]
   },
@@ -1700,6 +1990,16 @@
         "attributionType": "current-context",
         "speakText": "Demand for grid-scale batteries is rising alongside solar and wind deployment."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "meet demand",
+        "cn": "满足需求"
+      },
+      {
+        "en": "demand action",
+        "cn": "要求采取行动"
+      }
     ]
   },
   "d08-supply": {
@@ -1755,6 +2055,16 @@
         "translationCN": "各国正在使电池和电子产品所需关键矿物的供应链多元化。",
         "attributionType": "current-context",
         "speakText": "Countries are diversifying critical-mineral supply chains for batteries and electronics."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "water supply",
+        "cn": "供水"
+      },
+      {
+        "en": "supply goods",
+        "cn": "供应货物"
       }
     ]
   },
@@ -1812,6 +2122,16 @@
         "attributionType": "current-context",
         "speakText": "The market for heat pumps is expanding in regions seeking lower-carbon building heating."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "global market",
+        "cn": "全球市场"
+      },
+      {
+        "en": "labor market",
+        "cn": "劳动力市场"
+      }
     ]
   },
   "d08-service": {
@@ -1867,6 +2187,16 @@
         "translationCN": "远程医疗服务正在把专科建议带给一些偏远社区。",
         "attributionType": "current-context",
         "speakText": "Telehealth services are extending specialist advice to some remote communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public service",
+        "cn": "公共服务"
+      },
+      {
+        "en": "customer service",
+        "cn": "客户服务"
       }
     ]
   },
@@ -1924,6 +2254,16 @@
         "attributionType": "current-context",
         "speakText": "Local authorities are updating heat-action plans as extreme temperatures become more common."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "local authority",
+        "cn": "地方当局"
+      },
+      {
+        "en": "have authority",
+        "cn": "拥有权限"
+      }
     ]
   },
   "d08-community": {
@@ -1979,6 +2319,16 @@
         "translationCN": "社区能源项目让居民分享本地太阳能发电带来的收益。",
         "attributionType": "current-context",
         "speakText": "Community energy projects allow residents to share benefits from local solar generation."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "local community",
+        "cn": "当地社区"
+      },
+      {
+        "en": "online community",
+        "cn": "网络社群"
       }
     ]
   },
@@ -2036,6 +2386,16 @@
         "attributionType": "current-context",
         "speakText": "Many governments are developing policy frameworks for artificial-intelligence safety and accountability."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "public policy",
+        "cn": "公共政策"
+      },
+      {
+        "en": "adopt a policy",
+        "cn": "采纳政策"
+      }
     ]
   },
   "d08-benefit": {
@@ -2091,6 +2451,16 @@
         "translationCN": "修复后的湿地通过蓄洪和支持生物多样性使社区受益。",
         "attributionType": "current-context",
         "speakText": "Restored wetlands benefit communities by storing floodwater and supporting biodiversity."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "mutual benefit",
+        "cn": "互惠"
+      },
+      {
+        "en": "benefit from",
+        "cn": "从……中受益"
       }
     ]
   },
@@ -2148,6 +2518,16 @@
         "attributionType": "current-context",
         "speakText": "Some cities are testing guaranteed-income programs and evaluating effects on housing and health."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "household income",
+        "cn": "家庭收入"
+      },
+      {
+        "en": "income tax",
+        "cn": "所得税"
+      }
     ]
   },
   "d08-expense": {
@@ -2203,6 +2583,16 @@
         "translationCN": "在建筑低效且天气极端的地区，能源仍是家庭的一项主要开支。",
         "attributionType": "current-context",
         "speakText": "Energy remains a major household expense in regions with inefficient buildings and extreme weather."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "living expenses",
+        "cn": "生活开支"
+      },
+      {
+        "en": "at the expense of",
+        "cn": "以牺牲……为代价"
       }
     ]
   },
@@ -2266,6 +2656,16 @@
         "translationCN": "维修项目通过延长产品寿命和减少废物，从电子产品中保留价值。",
         "attributionType": "current-context",
         "speakText": "Repair programs recover value from electronics by extending product life and reducing waste."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "lasting value",
+        "cn": "持久价值"
+      },
+      {
+        "en": "value diversity",
+        "cn": "重视多样性"
       }
     ]
   }
