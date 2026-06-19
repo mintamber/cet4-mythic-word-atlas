@@ -11,7 +11,7 @@ for (const marker of [
   'Microsoft Jenny','collocation-constellation'
 ]) assert.ok(html.includes(marker), `${marker}: missing`);
 assert.ok(!/\bfetch\s*\(|XMLHttpRequest|OPENAI_API_KEY|api\.openai\.com/.test(html), 'runtime API or secret detected');
-assert.ok(!html.includes('data-speech-kind="word"'), 'word buttons must speak their full learning payload');
+assert.ok(!html.includes('data-speech-kind="word"'), 'word button must use the bare headword without hidden word-rate behavior');
 assert.ok(!/<script\s+[^>]*src=/i.test(html), 'index.html must not depend on external scripts');
 assert.ok(html.includes('window.ATLAS_DETAILS = {'), 'deep corpus must be inlined for single-file use');
 console.log('PASS deep-card and no-API speech UI contracts');

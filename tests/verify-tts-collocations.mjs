@@ -12,8 +12,15 @@ const details = sandbox.window.ATLAS_DETAILS;
 
 assert.equal(Object.keys(details).length, 200, 'data/details.js must contain 200 records');
 for (const [id, detail] of Object.entries(details)) {
-  assert.equal(detail.collocationNotes?.length, detail.collocations?.length, `${id}: one note per collocation`);
-  assert.ok(detail.collocationNotes.every(note => note.en && note.cn), `${id}: every collocation note needs en/cn`);
+  assert.ok(Array.isArray(detail.collocationNotes), `${id}: collocationNotes must be an array`);
+  assert.equal(detail.collocationNotes.length, detail.collocations?.length, `${id}: one note per collocation`);
+  for (const [index, note] of detail.collocationNotes.entries()) {
+    assert.equal(typeof note?.en, 'string', `${id}: collocation note ${index} en must be a string`);
+    assert.ok(note.en.trim(), `${id}: collocation note ${index} en must not be blank`);
+    assert.equal(note.en, detail.collocations[index], `${id}: collocation note ${index} en must match its collocation`);
+    assert.equal(typeof note?.cn, 'string', `${id}: collocation note ${index} cn must be a string`);
+    assert.ok(note.cn.trim(), `${id}: collocation note ${index} cn must not be blank`);
+  }
 }
 
 for (const marker of [
@@ -22,7 +29,7 @@ for (const marker of [
   'Microsoft Jenny', 'collocation-constellation'
 ]) assert.ok(html.includes(marker), `${marker}: missing`);
 
-assert.ok(!html.includes('data-speech-kind="word"'), 'word buttons must speak their full learning payload');
+assert.ok(!html.includes('data-speech-kind="word"'), 'word button must use the bare headword without hidden word-rate behavior');
 assert.ok(!/<script\s+[^>]*src=/i.test(html), 'index.html must not depend on external scripts');
 
 console.log('PASS TTS defaults, voice fallback, and bilingual collocation contracts');
