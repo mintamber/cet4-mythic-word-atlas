@@ -4,44 +4,53 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-The illustrated-asset contract is defined on branch `feature/mythic-art-assets` at commit `bd9c67f`.
+The first production art tranche is complete on branch `feature/mythic-art-assets`: the homepage, Day 1 anchor set, and Days 2–4 scene/badge sets are copied into the repository and optimized for shipping.
 
 ### Changed
 
-- Approved direction B: collector-edition Art Nouveau mythic storybook.
-- Defined a 21-asset set: one homepage illustration, ten realm backgrounds, ten badges.
-- Defined shared palette, material, composition, badge, performance, fallback, and motion rules.
-- Defined an isolated generation → optimization → integration workflow so the active TTS/collocation branch is not overwritten.
-- Generated Day 1 Greek Oracle Temple background and badge as style anchors in the built-in ImageGen output directory; they are not yet copied into this branch.
-- Added a 21-entry manifest covering the homepage, ten scenes, and ten corresponding badges with stable paths, scene/day metadata, and expected aspect/dimension metadata.
-- Added a verifier for manifest/path uniqueness, role/day coverage, scene-to-badge correspondence, root-confined source/shipping paths, file existence and size, and image dimensions through `sips` with a strict built-in PNG/WebP fallback.
-- Hardened structural checks with PNG signature/chunk/CRC/payload/IEND validation, WebP RIFF/chunk/codec-signature bounds validation, and malformed/header-only self-fixtures.
-- Required every repository image to decode through macOS `sips` or Python Pillow; the verifier fails with a tooling message when neither real decoder is available.
+- Preserved the approved Day 1 Greek Oracle Temple background and badge as the visual-system anchors.
+- Generated a homepage celestial atlas hero with ten pictorial realm medallions and a large dark left-side title area.
+- Regenerated the homepage once to remove tiny printed marks from an open book; the selected version uses a blank indigo cushion instead.
+- Generated and visually inspected Day 2 Moonlit Library, Day 3 Nordic Snow Gate, and Day 4 Dragon Trial landscape scenes.
+- Generated and visually inspected the matching Day 2–4 circular badges.
+- Copied all selected PNG masters into their exact manifest source paths without deleting the built-in ImageGen originals.
+- Converted nine source PNGs into nine manifest WebP assets at quality 90 for scenes/home and quality 92 for badges, preserving original dimensions.
 
 ### Files touched
 
-- `docs/superpowers/specs/2026-06-20-mythic-art-assets-design.md`
-- `docs/superpowers/plans/2026-06-20-mythic-art-assets-implementation.md`
-- `assets/images/manifest.json`
-- `tests/verify-art-assets.mjs`
+- `assets/images/source/atlas-hero.png`
+- `assets/images/source/day01-oracle-temple.png`
+- `assets/images/source/day01-oracle-badge.png`
+- `assets/images/source/day02-moonlit-library.png`
+- `assets/images/source/day02-library-badge.png`
+- `assets/images/source/day03-nordic-snow-gate.png`
+- `assets/images/source/day03-snow-gate-badge.png`
+- `assets/images/source/day04-dragon-trial.png`
+- `assets/images/source/day04-dragon-badge.png`
+- `assets/images/home/atlas-hero.webp`
+- `assets/images/scenes/day01-oracle-temple.webp`
+- `assets/images/scenes/day02-moonlit-library.webp`
+- `assets/images/scenes/day03-nordic-snow-gate.webp`
+- `assets/images/scenes/day04-dragon-trial.webp`
+- `assets/images/badges/day01-oracle-badge.webp`
+- `assets/images/badges/day02-library-badge.webp`
+- `assets/images/badges/day03-snow-gate-badge.webp`
+- `assets/images/badges/day04-dragon-badge.webp`
 - `NEXT_STEPS.md`
 
 ### Checks run
 
-- Placeholder scan for `TBD`, `TODO`, and `FIXME` on the design.
-- `git diff --check` before the design commit.
-- `node tests/verify-art-assets.mjs` — malformed/header-only and manifest/path checks pass, then expected RED at the first missing file: `assets/images/source/atlas-hero.png`.
-- `node --check tests/verify-art-assets.mjs` — passed.
-- `git diff --check` — passed before the contract commit.
+- Used `view_image` at original detail for both approved Day 1 anchors and every newly generated selected asset.
+- Checked for scene identity, style consistency, usable UI negative space, badge silhouette, and forbidden text/logos/watermarks.
+- Pillow decoded and converted every selected source to WebP successfully.
+- `node tests/verify-art-assets.mjs` — all nine present source/shipping pairs decode and meet the manifest dimension/aspect contract; expected RED now advances to `assets/images/source/day05-mirror-castle.png: missing`.
 
 ### Broken or incomplete
 
-- Day 1 generated anchors remain under `/Users/indigo/.codex/generated_images/019edf08-3356-7840-8932-aa2f11df02a6/`.
-- All 21 source PNGs and all 21 shipping WebPs declared by the manifest are still absent from this branch.
-- The homepage illustration and Days 2–10 scene and badge artwork have not been generated; the Day 1 source anchors have not been copied or converted.
-- No artwork is integrated into `index.html` yet.
-- TTS/collocation work is progressing independently in `.worktrees/tts-collocations`; do not edit its files from this branch.
+- Day 5 Mirror Castle through Day 10 Starry Academy source and shipping assets are still missing.
+- No artwork is integrated into `index.html` yet; this branch intentionally does not touch the active TTS/collocation worktree.
+- The complete 21-asset verifier remains RED until Days 5–10 are generated and optimized.
 
 ## Exact next task
 
-Copy the approved Day 1 background and badge anchors into their manifest source paths without deleting the originals, generate the homepage illustration plus Days 2–10 scene backgrounds and badges from those anchors, convert all selected PNG masters to the manifest WebP shipping paths, then run `node tests/verify-art-assets.mjs` to GREEN.
+Task 2B: generate, inspect, and archive the Day 5 Mirror Castle, Day 6 Arabian Night Market, and Day 7 Glass Mountain landscape scenes and matching circular badges, using the Day 1 anchors as strict system references; convert the six selected PNG masters to their exact manifest WebP paths; rerun `node tests/verify-art-assets.mjs` and confirm the expected RED advances to Day 8.
