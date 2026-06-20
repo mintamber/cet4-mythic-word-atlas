@@ -1,10 +1,11 @@
 # Two-Voice TTS Handoff
 
-## Verified voice milestone
+## Automated status
 
 - Branch: `feature/voice-two-options`
 - Speech voice eligibility is limited to installed Samantha `en-US` and Eddy `en-GB` voices, in that order, using exact case-sensitive locale strings.
-- Remaining issue: the art work remains on a separate branch and is intentionally outside this voice milestone.
+- Automated coverage is green; interactive browser QA is still pending, so this milestone is not yet fully verified.
+- The art work remains on a separate branch and must be reviewed only after voice browser QA.
 
 ## What changed
 
@@ -13,6 +14,8 @@
 - Excluded Samantha in non-US locales, Eddy in non-UK locales, and all other English voices.
 - Preserved explicit voice assignment, the existing unavailable-voice prompt, no autoplay, and unchanged Rate/Pitch/Volume and word/example payload behavior.
 - Invalid saved voice URIs are replaced and persisted with the first installed eligible voice; valid eligible URIs remain usable.
+- Added direct coverage for an initially empty `getVoices()` result followed by `voiceschanged`: eligible selection, persistence, rerender, ordering, and no autoplay.
+- Replaced the dead preferred-name marker with the canonical ordered allowlist used by runtime eligibility and ranking.
 
 ## Files changed
 
@@ -30,11 +33,11 @@
 - `node tests/verify-details.mjs`: PASS.
 - `node tests/verify-ui-contract.mjs`: PASS.
 - `node tests/verify-tts-collocations.mjs`: PASS.
-- `node tests/verify-runtime-contracts.mjs`: PASS, including exact-locale rejection, Samantha-only, Eddy-only, saved Eddy, all-ineligible fallback/selector, and corpus parity.
+- `node tests/verify-runtime-contracts.mjs`: PASS, including exact-locale rejection, Samantha-only, Eddy-only, saved Eddy, all-ineligible fallback/selector, asynchronous `voiceschanged`, and corpus parity.
 - `node --check data/details.js`: PASS.
 - Both inline scripts parse: PASS.
 - `git diff --check`: PASS.
 
 ## Exact next task
 
-Review the separate art branch, verify that it does not broaden or alter this two-voice TTS contract, and integrate the art work independently.
+Complete interactive browser QA before merging: open Voice Atelier and confirm the selector contains only installed Samantha `en-US` and Eddy `en-GB` entries in that order; verify Voice/Rate/Pitch/Volume persistence after reload; observe the initially empty voice-list state transitioning correctly after asynchronous voice loading where the browser exposes it; confirm Close and Escape behavior, no console warnings/errors, and no clipped controls, horizontal overflow, or word-tool coverage at 320, 375, and 390 px widths. If clean, merge the voice branch, then review and integrate the separate art branch without broadening this voice contract.
