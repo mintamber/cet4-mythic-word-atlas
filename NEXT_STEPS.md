@@ -40,8 +40,12 @@
 - Fresh browser QA on port `8767`: Voice Atelier listed only `Samantha · en-US` followed by `Eddy (英语（英国）) · en-GB`.
 - Selected Eddy and changed Rate to `0.89`, Pitch to `1.04`, and Volume to `0.85`; all four settings persisted after reload.
 - At 320, 375, and 390 px, every probe reported `scrollWidth == clientWidth`, `toolsVisible == true`, and popover overlap `false`; Close remained visible and removed the panel.
-- App console warning and error logs were empty.
-- The initially empty voice-list → asynchronous `voiceschanged` path is covered by the automated runtime test. Audible capture was not required for this milestone.
+- Escape dismissal changed the open speech-panel count from `1` to `0`.
+- The word speech control appeared once with payload `available`; clicking it set `icon-btn speak-active`.
+- All three independent example speech controls appeared. The first encoded payload decoded exactly to `Reliable health information is now available through many university websites.`; clicking it removed the word button's active state and set the example to `listen-mini speak-active`, demonstrating cancellation and independent playback state.
+- The Stop control appeared once and its click handler was invoked.
+- App development warning and error logs were empty. A Statsig network warning came from the browser QA tool itself, not the app.
+- The initially empty voice-list → asynchronous `voiceschanged` path is covered by the automated runtime test. Browser QA verifies control and payload behavior only; it makes no audible-quality claim.
 
 ## Exact next task
 
