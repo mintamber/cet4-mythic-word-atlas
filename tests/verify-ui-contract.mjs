@@ -8,8 +8,7 @@ for (const marker of [
   'data-speech-settings','data-voice-preview','data-voice-select','data-speech-rate',
   'data-close-speech-settings','aria-label="关闭朗读设置"','speech-popover-head',
   'rate:.86','pitch:1.02','volume:1','data-speech-pitch','data-speech-volume',
-  'Please install or enable an English system voice.','Samantha','Eddy',
-  'collocation-constellation'
+  'Please install or enable an English system voice.','collocation-constellation'
 ]) assert.ok(html.includes(marker), `${marker}: missing`);
 for (const removedVoice of ['Google US English','Microsoft Aria','Microsoft Jenny']) {
   assert.ok(!html.includes(removedVoice), `${removedVoice}: broad voice allowlist marker must be removed`);

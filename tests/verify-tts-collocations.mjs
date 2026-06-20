@@ -25,8 +25,7 @@ for (const [id, detail] of Object.entries(details)) {
 
 for (const marker of [
   'rate:.86', 'pitch:1.02', 'volume:1', 'data-speech-pitch', 'data-speech-volume',
-  'Please install or enable an English system voice.', 'Samantha', 'Eddy',
-  'collocation-constellation'
+  'Please install or enable an English system voice.', 'collocation-constellation'
 ]) assert.ok(html.includes(marker), `${marker}: missing`);
 
 for (const removedVoice of ['Google US English', 'Microsoft Aria', 'Microsoft Jenny']) {

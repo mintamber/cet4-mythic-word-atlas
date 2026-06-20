@@ -13981,10 +13981,10 @@ function scene(day){return SCENES[day-1]||SCENES[0]}function dayWords(day){retur
 function escapeHTML(s=''){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]))}
 const speechAttr=text=>encodeURIComponent(String(text||''));
 const SPEECH_FALLBACK='Please install or enable an English system voice.';
-const PREFERRED_VOICE_NAMES=['Samantha','Eddy'];
+const ELIGIBLE_VOICES=[{name:'samantha',lang:'en-US'},{name:'eddy',lang:'en-GB'}];
 let speechVoices=[];
 function speechSupported(){return 'speechSynthesis'in window&&'SpeechSynthesisUtterance'in window}
-function rankEnglishVoices(voices){const eligibleRank=voice=>{const name=String(voice.name||'').toLowerCase(),lang=String(voice.lang||'');if(name.includes('samantha')&&lang==='en-US')return 0;if(name.includes('eddy')&&lang==='en-GB')return 1;return-1};return [...voices].filter(voice=>eligibleRank(voice)>=0).sort((a,b)=>eligibleRank(a)-eligibleRank(b)||String(a.name||'').localeCompare(String(b.name||''))||String(a.voiceURI||'').localeCompare(String(b.voiceURI||'')))}
+function rankEnglishVoices(voices){const eligibleRank=voice=>{const name=String(voice.name||'').toLowerCase(),lang=String(voice.lang||'');return ELIGIBLE_VOICES.findIndex(eligible=>name.includes(eligible.name)&&lang===eligible.lang)};return [...voices].filter(voice=>eligibleRank(voice)>=0).sort((a,b)=>eligibleRank(a)-eligibleRank(b)||String(a.name||'').localeCompare(String(b.name||''))||String(a.voiceURI||'').localeCompare(String(b.voiceURI||'')))}
 function loadVoices(){if(!speechSupported()){speechVoices=[];return speechVoices}speechVoices=rankEnglishVoices(speechSynthesis.getVoices());if(speechVoices.length&&!speechVoices.some(v=>v.voiceURI===state.speechSettings.voiceURI)){state.speechSettings.voiceURI=speechVoices[0].voiceURI;saveState()}return speechVoices}
 function selectedVoice(){return speechVoices.find(v=>v.voiceURI===state.speechSettings.voiceURI)||null}
 function speechReady(){return speechSupported()&&!!selectedVoice()}
