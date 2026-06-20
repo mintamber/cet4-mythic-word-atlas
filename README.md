@@ -6,9 +6,9 @@ An offline-first, single-page vocabulary game for 200 high-value CET-4 words. It
 
 Double-click `index.html`, or open it with Safari, Chrome, or Edge. No install, build command, account, API key, CDN, or local server is required.
 
-For pronunciation, the app explicitly selects from the English voices installed and enabled on your device; it never falls back to an implicit browser voice. Open **Voice Atelier** from the gear button on a word card to choose the voice and adjust Rate, Pitch, and Volume. Voice, Rate, Pitch, and Volume are saved locally. Their defaults are Rate `0.86`, Pitch `1.02`, and Volume `1`.
+For pronunciation, the app explicitly selects only an installed Samantha voice with locale `en-US` or an installed Eddy voice with locale `en-GB`, in that order; localized suffixes in their system names are accepted. It never falls back to another English voice or an implicit browser voice. Open **Voice Atelier** from the gear button on a word card to choose between the eligible installed voices and adjust Rate, Pitch, and Volume. Voice, Rate, Pitch, and Volume are saved locally. Their defaults are Rate `0.86`, Pitch `1.02`, and Volume `1`.
 
-Speech never auto-plays. The headword speaker reads only the word, and each of the three example speakers reads only its own sentence. If the browser exposes no eligible English voice, the playback buttons, Preview, and Voice selector are disabled; Voice Atelier, Rate, Pitch, Volume, and Stop remain available. The app shows exactly: `Please install or enable an English system voice.`
+Speech never auto-plays. The headword speaker reads only the word, and each of the three example speakers reads only its own sentence. If neither eligible voice is installed, the playback buttons, Preview, and Voice selector are disabled; Voice Atelier, Rate, Pitch, Volume, and Stop remain available. The app shows exactly: `Please install or enable an English system voice.`
 
 Each word card places a bilingual collocation constellation directly below the headword, pairing every English collocation with a concise Chinese gloss.
 

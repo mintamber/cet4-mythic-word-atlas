@@ -6,11 +6,11 @@ Improve the existing offline Web Speech experience without adding an API, server
 
 ## Voice Selection
 
-The app obtains voices exclusively through `speechSynthesis.getVoices()` and never relies on the implicit browser default. It keeps only English voices, prefers `en-US` and `en-GB`, and ranks recognizable natural voices by name. Priority names include Samantha, Ava, Susan, Daniel, Karen, Serena, Google US English, Microsoft Aria, and Microsoft Jenny. Matching is case-insensitive. A preferred named voice outranks a generic English voice; local-service and “Natural” or “Premium” signals break ties.
+The app obtains voices exclusively through `speechSynthesis.getVoices()` and never relies on the implicit browser default. Its allowlist contains exactly two name-and-locale pairs: a name containing `Samantha` with locale `en-US`, followed by a name containing `Eddy` with locale `en-GB`. Name matching is case-insensitive and permits localized suffixes; locale matching is exact apart from case and the equivalent hyphen/underscore separator. Samantha with another locale, Eddy with another locale, and every other English voice are ineligible.
 
-Voice loading handles the asynchronous `voiceschanged` event used by Safari and Chrome. A saved voice URI is restored when still available. If it disappears, the highest-ranked eligible voice becomes selected and the new choice is saved. The app never silently speaks with an unsuitable default voice.
+Voice loading handles the asynchronous `voiceschanged` event used by Safari and Chrome. A saved voice URI is restored only when it still belongs to one of the two eligible voices. Otherwise it is discarded, the first installed eligible voice becomes selected, and that URI is saved. The app never silently speaks with an unsuitable default voice.
 
-If no eligible English voice is available, speech controls are disabled and the interface displays exactly: `Please install or enable an English system voice.`
+If neither eligible voice is available, speech controls are disabled and the interface displays exactly: `Please install or enable an English system voice.`
 
 ## Speech Settings and Playback
 
@@ -27,7 +27,7 @@ Every utterance receives the selected `voice`, `lang`, `rate`, `pitch`, and `vol
 
 ## Settings UI
 
-Voice Atelier contains four controls: Voice, Rate, Pitch, and Volume. Each range shows its current numeric value and updates localStorage immediately. The voice selector lists only ranked eligible English voices. Preview and Stop remain explicit buttons.
+Voice Atelier contains four controls: Voice, Rate, Pitch, and Volume. Each range shows its current numeric value and updates localStorage immediately. The voice selector lists only installed eligible voices, with Samantha first and Eddy UK second. Preview and Stop remain explicit buttons.
 
 The panel remains usable on mobile and preserves the existing mythic glass visual language. The unavailable-voice message appears inside the panel and near disabled speech controls where necessary.
 
@@ -49,6 +49,6 @@ The layout wraps cleanly on narrow screens and does not push speech/favorite con
 
 ## Verification
 
-Automated contract tests cover preferred-name ranking markers, exact defaults, pitch and volume controls, unavailable-voice copy, absence of automatic playback, word-only speech payloads, example speech controls, collocation-note coverage for all 200 records, and the standalone/no-external-script constraint.
+Automated contract tests cover the two-voice name-and-locale allowlist and ordering, stale saved-URI replacement, exact defaults, pitch and volume controls, unavailable-voice copy, absence of automatic playback, word-only speech payloads, example speech controls, collocation-note coverage for all 200 records, and the standalone/no-external-script constraint.
 
 Browser verification covers Voice Atelier interaction, word and example buttons, settings persistence after reload, no console errors, and desktop/mobile overflow checks.
