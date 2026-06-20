@@ -4,42 +4,32 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-Task 2C has a third stable partial milestone on branch `feature/mythic-art-assets`: the Day 8 Mermaid Harbor scene/badge set and Day 9 Labyrinth of Echoes landscape are complete as full-resolution PNG masters and optimized shipping WebP assets. The reference-image endpoint remained unreliable, so the accepted Day 8 badge was generated from the same strict written art system without a reference attachment. Two subsequent Day 9 badge calls ended in temporary generation-service network errors.
+Task 2C now includes the completed Day 10 Starry Academy landscape. All eleven landscape illustrations (home plus Days 1–10) and Day 1–8 badges are preserved as source PNGs and optimized WebP payloads. The image service stalled while generating the final badges, so the unresponsive call was stopped without discarding stable work.
 
 ### Changed
 
-- Added the Day 8 Mermaid Harbor landscape: a moonlit collector-grade harbor framed by elegant sails, shell lamps, pearl-like stonework, teal tides, and sea mist.
-- Kept the detailed ships and ornament in the outer thirds and preserved a calm dark center-lower landing area for learning-card UI.
-- Preserved the selected 1672x941 PNG master at its exact manifest source path and exported the scene at 1672x941 WebP quality 90.
-- Added the Day 9 Labyrinth of Echoes landscape: a monumental overhead stone maze, layered echo-wave rings,幽蓝 blue braziers, carved gold detail, and a calm dark center-lower landing.
-- Preserved the selected Day 9 1672x941 PNG master at its exact manifest source path and exported the scene at 1672x941 WebP quality 90.
-- Added the matching Day 8 shell-lantern/wave/sail circular medallion; retained its 1254x1254 PNG master and exported a 768x768 quality-88 WebP.
-- Attempted the Day 9 maze/echo-ring/blue-flame badge twice; both generation calls ended in a temporary service network error, so no unreviewed placeholder was added.
+- Added the Day 10 Starry Academy landscape: a grand indigo observatory-classroom with armillary spheres, floating celestial diagrams, antique-gold architecture, and a calm center-lower UI landing area.
+- Preserved the 1672×941 PNG master and exported a 1672×941 quality-90 WebP.
+- Visually checked the master for composition, legibility-safe space, scene identity, and absence of readable text or watermarks.
 
 ### Files touched
 
-- `assets/images/source/day08-mermaid-harbor.png`
-- `assets/images/scenes/day08-mermaid-harbor.webp`
-- `assets/images/source/day08-mermaid-harbor-badge.png`
-- `assets/images/badges/day08-mermaid-harbor-badge.webp`
-- `assets/images/source/day09-labyrinth-of-echoes.png`
-- `assets/images/scenes/day09-labyrinth-of-echoes.webp`
+- `assets/images/source/day10-starry-academy.png`
+- `assets/images/scenes/day10-starry-academy.webp`
 - `NEXT_STEPS.md`
 
 ### Checks run
 
-- Used `view_image` at original detail for the selected Day 8 and Day 9 PNG masters; checked scene identity, mature Art Nouveau RPG consistency, center-lower UI negative space, coherent materials, and absence of text/logos/watermarks.
-- Pillow fully decoded both 1672x941 PNG masters and their quality-90 1672x941 WebP exports.
-- `node tests/verify-art-assets.mjs` — every present source/shipping scene pair through Day 9 decodes and meets the manifest dimension/aspect contract; expected RED advances to `assets/images/source/day10-starry-academy.png: missing` because manifest ordering checks scenes before badges.
-- `git diff --stat` and `git status --short` reviewed before commit; no `index.html` or TTS/collocation files were touched.
+- `view_image` inspection of the Day 10 source master.
+- Pillow/WebP export at quality 90.
+- `node tests/verify-art-assets.mjs` — all present assets decode and satisfy their contracts; expected RED now stops at the missing Day 9 badge.
 
 ### Broken or incomplete
 
-- The Day 9 Labyrinth of Echoes badge is still missing after two temporary generation-service network failures.
-- Both Day 10 Starry Academy assets are still missing.
-- No artwork is integrated into `index.html` yet; this branch intentionally remains isolated from active TTS/collocation implementation.
-- The complete 21-asset verifier remains RED until the Day 9 badge and Day 10 pair are generated and optimized.
+- Missing `assets/images/source/day09-echo-labyrinth-badge.png` and its shipping WebP.
+- Missing `assets/images/source/day10-academy-badge.png` and its shipping WebP.
+- Artwork is not yet integrated into `index.html`.
 
 ## Exact next task
 
-Resume Task 2C with the Day 9 maze-spiral/echo-ring/blue-flame circular badge once the image service is responsive; then generate the Day 10 Starry Academy scene/badge pair. Save masters to exact manifest paths, export the scene at quality 90 and badges at 768x768 quality 88, then run one final `node tests/verify-art-assets.mjs` and make the full 21-asset verifier pass.
+Generate the two remaining circular badges with the established navy/antique-gold Art Nouveau medallion system, export each at 768×768 WebP quality 88, run the 21-asset verifier once, then merge latest `main` and begin Task 3 integration.
