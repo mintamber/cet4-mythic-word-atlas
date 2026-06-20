@@ -9,6 +9,7 @@ const scripts = [...html.matchAll(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/gi)]
 assert.equal(scripts.length, 2, 'standalone page must contain exactly two inline scripts');
 
 function makeRuntime({ voices = [], savedState = {} } = {}) {
+  let availableVoices = voices;
   const events = [];
   const handlers = {};
   const toast = { textContent: '', classList: { add() {}, remove() {} } };
@@ -34,10 +35,10 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
     constructor(text) { this.text = text; }
   }
   const speechSynthesis = {
-    getVoices: () => voices,
+    getVoices: () => availableVoices,
     cancel: () => events.push({ type: 'cancel' }),
     speak: utterance => events.push({ type: 'speak', utterance }),
-    addEventListener() {}
+    addEventListener(type, handler) { handlers[`speech:${type}`] = handler; }
   };
   const sandbox = {
     window: null,
@@ -69,7 +70,10 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
   vm.createContext(sandbox);
   vm.runInContext(detailsSource, sandbox, { filename: 'details.js' });
   vm.runInContext(scripts[1], sandbox, { filename: 'atlas-app.js' });
-  return { api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage, view };
+  return {
+    api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage, view,
+    setVoices(nextVoices) { availableVoices = nextVoices; }
+  };
 }
 
 const samantha = { name: 'Samantha（增强）', lang: 'en-US', voiceURI: 'samantha-us', localService: true };
@@ -152,6 +156,23 @@ assert.ok(ineligibleRuntime.view.innerHTML.includes('Please install or enable an
 for (const voice of [extraEnglish, samanthaUnderscore, samanthaWrongCase, eddyUnderscore, eddyWrongCase]) {
   assert.ok(!ineligibleRuntime.view.innerHTML.includes(voice.voiceURI), `${voice.voiceURI}: ineligible voice must not appear in selector`);
 }
+
+const asyncRuntime = makeRuntime({
+  voices: [],
+  savedState: { speechSettings: { voiceURI: 'removed-voice' } }
+});
+assert.equal(asyncRuntime.events.length, 0, 'an initially empty voice list must not autoplay');
+assert.equal(typeof asyncRuntime.handlers['speech:voiceschanged'], 'function', 'voiceschanged listener must be registered');
+asyncRuntime.api.getUI().view = 'learn';
+asyncRuntime.handlers.click({ target: { closest: () => ({ dataset: {}, hasAttribute: name => name === 'data-speech-settings' }) } });
+assert.match(asyncRuntime.view.innerHTML, /data-voice-select disabled/, 'empty initial list must render the disabled selector');
+asyncRuntime.setVoices([eddy, extraEnglish, samantha]);
+asyncRuntime.handlers['speech:voiceschanged']();
+assert.equal(asyncRuntime.events.length, 0, 'loading voices asynchronously must not autoplay');
+assert.equal(JSON.parse(asyncRuntime.localStorage.value).speechSettings.voiceURI, 'samantha-us', 'async loading must select and save the top eligible voice');
+assert.ok(!asyncRuntime.view.innerHTML.includes('data-voice-select disabled'), 'voiceschanged must rerender the enabled selector');
+assert.ok(asyncRuntime.view.innerHTML.indexOf('samantha-us') < asyncRuntime.view.innerHTML.indexOf('eddy-gb'), 'rerendered selector must order Samantha before Eddy GB');
+assert.ok(!asyncRuntime.view.innerHTML.includes('google-us'), 'rerendered selector must omit ineligible voices');
 
 assert.equal(typeof runtime.api.renderCollocationConstellation, 'function', 'collocation renderer must be testable');
 assert.equal(typeof runtime.api.renderUsagePanels, 'function', 'usage renderer must be testable');

@@ -14,6 +14,9 @@ for (const marker of [
 for (const removedVoice of ['Google US English','Microsoft Aria','Microsoft Jenny']) {
   assert.ok(!html.includes(removedVoice), `${removedVoice}: broad voice allowlist marker must be removed`);
 }
+assert.ok(html.includes("const ELIGIBLE_VOICES=[{name:'samantha',lang:'en-US'},{name:'eddy',lang:'en-GB'}]"), 'canonical two-pair allowlist must be declared');
+assert.ok(html.includes('ELIGIBLE_VOICES.findIndex'), 'voice ranking must use the canonical allowlist');
+assert.ok(!html.includes('PREFERRED_VOICE_NAMES'), 'dead preferred-name marker must be removed');
 assert.ok(!/\bfetch\s*\(|XMLHttpRequest|OPENAI_API_KEY|api\.openai\.com/.test(html), 'runtime API or secret detected');
 assert.ok(!html.includes('data-speech-kind="word"'), 'word button must use the bare headword without hidden word-rate behavior');
 assert.match(html, /hasAttribute\('data-close-speech-settings'\)[\s\S]*?ui\.speechOpen=false;render\(\)/, 'close button must dismiss and rerender speech settings');
