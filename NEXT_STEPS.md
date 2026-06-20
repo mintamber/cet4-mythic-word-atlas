@@ -2,7 +2,7 @@
 
 ## Verified status
 
-- Branch: `feature/voice-two-options`
+- Merged branch: `main` at `fe4ca8c`.
 - Speech voice eligibility is limited to installed Samantha `en-US` and Eddy `en-GB` voices, in that order, using exact case-sensitive locale strings.
 - Automated coverage and interactive browser QA are green.
 - The art work remains on a separate branch and is intentionally outside this verified voice milestone.
@@ -49,4 +49,4 @@
 
 ## Exact next task
 
-Perform the final merge of `feature/voice-two-options`, then review and integrate the separate art branch without broadening this voice contract.
+Continue the isolated `feature/mythic-art-assets` branch. Task 2A (homepage and Day 1–4 scene/badge assets) is committed and reviewed; Task 2B is generating Day 5–7 assets. Do not broaden the verified Samantha `en-US` / Eddy `en-GB` voice contract when the art branch is later synchronized and integrated.
