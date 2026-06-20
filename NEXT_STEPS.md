@@ -3,8 +3,7 @@
 ## Stable state
 
 - Branch: `feature/tts-collocations`
-- Implementation commit: `65589fd2e9a2379e7cd61416259b25c196e77ba4`
-- Documentation commit: `907db3b`
+- Implementation and documentation history: use the latest commits on `feature/tts-collocations` from `git log`; this handoff intentionally avoids a self-staling fixed SHA.
 - Known broken behavior: none in automated coverage.
 - Limitation: interactive browser QA is still pending. The in-app browser timed out while loading the temporary localhost server, and direct `file://` navigation was blocked by its URL policy. Audible capture is not required; the runtime suite verifies utterance payloads, settings, cancellation, and no autoplay.
 
@@ -14,11 +13,16 @@
 - Documented saved Voice, Rate, Pitch, and Volume settings and defaults of Rate `0.86`, Pitch `1.02`, and Volume `1`.
 - Documented no autoplay, word-only pronunciation, per-example sentence controls, the exact no-English-voice prompt, and the bilingual collocation constellation.
 - Expanded the README verification block to include all five fragment validators and every TTS/runtime contract suite.
+- Added an accessible in-popover Close button and Escape dismissal for Voice Atelier.
+- Returned the speech popover to document flow at widths up to 420 px so it cannot cover the word tools; added UI and runtime regression contracts for dismissal and mobile positioning.
 
 ## Files changed in Task 4
 
 - `README.md`
 - `NEXT_STEPS.md`
+- `index.html`
+- `tests/verify-ui-contract.mjs`
+- `tests/verify-runtime-contracts.mjs`
 
 ## Checks run
 
@@ -34,4 +38,4 @@
 
 ## Exact next task
 
-Perform final review and merge. Before merging, complete the remaining interactive browser smoke test from an environment that can load the local standalone page: home → learn; English-only selected voice list where the platform exposes voices; bare-word payload; three independent example-sentence payloads; Voice/Rate/Pitch/Volume persistence after reload; no autoplay; constellation directly below the headword with no old duplicate panel; no console warnings/errors; and no horizontal overflow, clipped controls, or longest-word breakage on desktop and 320, 375, and 390 px widths (including 390 × 844). Then merge `feature/tts-collocations` if that smoke test is clean.
+Perform final review and merge. Before merging, complete the remaining interactive browser smoke test from an environment that can load the local standalone page: home → learn; English-only selected voice list where the platform exposes voices; bare-word payload; three independent example-sentence payloads; Voice/Rate/Pitch/Volume persistence after reload; no autoplay; Close and Escape both dismiss Voice Atelier; the mobile popover does not cover the word tools; constellation directly below the headword with no old duplicate panel; no console warnings/errors; and no horizontal overflow, clipped controls, or longest-word breakage on desktop and 320, 375, and 390 px widths (including 390 × 844). Then merge `feature/tts-collocations` if that smoke test is clean.
