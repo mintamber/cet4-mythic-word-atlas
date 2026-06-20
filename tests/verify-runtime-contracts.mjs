@@ -72,12 +72,13 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
   return { api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage };
 }
 
-const preferred = { name: 'Google US English', lang: 'en-US', voiceURI: 'google-us', localService: false };
-const generic = { name: 'Enhanced English Voice', lang: 'en-US', voiceURI: 'enhanced-us', localService: true };
-const british = { name: 'Plain British', lang: 'en-GB', voiceURI: 'plain-gb', localService: true };
-const nonEnglish = { name: 'Samantha French', lang: 'fr-FR', voiceURI: 'fr', localService: true };
+const samantha = { name: 'Samantha（增强）', lang: 'en-US', voiceURI: 'samantha-us', localService: true };
+const eddy = { name: 'Eddy (UK)', lang: 'en-GB', voiceURI: 'eddy-gb', localService: true };
+const samanthaWrongLocale = { name: 'Samantha French', lang: 'fr-FR', voiceURI: 'samantha-fr', localService: true };
+const eddyWrongLocale = { name: 'Eddy (US)', lang: 'en-US', voiceURI: 'eddy-us', localService: true };
+const extraEnglish = { name: 'Google US English', lang: 'en-US', voiceURI: 'google-us', localService: false };
 const runtime = makeRuntime({
-  voices: [generic, nonEnglish, british, preferred],
+  voices: [eddyWrongLocale, extraEnglish, eddy, samanthaWrongLocale, samantha],
   savedState: { speechSettings: { voiceURI: 'google-us', rate: .91, pitch: 1.08, volume: 0 } }
 });
 
@@ -90,10 +91,11 @@ runtime.api.getUI().speechOpen = true;
 runtime.handlers.keydown({ key: 'Escape', target: { matches: () => false } });
 assert.equal(runtime.api.getUI().speechOpen, false, 'Escape must dismiss speech settings');
 assert.deepEqual(
-  Array.from(runtime.api.rankEnglishVoices([generic, nonEnglish, british, preferred]), voice => voice.voiceURI),
-  ['google-us', 'enhanced-us', 'plain-gb'],
-  'ranking must filter non-English voices and honor named, locale, and quality priorities'
+  Array.from(runtime.api.rankEnglishVoices([eddyWrongLocale, extraEnglish, eddy, samanthaWrongLocale, samantha]), voice => voice.voiceURI),
+  ['samantha-us', 'eddy-gb'],
+  'eligible voices must be only Samantha en-US then Eddy en-GB, with localized name suffixes allowed'
 );
+assert.equal(JSON.parse(runtime.localStorage.value).speechSettings.voiceURI, 'samantha-us', 'the replacement voice URI must be saved');
 
 const clamped = runtime.api.sanitizeState({ speechSettings: { voiceURI: 42, rate: 9, pitch: .1, volume: 0 } });
 assert.equal(clamped.speechSettings.voiceURI, '42');
@@ -107,7 +109,7 @@ runtime.api.speakText('available');
 assert.deepEqual(runtime.events.map(event => event.type), ['cancel', 'speak'], 'speech must cancel before speaking');
 const spoken = runtime.events[1].utterance;
 assert.equal(spoken.text, 'available');
-assert.equal(spoken.voice, preferred, 'utterance must use the selected voice explicitly');
+assert.equal(spoken.voice, samantha, 'utterance must use the selected voice explicitly');
 assert.equal(spoken.lang, 'en-US');
 assert.equal(spoken.rate, .91);
 assert.equal(spoken.pitch, 1.08);

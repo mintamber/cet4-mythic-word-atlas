@@ -25,9 +25,13 @@ for (const [id, detail] of Object.entries(details)) {
 
 for (const marker of [
   'rate:.86', 'pitch:1.02', 'volume:1', 'data-speech-pitch', 'data-speech-volume',
-  'Please install or enable an English system voice.', 'Google US English', 'Microsoft Aria',
-  'Microsoft Jenny', 'collocation-constellation'
+  'Please install or enable an English system voice.', 'Samantha', 'Eddy',
+  'collocation-constellation'
 ]) assert.ok(html.includes(marker), `${marker}: missing`);
+
+for (const removedVoice of ['Google US English', 'Microsoft Aria', 'Microsoft Jenny']) {
+  assert.ok(!html.includes(removedVoice), `${removedVoice}: broad voice allowlist marker must be removed`);
+}
 
 assert.ok(!html.includes('data-speech-kind="word"'), 'word button must use the bare headword without hidden word-rate behavior');
 assert.ok(!/<script\s+[^>]*src=/i.test(html), 'index.html must not depend on external scripts');
