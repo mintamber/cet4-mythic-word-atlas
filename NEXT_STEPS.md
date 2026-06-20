@@ -1,11 +1,11 @@
 # Two-Voice TTS Handoff
 
-## Automated status
+## Verified status
 
 - Branch: `feature/voice-two-options`
 - Speech voice eligibility is limited to installed Samantha `en-US` and Eddy `en-GB` voices, in that order, using exact case-sensitive locale strings.
-- Automated coverage is green; interactive browser QA is still pending, so this milestone is not yet fully verified.
-- The art work remains on a separate branch and must be reviewed only after voice browser QA.
+- Automated coverage and interactive browser QA are green.
+- The art work remains on a separate branch and is intentionally outside this verified voice milestone.
 
 ## What changed
 
@@ -37,7 +37,12 @@
 - `node --check data/details.js`: PASS.
 - Both inline scripts parse: PASS.
 - `git diff --check`: PASS.
+- Fresh browser QA on port `8767`: Voice Atelier listed only `Samantha · en-US` followed by `Eddy (英语（英国）) · en-GB`.
+- Selected Eddy and changed Rate to `0.89`, Pitch to `1.04`, and Volume to `0.85`; all four settings persisted after reload.
+- At 320, 375, and 390 px, every probe reported `scrollWidth == clientWidth`, `toolsVisible == true`, and popover overlap `false`; Close remained visible and removed the panel.
+- App console warning and error logs were empty.
+- The initially empty voice-list → asynchronous `voiceschanged` path is covered by the automated runtime test. Audible capture was not required for this milestone.
 
 ## Exact next task
 
-Complete interactive browser QA before merging: open Voice Atelier and confirm the selector contains only installed Samantha `en-US` and Eddy `en-GB` entries in that order; verify Voice/Rate/Pitch/Volume persistence after reload; observe the initially empty voice-list state transitioning correctly after asynchronous voice loading where the browser exposes it; confirm Close and Escape behavior, no console warnings/errors, and no clipped controls, horizontal overflow, or word-tool coverage at 320, 375, and 390 px widths. If clean, merge the voice branch, then review and integrate the separate art branch without broadening this voice contract.
+Perform the final merge of `feature/voice-two-options`, then review and integrate the separate art branch without broadening this voice contract.
