@@ -69,13 +69,17 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
   vm.createContext(sandbox);
   vm.runInContext(detailsSource, sandbox, { filename: 'details.js' });
   vm.runInContext(scripts[1], sandbox, { filename: 'atlas-app.js' });
-  return { api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage };
+  return { api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage, view };
 }
 
 const samantha = { name: 'Samantha（增强）', lang: 'en-US', voiceURI: 'samantha-us', localService: true };
 const eddy = { name: 'Eddy (UK)', lang: 'en-GB', voiceURI: 'eddy-gb', localService: true };
 const samanthaWrongLocale = { name: 'Samantha French', lang: 'fr-FR', voiceURI: 'samantha-fr', localService: true };
 const eddyWrongLocale = { name: 'Eddy (US)', lang: 'en-US', voiceURI: 'eddy-us', localService: true };
+const samanthaUnderscore = { name: 'SAMANTHA (underscore)', lang: 'en_US', voiceURI: 'samantha-underscore', localService: true };
+const samanthaWrongCase = { name: 'samantha (case)', lang: 'en-us', voiceURI: 'samantha-case', localService: true };
+const eddyUnderscore = { name: 'EDDY (underscore)', lang: 'en_GB', voiceURI: 'eddy-underscore', localService: true };
+const eddyWrongCase = { name: 'eddy (case)', lang: 'en-gb', voiceURI: 'eddy-case', localService: true };
 const extraEnglish = { name: 'Google US English', lang: 'en-US', voiceURI: 'google-us', localService: false };
 const runtime = makeRuntime({
   voices: [eddyWrongLocale, extraEnglish, eddy, samanthaWrongLocale, samantha],
@@ -91,9 +95,12 @@ runtime.api.getUI().speechOpen = true;
 runtime.handlers.keydown({ key: 'Escape', target: { matches: () => false } });
 assert.equal(runtime.api.getUI().speechOpen, false, 'Escape must dismiss speech settings');
 assert.deepEqual(
-  Array.from(runtime.api.rankEnglishVoices([eddyWrongLocale, extraEnglish, eddy, samanthaWrongLocale, samantha]), voice => voice.voiceURI),
+  Array.from(runtime.api.rankEnglishVoices([
+    eddyWrongLocale, extraEnglish, eddyUnderscore, samanthaUnderscore,
+    eddyWrongCase, samanthaWrongCase, eddy, samanthaWrongLocale, samantha
+  ]), voice => voice.voiceURI),
   ['samantha-us', 'eddy-gb'],
-  'eligible voices must be only Samantha en-US then Eddy en-GB, with localized name suffixes allowed'
+  'eligible voices must use exact case-sensitive en-US/en-GB locales, with localized name suffixes allowed'
 );
 assert.equal(JSON.parse(runtime.localStorage.value).speechSettings.voiceURI, 'samantha-us', 'the replacement voice URI must be saved');
 
@@ -115,11 +122,36 @@ assert.equal(spoken.rate, .91);
 assert.equal(spoken.pitch, 1.08);
 assert.equal(spoken.volume, 0);
 
-const silentRuntime = makeRuntime({ voices: [] });
-assert.equal(silentRuntime.events.length, 0, 'missing voices must not trigger speech during initialization');
-silentRuntime.api.speakText('available');
-assert.equal(silentRuntime.events.length, 0, 'missing voices must not call cancel or speak');
-assert.equal(silentRuntime.toast.textContent, 'Please install or enable an English system voice.');
+const samanthaOnlyRuntime = makeRuntime({ voices: [samantha] });
+samanthaOnlyRuntime.api.speakText('Samantha only');
+assert.equal(samanthaOnlyRuntime.events.at(-1).utterance.voice, samantha, 'Samantha en-US must work when it is the only eligible voice');
+
+const eddyOnlyRuntime = makeRuntime({ voices: [eddy] });
+eddyOnlyRuntime.api.speakText('Eddy only');
+assert.equal(eddyOnlyRuntime.events.at(-1).utterance.voice, eddy, 'Eddy en-GB must work when it is the only eligible voice');
+
+const savedEddyRuntime = makeRuntime({
+  voices: [samantha, eddy],
+  savedState: { speechSettings: { voiceURI: 'eddy-gb' } }
+});
+savedEddyRuntime.api.speakText('saved Eddy');
+assert.equal(savedEddyRuntime.events.at(-1).utterance.voice, eddy, 'a valid saved Eddy URI must remain selected');
+assert.equal(JSON.parse(savedEddyRuntime.localStorage.value).speechSettings.voiceURI, 'eddy-gb');
+
+const ineligibleRuntime = makeRuntime({
+  voices: [extraEnglish, samanthaUnderscore, samanthaWrongCase, eddyUnderscore, eddyWrongCase]
+});
+assert.equal(ineligibleRuntime.events.length, 0, 'ineligible voices must not trigger speech during initialization');
+ineligibleRuntime.api.speakText('unavailable');
+assert.equal(ineligibleRuntime.events.length, 0, 'ineligible voices must not call cancel or speak');
+assert.equal(ineligibleRuntime.toast.textContent, 'Please install or enable an English system voice.');
+ineligibleRuntime.api.getUI().view = 'learn';
+ineligibleRuntime.handlers.click({ target: { closest: () => ({ dataset: {}, hasAttribute: name => name === 'data-speech-settings' }) } });
+assert.match(ineligibleRuntime.view.innerHTML, /data-voice-select disabled/);
+assert.ok(ineligibleRuntime.view.innerHTML.includes('Please install or enable an English system voice.'));
+for (const voice of [extraEnglish, samanthaUnderscore, samanthaWrongCase, eddyUnderscore, eddyWrongCase]) {
+  assert.ok(!ineligibleRuntime.view.innerHTML.includes(voice.voiceURI), `${voice.voiceURI}: ineligible voice must not appear in selector`);
+}
 
 assert.equal(typeof runtime.api.renderCollocationConstellation, 'function', 'collocation renderer must be testable');
 assert.equal(typeof runtime.api.renderUsagePanels, 'function', 'usage renderer must be testable');
