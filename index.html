@@ -13981,10 +13981,10 @@ function scene(day){return SCENES[day-1]||SCENES[0]}function dayWords(day){retur
 function escapeHTML(s=''){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]))}
 const speechAttr=text=>encodeURIComponent(String(text||''));
 const SPEECH_FALLBACK='Please install or enable an English system voice.';
-const PREFERRED_VOICE_NAMES=['Samantha','Ava','Susan','Daniel','Karen','Serena','Google US English','Microsoft Aria','Microsoft Jenny'];
+const PREFERRED_VOICE_NAMES=['Samantha','Eddy'];
 let speechVoices=[];
 function speechSupported(){return 'speechSynthesis'in window&&'SpeechSynthesisUtterance'in window}
-function rankEnglishVoices(voices){const preferred=PREFERRED_VOICE_NAMES.map(name=>name.toLowerCase()),preferredRank=voice=>{const name=String(voice.name||'').toLowerCase(),rank=preferred.findIndex(preferredName=>name.includes(preferredName));return rank<0?preferred.length:rank},languageRank=lang=>/^en[-_]us$/i.test(lang||'')?0:/^en[-_]gb$/i.test(lang||'')?1:2,qualityRank=voice=>/\b(natural|premium|enhanced)\b/i.test(voice.name||'')?0:1;return [...voices].filter(v=>/^en([-_]|$)/i.test(v.lang||'')).sort((a,b)=>preferredRank(a)-preferredRank(b)||languageRank(a.lang)-languageRank(b.lang)||Number(!a.localService)-Number(!b.localService)||qualityRank(a)-qualityRank(b)||String(a.name||'').localeCompare(String(b.name||''))||String(a.voiceURI||'').localeCompare(String(b.voiceURI||'')))}
+function rankEnglishVoices(voices){const eligibleRank=voice=>{const name=String(voice.name||'').toLowerCase(),lang=String(voice.lang||'');if(name.includes('samantha')&&/^en[-_]us$/i.test(lang))return 0;if(name.includes('eddy')&&/^en[-_]gb$/i.test(lang))return 1;return-1};return [...voices].filter(voice=>eligibleRank(voice)>=0).sort((a,b)=>eligibleRank(a)-eligibleRank(b)||String(a.name||'').localeCompare(String(b.name||''))||String(a.voiceURI||'').localeCompare(String(b.voiceURI||'')))}
 function loadVoices(){if(!speechSupported()){speechVoices=[];return speechVoices}speechVoices=rankEnglishVoices(speechSynthesis.getVoices());if(speechVoices.length&&!speechVoices.some(v=>v.voiceURI===state.speechSettings.voiceURI)){state.speechSettings.voiceURI=speechVoices[0].voiceURI;saveState()}return speechVoices}
 function selectedVoice(){return speechVoices.find(v=>v.voiceURI===state.speechSettings.voiceURI)||null}
 function speechReady(){return speechSupported()&&!!selectedVoice()}
