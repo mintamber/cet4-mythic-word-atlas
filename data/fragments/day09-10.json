@@ -53,6 +53,16 @@
         "attributionType": "current-context",
         "speakText": "Scientists are increasingly confident that rapid emission cuts can limit future warming."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "feel confident",
+        "cn": "感到自信"
+      },
+      {
+        "en": "confident about the future",
+        "cn": "对未来有信心"
+      }
     ]
   },
   "d09-anxious": {
@@ -108,6 +118,16 @@
         "translationCN": "近年许多城市的年轻劳动者为住房成本感到焦虑。",
         "attributionType": "current-context",
         "speakText": "Young workers in many cities are anxious about housing costs."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "anxious about exams",
+        "cn": "为考试焦虑"
+      },
+      {
+        "en": "anxious to learn",
+        "cn": "渴望学习"
       }
     ]
   },
@@ -165,6 +185,16 @@
         "attributionType": "current-context",
         "speakText": "Astronomers are curious about the chemistry of newly observed exoplanet atmospheres."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "curious about science",
+        "cn": "对科学好奇"
+      },
+      {
+        "en": "a curious fact",
+        "cn": "一件奇特的事实"
+      }
     ]
   },
   "d09-cautious": {
@@ -220,6 +250,16 @@
         "translationCN": "近年在通胀压力变化之际，各国央行一直保持谨慎。",
         "attributionType": "current-context",
         "speakText": "Central banks have remained cautious while inflation pressures change."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remain cautious",
+        "cn": "保持谨慎"
+      },
+      {
+        "en": "a cautious approach",
+        "cn": "谨慎的做法"
       }
     ]
   },
@@ -277,6 +317,16 @@
         "attributionType": "current-context",
         "speakText": "Consumers are more aware of how data is collected by mobile applications."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "be aware of",
+        "cn": "意识到……"
+      },
+      {
+        "en": "environmentally aware",
+        "cn": "有环保意识的"
+      }
     ]
   },
   "d09-capable": {
@@ -332,6 +382,16 @@
         "translationCN": "现代语言模型能生成流畅文本，但仍可能出现事实错误。",
         "attributionType": "current-context",
         "speakText": "Modern language models are capable of producing fluent text but can still make factual errors."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "capable of change",
+        "cn": "能够发生改变"
+      },
+      {
+        "en": "highly capable",
+        "cn": "能力很强的"
       }
     ]
   },
@@ -389,6 +449,16 @@
         "attributionType": "current-context",
         "speakText": "Reliable electricity storage is essential for grids using more wind and solar power."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "reliable information",
+        "cn": "可靠的信息"
+      },
+      {
+        "en": "highly reliable",
+        "cn": "非常可靠"
+      }
     ]
   },
   "d09-independent": {
@@ -444,6 +514,16 @@
         "translationCN": "近年独立研究人员帮助检验有关人工智能系统的重要主张。",
         "attributionType": "current-context",
         "speakText": "Independent researchers help test major claims about artificial intelligence systems."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "independent learner",
+        "cn": "自主学习者"
+      },
+      {
+        "en": "independent of government",
+        "cn": "不受政府控制的"
       }
     ]
   },
@@ -501,6 +581,16 @@
         "attributionType": "current-context",
         "speakText": "Wastewater monitoring has become an effective tool for tracking infectious diseases."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "highly effective",
+        "cn": "非常有效"
+      },
+      {
+        "en": "effective from Monday",
+        "cn": "自周一起生效"
+      }
     ]
   },
   "d09-flexible": {
@@ -556,6 +646,16 @@
         "translationCN": "近年灵活工作安排在许多科技公司仍很常见。",
         "attributionType": "current-context",
         "speakText": "Flexible work arrangements remain common in many technology companies."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "flexible schedule",
+        "cn": "灵活的日程"
+      },
+      {
+        "en": "remain flexible",
+        "cn": "保持灵活"
       }
     ]
   },
@@ -613,6 +713,16 @@
         "attributionType": "current-context",
         "speakText": "Constant monitoring helps engineers detect changes in bridges and dams."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "constant attention",
+        "cn": "持续关注"
+      },
+      {
+        "en": "at a constant rate",
+        "cn": "以恒定速率"
+      }
     ]
   },
   "d09-stable": {
@@ -668,6 +778,16 @@
         "translationCN": "近年电网运营方使用电池在需求高峰期保持供电稳定。",
         "attributionType": "current-context",
         "speakText": "Grid operators use batteries to keep electricity supplies stable during demand peaks."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "stable prices",
+        "cn": "稳定的价格"
+      },
+      {
+        "en": "stable condition",
+        "cn": "状况稳定"
       }
     ]
   },
@@ -725,6 +845,16 @@
         "attributionType": "current-context",
         "speakText": "Several regions have faced severe water shortages after repeated droughts."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "severe weather",
+        "cn": "恶劣天气"
+      },
+      {
+        "en": "severe shortage",
+        "cn": "严重短缺"
+      }
     ]
   },
   "d09-minor": {
@@ -779,6 +909,16 @@
         "translationCN": "近年软件团队通过小版本更新修复安全漏洞并提高稳定性。",
         "attributionType": "current-context",
         "speakText": "Software teams release minor updates to fix security weaknesses and improve stability."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "minor detail",
+        "cn": "次要细节"
+      },
+      {
+        "en": "minor injury",
+        "cn": "轻伤"
       }
     ]
   },
@@ -835,6 +975,16 @@
         "attributionType": "current-context",
         "speakText": "Global semiconductor supply chains remain complex and highly interconnected."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "complex problem",
+        "cn": "复杂的问题"
+      },
+      {
+        "en": "highly complex",
+        "cn": "极其复杂"
+      }
     ]
   },
   "d09-ordinary": {
@@ -889,6 +1039,16 @@
         "translationCN": "如今智能手机相机让普通用户也能细致记录事件。",
         "attributionType": "current-context",
         "speakText": "Smartphone cameras now let ordinary users record events in remarkable detail."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "ordinary people",
+        "cn": "普通人"
+      },
+      {
+        "en": "nothing out of the ordinary",
+        "cn": "没有任何异常"
       }
     ]
   },
@@ -946,6 +1106,16 @@
         "attributionType": "current-context",
         "speakText": "Recent vaccines were developed with remarkable speed through global scientific cooperation."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remarkable progress",
+        "cn": "显著进展"
+      },
+      {
+        "en": "remarkable achievement",
+        "cn": "非凡成就"
+      }
     ]
   },
   "d09-formal": {
@@ -1001,6 +1171,16 @@
         "translationCN": "近年多个政府已开始就人工智能规则展开正式谈判。",
         "attributionType": "current-context",
         "speakText": "Several governments have begun formal negotiations on rules for artificial intelligence."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "formal meeting",
+        "cn": "正式会议"
+      },
+      {
+        "en": "formal approval",
+        "cn": "正式批准"
       }
     ]
   },
@@ -1058,6 +1238,16 @@
         "attributionType": "current-context",
         "speakText": "Informal online communities often help programmers solve technical problems quickly."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "informal meeting",
+        "cn": "非正式会面"
+      },
+      {
+        "en": "informal language",
+        "cn": "非正式用语"
+      }
     ]
   },
   "d09-remote": {
@@ -1112,6 +1302,16 @@
         "translationCN": "近年低轨卫星正在扩大部分偏远社区的互联网接入。",
         "attributionType": "current-context",
         "speakText": "Low-orbit satellites are expanding internet access in some remote communities."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "remote village",
+        "cn": "偏远村庄"
+      },
+      {
+        "en": "remote access",
+        "cn": "远程访问"
       }
     ]
   },
@@ -1173,6 +1373,16 @@
         "attributionType": "current-context",
         "speakText": "Independent laboratories test company claims about the performance of new batteries."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "claim that",
+        "cn": "声称……"
+      },
+      {
+        "en": "insurance claim",
+        "cn": "保险索赔"
+      }
     ]
   },
   "d10-issue": {
@@ -1230,6 +1440,16 @@
         "translationCN": "疾病风险证据变化时，卫生机构会发布更新指南。",
         "attributionType": "current-context",
         "speakText": "Health agencies issue updated guidance when evidence about disease risks changes."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "major issue",
+        "cn": "重大问题"
+      },
+      {
+        "en": "issue a statement",
+        "cn": "发布声明"
       }
     ]
   },
@@ -1292,6 +1512,16 @@
         "attributionType": "current-context",
         "speakText": "Faster stations can charge many electric vehicles during a short stop."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "charge a fee",
+        "cn": "收取费用"
+      },
+      {
+        "en": "in charge of",
+        "cn": "负责"
+      }
     ]
   },
   "d10-concern": {
@@ -1353,6 +1583,16 @@
         "attributionType": "current-context",
         "speakText": "The spread of drug-resistant infections is a growing global concern."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "cause concern",
+        "cn": "引起担忧"
+      },
+      {
+        "en": "be concerned about",
+        "cn": "担心……"
+      }
     ]
   },
   "d10-figure": {
@@ -1410,6 +1650,16 @@
         "translationCN": "近年公众人物越来越多地标注网上分享的计算机生成图像。",
         "attributionType": "current-context",
         "speakText": "Public figures increasingly label computer-generated images shared online."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "official figures",
+        "cn": "官方数据"
+      },
+      {
+        "en": "public figure",
+        "cn": "公众人物"
       }
     ]
   },
@@ -1471,6 +1721,16 @@
         "attributionType": "current-context",
         "speakText": "Renewable energy accounts for a growing share of new electricity capacity."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "bank account",
+        "cn": "银行账户"
+      },
+      {
+        "en": "account for half",
+        "cn": "占一半"
+      }
     ]
   },
   "d10-address": {
@@ -1531,6 +1791,16 @@
         "attributionType": "current-context",
         "speakText": "Cities are planting shade trees to address rising urban heat."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "email address",
+        "cn": "电子邮件地址"
+      },
+      {
+        "en": "address a problem",
+        "cn": "处理问题"
+      }
     ]
   },
   "d10-approach": {
@@ -1590,6 +1860,16 @@
         "translationCN": "近年研究人员采用综合方法追踪气候风险与公共健康。",
         "attributionType": "current-context",
         "speakText": "Researchers use a combined approach to track climate risks and public health."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a new approach",
+        "cn": "一种新方法"
+      },
+      {
+        "en": "approach the problem",
+        "cn": "着手处理问题"
       }
     ]
   },
@@ -1652,6 +1932,16 @@
         "translationCN": "近年天文学家持续追踪每个已知的近地天体。",
         "attributionType": "current-context",
         "speakText": "Astronomers track every known object that passes close to Earth."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "physical object",
+        "cn": "实体物件"
+      },
+      {
+        "en": "object to the plan",
+        "cn": "反对该计划"
       }
     ]
   },
@@ -1719,6 +2009,16 @@
         "attributionType": "current-context",
         "speakText": "High-risk artificial intelligence is subject to stricter rules in several jurisdictions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "school subject",
+        "cn": "学校科目"
+      },
+      {
+        "en": "subject to change",
+        "cn": "可能发生变化"
+      }
     ]
   },
   "d10-conduct": {
@@ -1777,6 +2077,16 @@
         "translationCN": "近年国际团队利用卫星和飞机定期开展冰川调查。",
         "attributionType": "current-context",
         "speakText": "International teams conduct regular surveys of glaciers using satellites and aircraft."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "code of conduct",
+        "cn": "行为准则"
+      },
+      {
+        "en": "conduct research",
+        "cn": "开展研究"
       }
     ]
   },
@@ -1840,6 +2150,16 @@
         "attributionType": "current-context",
         "speakText": "Climate scientists present new observations at international assessment meetings."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "at present",
+        "cn": "目前"
+      },
+      {
+        "en": "present the findings",
+        "cn": "呈现研究结果"
+      }
     ]
   },
   "d10-content": {
@@ -1902,6 +2222,16 @@
         "attributionType": "current-context",
         "speakText": "Platforms increasingly label synthetic content created by generative artificial intelligence."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "course content",
+        "cn": "课程内容"
+      },
+      {
+        "en": "content with the result",
+        "cn": "对结果感到满意"
+      }
     ]
   },
   "d10-course": {
@@ -1951,6 +2281,16 @@
         "translationCN": "近年电池发展的进程正在改变交通与能源规划。",
         "attributionType": "current-context",
         "speakText": "The course of battery development is changing transport and energy planning."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "training course",
+        "cn": "培训课程"
+      },
+      {
+        "en": "course of action",
+        "cn": "行动方案"
       }
     ]
   },
@@ -2008,6 +2348,16 @@
         "attributionType": "current-context",
         "speakText": "Dark matter remains one of the largest unanswered questions in physics."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "a serious matter",
+        "cn": "一件严重的事情"
+      },
+      {
+        "en": "it matters",
+        "cn": "这很重要"
+      }
     ]
   },
   "d10-means": {
@@ -2058,6 +2408,16 @@
         "translationCN": "近年移动支付为许多农村市场提供了有用的交易手段。",
         "attributionType": "current-context",
         "speakText": "Mobile payments provide a useful means of exchange in many rural markets."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "means of transport",
+        "cn": "交通工具"
+      },
+      {
+        "en": "by all means",
+        "cn": "当然可以"
       }
     ]
   },
@@ -2118,6 +2478,16 @@
         "attributionType": "current-context",
         "speakText": "Cities are adopting measures to protect residents during extreme heat."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "measure progress",
+        "cn": "衡量进展"
+      },
+      {
+        "en": "safety measure",
+        "cn": "安全措施"
+      }
     ]
   },
   "d10-rate": {
@@ -2176,6 +2546,16 @@
         "attributionType": "current-context",
         "speakText": "The rate of electric-vehicle adoption differs widely between regions."
       }
+    ],
+    "collocationNotes": [
+      {
+        "en": "growth rate",
+        "cn": "增长率"
+      },
+      {
+        "en": "rate performance",
+        "cn": "评价表现"
+      }
     ]
   },
   "d10-range": {
@@ -2231,6 +2611,16 @@
         "translationCN": "近年的新型卫星服务支持从导航到灾害响应的多种用途。",
         "attributionType": "current-context",
         "speakText": "New satellite services support a range of uses from navigation to disaster response."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "wide range",
+        "cn": "范围广泛"
+      },
+      {
+        "en": "range from A to B",
+        "cn": "范围从 A 到 B"
       }
     ]
   },
@@ -2289,6 +2679,16 @@
         "translationCN": "近年“生成式人工智能”这一术语已进入日常讨论。",
         "attributionType": "current-context",
         "speakText": "The term generative artificial intelligence has entered everyday discussion."
+      }
+    ],
+    "collocationNotes": [
+      {
+        "en": "technical term",
+        "cn": "专业术语"
+      },
+      {
+        "en": "long-term plan",
+        "cn": "长期计划"
       }
     ]
   }

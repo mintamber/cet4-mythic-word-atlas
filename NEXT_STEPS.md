@@ -4,34 +4,29 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-Task 2 is complete on `feature/mythic-art-assets`: all 21 approved mythic assets now exist at their manifest paths — one homepage illustration, ten realm landscapes, and ten matching circular badges. Full-resolution PNG masters are retained; shipping payloads are optimized WebP files.
+Latest `main` is merged into `feature/mythic-art-assets`. The verified deep bilingual cards, 200 collocation sets, and exact two-voice TTS contract are preserved: only installed Samantha `en-US` and Eddy `en-GB` qualify. Task 2 art generation is also complete: all 21 manifest assets exist as PNG masters and optimized WebP payloads.
 
-### Changed
+### What is verified
 
-- Added the Day 9 Labyrinth of Echoes badge with a maze spiral, echo rings, and central blue flame.
-- Added the Day 10 Starry Academy badge with an academy arch, armillary sphere, and celestial chart.
-- Exported both badges at 768×768 WebP quality 88.
-- Preserved the shared mature navy/antique-gold Art Nouveau medallion system and small-size silhouette.
+- Voice selection, persistence, word/example playback separation, no autoplay, and responsive Voice Atelier passed automated and browser QA on `main`.
+- All 21 art assets pass `node tests/verify-art-assets.mjs`: one home illustration, ten landscapes, and ten circular badges.
+- Art paths remain relative and no application integration has been attempted yet.
 
-### Files touched
+### Files touched by synchronization
 
-- `assets/images/source/day09-echo-labyrinth-badge.png`
-- `assets/images/badges/day09-echo-labyrinth-badge.webp`
-- `assets/images/source/day10-academy-badge.png`
-- `assets/images/badges/day10-academy-badge.webp`
+- `index.html`
+- `README.md`
+- `tests/verify-runtime-contracts.mjs`
+- `tests/verify-ui-contract.mjs`
+- `tests/verify-tts-collocations.mjs`
 - `NEXT_STEPS.md`
-
-### Checks run
-
-- Built-in ImageGen output inspection for both badges: complete rims, clear scene symbols, no readable text/logos/watermarks.
-- `node tests/verify-art-assets.mjs` — PASS for all 21 source and shipping assets.
-- Shipping badges decode at 768×768; source masters decode at 1254×1254.
 
 ### Broken or incomplete
 
-- Artwork is not yet integrated into `index.html`.
-- The art branch still needs latest `main`, which contains the completed two-voice TTS/collocation work.
+- The generated artwork is not yet rendered by `index.html`.
+- README does not yet describe the required adjacent `assets/` runtime folder.
+- Integration assertions and final desktop/mobile browser verification remain.
 
 ## Exact next task
 
-Merge latest `main` into this worktree, resolve `NEXT_STEPS.md` by retaining both verified voice status and this completed asset status, then implement Task 3: map scene/background/badge paths, render the homepage art and realm badges, apply scene backgrounds with readability veils and graceful image fallbacks, and extend the integration verifier.
+Implement Task 3 against the synchronized application: add scene background/badge paths, render the homepage illustration and map badges, apply realm backgrounds with dark readability veils and graceful image fallbacks, extend `tests/verify-art-assets.mjs`, then commit the stable integration milestone. Do not broaden the Samantha `en-US` / Eddy `en-GB` allowlist.
