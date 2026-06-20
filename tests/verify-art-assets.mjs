@@ -389,4 +389,49 @@ for (const entry of entries) {
   }
 }
 
+const appHtml = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+for (const entry of entries) {
+  assert.ok(
+    appHtml.includes(entry.shipping),
+    `${entry.id}: shipping path must be referenced by index.html`,
+  );
+}
+
+const sceneEntries = entries.filter(({ role }) => role === 'scene');
+const badgeEntries = entries.filter(({ role }) => role === 'badge');
+for (let day = 1; day <= 10; day += 1) {
+  const sceneEntry = sceneEntries.find((entry) => entry.day === day);
+  const badgeEntry = badgeEntries.find((entry) => entry.day === day);
+  const sceneMapping = new RegExp(
+    `day:${day},[^\\n]+background:'${sceneEntry.shipping}'[^\\n]+badge:'${badgeEntry.shipping}'`,
+  );
+  assert.match(appHtml, sceneMapping, `day ${day}: scene metadata must map its background and badge`);
+}
+
+assert.equal(
+  new Set(sceneEntries.map(({ shipping }) => shipping)).size,
+  10,
+  'scene background mappings must be unique',
+);
+assert.equal(
+  new Set(badgeEntries.map(({ shipping }) => shipping)).size,
+  10,
+  'scene badge mappings must be unique',
+);
+assert.match(
+  appHtml,
+  /<img[^>]+class="[^"]*home-art[^"]*"[^>]+width="1672"[^>]+height="941"[^>]+alt=""[^>]*>/,
+  'homepage art must be a dimensioned decorative image with empty alt text',
+);
+assert.match(
+  appHtml,
+  /<img[^>]+class="[^"]*level-badge-art[^"]*"[^>]+loading="lazy"[^>]+width="768"[^>]+height="768"[^>]+alt=""[^>]*>/,
+  'map badges must be lazy, dimensioned decorative images with empty alt text',
+);
+assert.doesNotMatch(
+  appHtml,
+  /data:image\/(?:png|webp);base64,/i,
+  'generated raster assets must not be embedded as Base64 duplicates',
+);
+
 console.log('PASS mythic art asset manifest and files');
