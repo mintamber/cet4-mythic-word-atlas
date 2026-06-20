@@ -4,7 +4,7 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-Task 2C has a second stable partial milestone on branch `feature/mythic-art-assets`: the Day 8 Mermaid Harbor and Day 9 Labyrinth of Echoes landscapes are generated, visually accepted, archived as full-resolution PNG masters, and optimized as shipping WebP assets. Two attempts to generate the Day 8 badge reached the image service but ended in a temporary network error; no substitute or lower-quality badge was accepted.
+Task 2C has a third stable partial milestone on branch `feature/mythic-art-assets`: the Day 8 Mermaid Harbor scene/badge set and Day 9 Labyrinth of Echoes landscape are complete as full-resolution PNG masters and optimized shipping WebP assets. The reference-image endpoint remained unreliable, so the accepted Day 8 badge was generated from the same strict written art system without a reference attachment. Two subsequent Day 9 badge calls ended in temporary generation-service network errors.
 
 ### Changed
 
@@ -13,12 +13,15 @@ Task 2C has a second stable partial milestone on branch `feature/mythic-art-asse
 - Preserved the selected 1672x941 PNG master at its exact manifest source path and exported the scene at 1672x941 WebP quality 90.
 - Added the Day 9 Labyrinth of Echoes landscape: a monumental overhead stone maze, layered echo-wave rings,幽蓝 blue braziers, carved gold detail, and a calm dark center-lower landing.
 - Preserved the selected Day 9 1672x941 PNG master at its exact manifest source path and exported the scene at 1672x941 WebP quality 90.
-- Attempted the matching shell-lantern/wave/sail badge twice. Both calls failed with a temporary image-service network error, so no unreviewed placeholder was added.
+- Added the matching Day 8 shell-lantern/wave/sail circular medallion; retained its 1254x1254 PNG master and exported a 768x768 quality-88 WebP.
+- Attempted the Day 9 maze/echo-ring/blue-flame badge twice; both generation calls ended in a temporary service network error, so no unreviewed placeholder was added.
 
 ### Files touched
 
 - `assets/images/source/day08-mermaid-harbor.png`
 - `assets/images/scenes/day08-mermaid-harbor.webp`
+- `assets/images/source/day08-mermaid-harbor-badge.png`
+- `assets/images/badges/day08-mermaid-harbor-badge.webp`
 - `assets/images/source/day09-labyrinth-of-echoes.png`
 - `assets/images/scenes/day09-labyrinth-of-echoes.webp`
 - `NEXT_STEPS.md`
@@ -32,11 +35,11 @@ Task 2C has a second stable partial milestone on branch `feature/mythic-art-asse
 
 ### Broken or incomplete
 
-- The Day 8 Mermaid Harbor badge is still missing after two temporary image-service network failures.
-- The Day 9 Labyrinth of Echoes badge and both Day 10 Starry Academy assets are still missing.
+- The Day 9 Labyrinth of Echoes badge is still missing after two temporary generation-service network failures.
+- Both Day 10 Starry Academy assets are still missing.
 - No artwork is integrated into `index.html` yet; this branch intentionally remains isolated from active TTS/collocation implementation.
-- The complete 21-asset verifier remains RED until the Day 8–9 badges and Day 10 pair are generated and optimized.
+- The complete 21-asset verifier remains RED until the Day 9 badge and Day 10 pair are generated and optimized.
 
 ## Exact next task
 
-Resume Task 2C with the Day 8 shell-lantern/wave/sail and Day 9 maze-spiral/echo-ring/blue-flame circular badges once the image service is responsive; then generate and inspect the Day 10 Starry Academy scene/badge pair using the Day 1 anchors as strict system references. Save masters to exact manifest paths, export the scene at quality 90 and badges at 768x768 quality 88, then run `node tests/verify-art-assets.mjs` and make the full 21-asset verifier pass.
+Resume Task 2C with the Day 9 maze-spiral/echo-ring/blue-flame circular badge once the image service is responsive; then generate the Day 10 Starry Academy scene/badge pair. Save masters to exact manifest paths, export the scene at quality 90 and badges at 768x768 quality 88, then run one final `node tests/verify-art-assets.mjs` and make the full 21-asset verifier pass.
