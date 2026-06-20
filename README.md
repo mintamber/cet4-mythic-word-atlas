@@ -4,7 +4,7 @@ An offline-first, single-page vocabulary game for 200 high-value CET-4 words. It
 
 ## Run
 
-Double-click `index.html`, or open it with Safari, Chrome, or Edge. No install, build command, account, API key, CDN, or local server is required.
+Keep the `assets/` folder beside `index.html`, then double-click `index.html` or open it with Safari, Chrome, or Edge. No install, build command, account, API key, CDN, or local server is required. Relative image paths work directly from `file://`.
 
 For pronunciation, the app explicitly selects only an installed Samantha voice whose locale is exactly `en-US` or an installed Eddy voice whose locale is exactly `en-GB`, in that order; locale matching is case-sensitive, while localized suffixes in their system names are accepted. It never falls back to another English voice or an implicit browser voice. Open **Voice Atelier** from the gear button on a word card to choose between the eligible installed voices and adjust Rate, Pitch, and Volume. Voice, Rate, Pitch, and Volume are saved locally. Their defaults are Rate `0.86`, Pitch `1.02`, and Volume `1`.
 
@@ -22,13 +22,16 @@ Each word card places a bilingual collocation constellation directly below the h
 
 ## Content structure
 
-- `index.html` is the complete standalone app, including all 200 deep bilingual records and 600 examples.
+- `index.html` contains the complete application code and corpus, including all 200 deep bilingual records and 600 examples.
+- `assets/images/home/`, `assets/images/scenes/`, and `assets/images/badges/` contain the optimized WebP files used at runtime and must travel with `index.html`.
+- `assets/images/source/` contains full-resolution PNG editing masters. Normal app use does not load them.
+- `assets/images/manifest.json` is the authoritative 21-asset inventory.
 - `data/details.js` is an editable source mirror; the running app does not depend on it.
 - `data/fragments/` keeps editable source fragments grouped by Days.
 - `sources.md` documents the literary and recent-world example policy.
 - `tests/` contains corpus and UI contract checks.
 
-The source fragments are kept for maintainability, but `index.html` remains fully self-contained. It makes no network or API request.
+The source fragments and PNG masters are kept for maintainability. The app makes no network or API request; its only adjacent runtime dependency is the local `assets/` directory.
 
 ## Verify
 
@@ -42,6 +45,7 @@ node tests/verify-details.mjs
 node tests/verify-ui-contract.mjs
 node tests/verify-tts-collocations.mjs
 node tests/verify-runtime-contracts.mjs
+node tests/verify-art-assets.mjs
 ```
 
 Progress is browser-local. Clearing site data or changing browsers starts a fresh atlas.

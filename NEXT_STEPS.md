@@ -4,7 +4,7 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-Task 3 art integration is complete on `feature/mythic-art-assets`. The synchronized deep-card/TTS application now renders the homepage atlas illustration, ten unique realm landscapes, and ten matching map badges using relative local paths that work from `file://`. Existing procedural SVG, fog, starlight, and Canvas layers remain as graceful fallbacks and motion overlays.
+Task 3 art integration and runtime documentation are complete on `feature/mythic-art-assets`. The synchronized deep-card/TTS application now renders the homepage atlas illustration, ten unique realm landscapes, and ten matching map badges using relative local paths that work from `file://`. Existing procedural SVG, fog, starlight, and Canvas layers remain as graceful fallbacks and motion overlays.
 
 ### Changed
 
@@ -14,11 +14,13 @@ Task 3 art integration is complete on `feature/mythic-art-assets`. The synchroni
 - Applied each scene landscape to both its map node and learning banner while retaining CSS/SVG fallback art.
 - Added `onerror` hiding for decorative `<img>` assets; a failed CSS background still falls back to gradients and procedural scene art.
 - Extended the art verifier to require all shipping paths, exact day mappings, unique assets, accessible decorative markup, lazy badge loading, explicit dimensions, and no embedded Base64 raster duplicates.
+- Documented that `assets/` must remain beside `index.html`, identified shipping WebPs versus PNG masters, and added the art verifier to the README check list.
 
 ### Files touched
 
 - `index.html`
 - `tests/verify-art-assets.mjs`
+- `README.md`
 - `NEXT_STEPS.md`
 
 ### Checks run
@@ -32,10 +34,9 @@ Task 3 art integration is complete on `feature/mythic-art-assets`. The synchroni
 
 ### Broken or incomplete
 
-- README still needs the adjacent `assets/` runtime-folder documentation.
 - Final complete automated suite and one desktop/mobile browser pass remain.
 - Branch is not yet merged back to `main`.
 
 ## Exact next task
 
-Update README for the illustrated runtime, commit documentation, then run one final combined automated and browser verification at desktop and 390×844 mobile. Check homepage, map, all ten learning banners, broken-image fallback, console, and horizontal overflow. If green, merge this branch into `main` without changing the Samantha/Eddy voice allowlist.
+Run one final combined automated and browser verification at desktop and 390×844 mobile. Check homepage, map, all ten learning banners, broken-image fallback, console, and horizontal overflow. If green, merge this branch into `main` without changing the Samantha/Eddy voice allowlist.
