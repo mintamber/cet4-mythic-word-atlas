@@ -4,51 +4,35 @@ Updated: 2026-06-20
 
 ## Stable milestone
 
-Task 2B is complete on branch `feature/mythic-art-assets`: the Day 5 Mirror Castle, Day 6 Arabian Night Market, and Day 7 Glass Mountain scene/badge sets are generated, visually accepted, archived as full-resolution PNG masters, and optimized as shipping WebP assets.
+Task 2C has a stable partial milestone on branch `feature/mythic-art-assets`: the Day 8 Mermaid Harbor landscape is generated, visually accepted, archived as a full-resolution PNG master, and optimized as a shipping WebP asset. Two attempts to generate its matching badge reached the image service but ended in a temporary network error; no substitute or lower-quality badge was accepted.
 
 ### Changed
 
-- Added the Day 5 Mirror Castle scene with a dark UI-safe mirrored floor and its hand-mirror, rose, and silver-candle badge.
-- Added the Day 6 Arabian Night Market scene with a calm central stone path and its hanging-lamp, pointed-arch, crescent, and empty-carpet badge.
-- Rejected the first Day 6 badge because its carpet had a tiny rider; regenerated it with an explicitly empty carpet and accepted the corrected output.
-- Added the Day 7 Glass Mountain scene with monumental translucent dawn-lit peaks and its crystal-mountain/dawn-ray badge.
-- Preserved all six selected masters at their exact manifest source paths and exported the three scenes at 1672x941 WebP quality 90.
-- Applied the approved badge optimization to Days 1–7: all shipping badges are now 768x768 WebP quality 88, while all 1254x1254 PNG masters remain unchanged.
-- Badge shipping files are 112–162 KiB, below the 250 KiB target without visible small-display degradation.
+- Added the Day 8 Mermaid Harbor landscape: a moonlit collector-grade harbor framed by elegant sails, shell lamps, pearl-like stonework, teal tides, and sea mist.
+- Kept the detailed ships and ornament in the outer thirds and preserved a calm dark center-lower landing area for learning-card UI.
+- Preserved the selected 1672x941 PNG master at its exact manifest source path and exported the scene at 1672x941 WebP quality 90.
+- Attempted the matching shell-lantern/wave/sail badge twice. Both calls failed with a temporary image-service network error, so no unreviewed placeholder was added.
 
 ### Files touched
 
-- `assets/images/source/day05-mirror-castle.png`
-- `assets/images/source/day05-mirror-badge.png`
-- `assets/images/source/day06-arabian-night-market.png`
-- `assets/images/source/day06-night-market-badge.png`
-- `assets/images/source/day07-glass-mountain.png`
-- `assets/images/source/day07-glass-mountain-badge.png`
-- `assets/images/scenes/day05-mirror-castle.webp`
-- `assets/images/scenes/day06-arabian-night-market.webp`
-- `assets/images/scenes/day07-glass-mountain.webp`
-- `assets/images/badges/day01-oracle-badge.webp`
-- `assets/images/badges/day02-library-badge.webp`
-- `assets/images/badges/day03-snow-gate-badge.webp`
-- `assets/images/badges/day04-dragon-badge.webp`
-- `assets/images/badges/day05-mirror-badge.webp`
-- `assets/images/badges/day06-night-market-badge.webp`
-- `assets/images/badges/day07-glass-mountain-badge.webp`
+- `assets/images/source/day08-mermaid-harbor.png`
+- `assets/images/scenes/day08-mermaid-harbor.webp`
 - `NEXT_STEPS.md`
 
 ### Checks run
 
-- Used `view_image` at original detail for all six selected Day 5–7 PNG masters; checked scene identity, mature Art Nouveau RPG consistency, center-lower UI negative space, badge silhouettes, coherent materials, and absence of text/logos/watermarks.
-- Pillow fully decoded every present PNG and WebP asset. Day 5–7 sources are 1672x941 scenes or 1254x1254 badges; shipping scenes retain 1672x941 and shipping badges are exactly 768x768.
-- `node tests/verify-art-assets.mjs` — every present source/shipping pair through Day 7 decodes and meets the manifest dimension/aspect contract; expected RED advances to `assets/images/source/day08-mermaid-harbor.png: missing`.
+- Used `view_image` at original detail for the selected Day 8 PNG master; checked scene identity, mature Art Nouveau RPG consistency, center-lower UI negative space, coherent materials, and absence of text/logos/watermarks.
+- Pillow fully decoded the Day 8 1672x941 PNG master and exported its 1672x941 WebP at quality 90.
+- `node tests/verify-art-assets.mjs` — every present source/shipping pair through the Day 8 scene decodes and meets the manifest dimension/aspect contract; expected RED advances to `assets/images/source/day09-labyrinth-of-echoes.png: missing` because manifest ordering checks scenes before badges.
 - `git diff --stat` and `git status --short` reviewed before commit; no `index.html` or TTS/collocation files were touched.
 
 ### Broken or incomplete
 
-- Day 8 Mermaid Harbor through Day 10 Starry Academy source and shipping assets are still missing.
+- The Day 8 Mermaid Harbor badge is still missing after two temporary image-service network failures.
+- Day 9 Labyrinth of Echoes and Day 10 Starry Academy source and shipping assets are still missing.
 - No artwork is integrated into `index.html` yet; this branch intentionally remains isolated from active TTS/collocation implementation.
-- The complete 21-asset verifier remains RED until Days 8–10 are generated and optimized.
+- The complete 21-asset verifier remains RED until the Day 8 badge and Days 9–10 are generated and optimized.
 
 ## Exact next task
 
-Task 2C: generate and visually inspect the Day 8 Mermaid Harbor, Day 9 Labyrinth of Echoes, and Day 10 Starry Academy landscape scenes and matching circular badges using the Day 1 anchors as strict system references; save the six PNG masters to their exact manifest source paths; export scenes at quality 90 and badges at 768x768 quality 88; run `node tests/verify-art-assets.mjs` and make the full 21-asset verifier pass.
+Resume Task 2C with the Day 8 shell-lantern/wave/sail circular badge once the image service is responsive; then generate and visually inspect the Day 9 Labyrinth of Echoes and Day 10 Starry Academy scene/badge pairs using the Day 1 anchors as strict system references. Save masters to exact manifest paths, export scenes at quality 90 and badges at 768x768 quality 88, then run `node tests/verify-art-assets.mjs` and make the full 21-asset verifier pass.
