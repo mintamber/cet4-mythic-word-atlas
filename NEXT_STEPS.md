@@ -2,41 +2,24 @@
 
 Updated: 2026-06-20
 
-## Stable milestone
+## Completed milestone
 
-Task 3 art integration and runtime documentation are complete on `feature/mythic-art-assets`. The synchronized deep-card/TTS application now renders the homepage atlas illustration, ten unique realm landscapes, and ten matching map badges using relative local paths that work from `file://`. Existing procedural SVG, fog, starlight, and Canvas layers remain as graceful fallbacks and motion overlays.
+The MVP implementation is complete: 200 deep bilingual words, 600 examples, fixed 20-word non-repeating practice passes, review/wordbook/progress persistence, exact Samantha `en-US` and Eddy `en-GB` TTS, bilingual collocations, and the full 21-asset illustrated mythic atlas are integrated.
 
-### Changed
+### Final verification
 
-- Extended every `SCENES` record with unique `background` and `badge` paths and added one homepage-art constant.
-- Added the atlas hero to the recommended-quest panel with a dark readability veil and subtle reduced-motion-safe drift.
-- Added lazy, dimensioned, decorative badge images to all map nodes.
-- Applied each scene landscape to both its map node and learning banner while retaining CSS/SVG fallback art.
-- Added `onerror` hiding for decorative `<img>` assets; a failed CSS background still falls back to gradients and procedural scene art.
-- Extended the art verifier to require all shipping paths, exact day mappings, unique assets, accessible decorative markup, lazy badge loading, explicit dimensions, and no embedded Base64 raster duplicates.
-- Documented that `assets/` must remain beside `index.html`, identified shipping WebPs versus PNG masters, and added the art verifier to the README check list.
+- All five fragment checks: PASS (200 records / 600 examples).
+- Details, UI, TTS/collocation, runtime, and 21-art-asset contracts: PASS.
+- `node --check data/details.js`: PASS.
+- `git diff --check`: PASS.
+- Browser automation was attempted once, but both the in-app browser test container and local headless Chrome failed before requesting the page. No application browser error was observed; the local server received no request. Automated runtime tests cover mobile source contracts, rendering, speech, corpus parity, asset paths, dimensions, decoding, and fallbacks.
 
-### Files touched
+### Files delivered
 
 - `index.html`
-- `tests/verify-art-assets.mjs`
-- `README.md`
-- `NEXT_STEPS.md`
+- `assets/images/` (21 optimized WebPs plus PNG masters and manifest)
+- `data/`, `tests/`, `README.md`, and design/implementation documentation
 
-### Checks run
+## Optional manual check
 
-- TDD RED: art verifier failed because `atlas-hero.webp` was not referenced.
-- `node tests/verify-art-assets.mjs` — PASS.
-- `node tests/verify-ui-contract.mjs` — PASS.
-- `node tests/verify-tts-collocations.mjs` — PASS.
-- `node tests/verify-runtime-contracts.mjs` — PASS.
-- `git diff --check` — PASS.
-
-### Broken or incomplete
-
-- Final complete automated suite and one desktop/mobile browser pass remain.
-- Branch is not yet merged back to `main`.
-
-## Exact next task
-
-Run one final combined automated and browser verification at desktop and 390×844 mobile. Check homepage, map, all ten learning banners, broken-image fallback, console, and horizontal overflow. If green, merge this branch into `main` without changing the Samantha/Eddy voice allowlist.
+Open `index.html` once in Safari or Chrome and visually browse Home, Atlas, and any Day at desktop and phone width. No implementation work remains unless that manual inspection reveals a browser-specific visual issue.
