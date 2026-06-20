@@ -10,6 +10,7 @@ assert.equal(scripts.length, 2, 'standalone page must contain exactly two inline
 
 function makeRuntime({ voices = [], savedState = {} } = {}) {
   const events = [];
+  const handlers = {};
   const toast = { textContent: '', classList: { add() {}, remove() {} } };
   const view = { innerHTML: '' };
   const document = {
@@ -21,7 +22,7 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
       return null;
     },
     querySelectorAll() { return []; },
-    addEventListener() {},
+    addEventListener(type, handler) { handlers[type] = handler; },
     createElement() { return { className: '', innerHTML: '', remove() {} }; }
   };
   const localStorage = {
@@ -68,7 +69,7 @@ function makeRuntime({ voices = [], savedState = {} } = {}) {
   vm.createContext(sandbox);
   vm.runInContext(detailsSource, sandbox, { filename: 'details.js' });
   vm.runInContext(scripts[1], sandbox, { filename: 'atlas-app.js' });
-  return { api: sandbox.__ATLAS_TEST__, events, toast, localStorage };
+  return { api: sandbox.__ATLAS_TEST__, events, handlers, toast, localStorage };
 }
 
 const preferred = { name: 'Google US English', lang: 'en-US', voiceURI: 'google-us', localService: false };
@@ -81,6 +82,13 @@ const runtime = makeRuntime({
 });
 
 assert.equal(runtime.events.filter(event => event.type === 'speak').length, 0, 'initialization must never autoplay');
+
+runtime.api.getUI().speechOpen = true;
+runtime.handlers.click({ target: { closest: () => ({ dataset: {}, hasAttribute: name => name === 'data-close-speech-settings' }) } });
+assert.equal(runtime.api.getUI().speechOpen, false, 'close control must dismiss speech settings');
+runtime.api.getUI().speechOpen = true;
+runtime.handlers.keydown({ key: 'Escape', target: { matches: () => false } });
+assert.equal(runtime.api.getUI().speechOpen, false, 'Escape must dismiss speech settings');
 assert.deepEqual(
   Array.from(runtime.api.rankEnglishVoices([generic, nonEnglish, british, preferred]), voice => voice.voiceURI),
   ['google-us', 'enhanced-us', 'plain-gb'],
