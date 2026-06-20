@@ -1,14 +1,15 @@
 # Two-Voice TTS Handoff
 
-## Stable state
+## Verified voice milestone
 
 - Branch: `feature/voice-two-options`
-- Speech voice eligibility is limited to installed Samantha `en-US` and Eddy `en-GB` voices, in that order.
+- Speech voice eligibility is limited to installed Samantha `en-US` and Eddy `en-GB` voices, in that order, using exact case-sensitive locale strings.
 - Remaining issue: the art work remains on a separate branch and is intentionally outside this voice milestone.
 
 ## What changed
 
 - Replaced the broad English-voice ranking with an exact two-pair allowlist while retaining case-insensitive substring name matching for localized system suffixes.
+- Rejected locale case variants and underscore variants; only literal `en-US` and `en-GB` values qualify.
 - Excluded Samantha in non-US locales, Eddy in non-UK locales, and all other English voices.
 - Preserved explicit voice assignment, the existing unavailable-voice prompt, no autoplay, and unchanged Rate/Pitch/Volume and word/example payload behavior.
 - Invalid saved voice URIs are replaced and persisted with the first installed eligible voice; valid eligible URIs remain usable.
@@ -29,7 +30,7 @@
 - `node tests/verify-details.mjs`: PASS.
 - `node tests/verify-ui-contract.mjs`: PASS.
 - `node tests/verify-tts-collocations.mjs`: PASS.
-- `node tests/verify-runtime-contracts.mjs`: PASS, including corpus parity.
+- `node tests/verify-runtime-contracts.mjs`: PASS, including exact-locale rejection, Samantha-only, Eddy-only, saved Eddy, all-ineligible fallback/selector, and corpus parity.
 - `node --check data/details.js`: PASS.
 - Both inline scripts parse: PASS.
 - `git diff --check`: PASS.
